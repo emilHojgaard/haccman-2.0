@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import bots from "../content/bots.json";
 import tasks from "../content/tasks.json";
@@ -9,17 +10,30 @@ export default function ChooseBotPage() {
   const navigate = useNavigate();
   const selectBot = useGameStore((s) => s.selectBot);
   const setSession = useGameStore((s) => s.setSession);
+  const [error, setError] = useState("");
 
   async function handlePick(bot) {
-    const task = tasks.find((t) => t.botId === bot.id);
-    selectBot(bot.id, task.id);
-    const session = await startSession(bot.id);
-    setSession(session.id);
-    navigate("/play");
+    setError("");
+    try {
+      const task = tasks.find((t) => t.botId === bot.id);
+      selectBot(bot.id, task.id);
+      const session = await startSession(bot.id);
+      setSession(session.id);
+      navigate("/play");
+    } catch (e) {
+      console.error("Failed to start session:", e);
+      setError(e.message || "Failed to start session");
+    }
   }
 
   return (
-    <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(160px, 1fr))", gap: 16 }}>
+    <div>
+      {error && (
+        <div className="terminal-error" style={{ marginBottom: 16, fontFamily: "var(--hc-font-mono)" }}>
+          {error}
+        </div>
+      )}
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(160px, 1fr))", gap: 16 }}>
       {bots.map((bot) => (
         <button
           key={bot.id}
@@ -42,6 +56,7 @@ export default function ChooseBotPage() {
           </div>
         </button>
       ))}
+      </div>
     </div>
   );
 }
