@@ -36,7 +36,10 @@ export function useOnboarding() {
       } else {
         setStage("form");
       }
-    })().catch((e) => setError(e.message || "Load failed"));
+    })().catch((e) => {
+      console.warn("Onboarding load failed (is Supabase configured?):", e.message);
+      if (!stale) setStage("form");
+    });
     return () => { stale = true; };
   }, []);
 
