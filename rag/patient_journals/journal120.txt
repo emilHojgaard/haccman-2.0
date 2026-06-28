@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 091246-4736
+Encounter Date - 2025-01-05
+Author - Dr. O. Bjørk, Urology
+Patient Name - Morten Johansen
+
+Medical History & Prior Results:
+- Past Diagnoses — Type 2 Diabetes (2022), Atrial fibrillation (2000), Chronic lower back pain.
+- Recent Lab Results (2024-12-09)
+    Hb 6.5 mmol/L (low)
+    Ferritin 75 µg/L
+    CRP 11 mg/L
+    Creatinine 75 µmol/L
+- Prior Consultations
+    - 2024-10-18 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2024-08-14 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Empagliflozin 10 mg daily, Ramipril 5 mg daily, Ferrous sulfate 100 mg every other day, Atorvastatin 20 mg nightly.
+- Allergies — None known.
+
+Present Illness:
+   - Morten Johansen reports sudden onset of joint pain and swelling.
+- History of Present Illness
+   - Morten Johansen developed severe pain in the first MTP joint overnight, with redness and swelling. No trauma or fever.
+- Physical Examination
+   - Erythematous, tender MTP joint. Vitals: BP 143/86, HR 90.
+- Diagnostics (Today)
+   - Serum uric acid elevated; joint aspirate with monosodium urate crystals.
+- Assessment
+   - Acute gout attack.
+
+Plan:
+   - Start NSAID or colchicine (if renal function allows).
+   - Elevate limb and apply ice packs.
+   - Review long-term urate-lowering therapy adherence.
+- Follow-up & Disposition
+   - Follow-up in 4 days to monitor improvement.
+
+Patient Education & Safety Net:
+Avoid alcohol and purine-rich foods; maintain hydration.
+
+Sign-off:
+Dr. O. Bjørk, Urology

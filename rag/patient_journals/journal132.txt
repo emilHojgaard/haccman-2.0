@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 261075-6311
+Encounter Date - 2024-08-07
+Author - Dr. S. Gram, Hematology
+Patient Name - Brian Bjørk
+
+Medical History & Prior Results:
+- Past Diagnoses — Gallstones (1989), Osteoporosis (1997).
+- Recent Lab Results (2024-06-09)
+    Hb 7.2 mmol/L (low)
+    Ferritin 142 µg/L
+    CRP 20 mg/L
+    Creatinine 86 µmol/L
+- Prior Consultations
+    - 2024-04-16 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-05-12 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Atorvastatin 20 mg nightly, Bisoprolol 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Brian Bjørk reports epigastric pain and indigestion.
+- History of Present Illness
+   - Brian Bjørk has burning upper abdominal pain related to meals. Uses NSAIDs intermittently; no hematemesis.
+- Physical Examination
+   - Epigastric tenderness, no guarding. Vitals: BP 152/89, HR 96.
+- Diagnostics (Today)
+   - Suspected gastritis/ulcer; H. pylori test ordered.
+- Assessment
+   - Peptic ulcer disease, likely NSAID-related.
+
+Plan:
+   - Stop NSAIDs; start PPI (e.g., pantoprazole 40 mg daily).
+   - If positive, treat H. pylori.
+   - Advise small, frequent meals and limit alcohol/caffeine.
+- Follow-up & Disposition
+   - Reassess in 6 weeks; consider endoscopy if persistent.
+
+Patient Education & Safety Net:
+Explain risk factors and warning signs of bleeding.
+
+Sign-off:
+Dr. S. Gram, Hematology

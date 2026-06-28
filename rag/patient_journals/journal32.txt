@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 101272-0122
+Encounter Date - 2024-06-10
+Author - Dr. L. Holm, Cardiology
+Patient Name - Sebastian Holm
+
+Medical History & Prior Results:
+- Past Diagnoses — Gout (2003), Dyslipidemia (1983), Migraine (2013).
+- Recent Lab Results (2024-05-21)
+    Hb 7.2 mmol/L (low)
+    Ferritin 8 µg/L (low)
+    CRP 10 mg/L
+    Creatinine 75 µmol/L
+- Prior Consultations
+    - 2023-10-19 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-06-02 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Lisinopril 10 mg daily, Ferrous sulfate 100 mg every other day.
+- Allergies — None known.
+
+Present Illness:
+   - Sebastian Holm reports constant worry, muscle tension, and poor sleep.
+- History of Present Illness
+   - Sebastian Holm describes months of excessive anxiety difficult to control, with restlessness and fatigue. Denies panic attacks or substance misuse.
+- Physical Examination
+   - Anxious affect, fidgeting. HR 83 bpm, BP 104/90 mmHg. No tremor or thyrotoxicosis signs.
+- Diagnostics (Today)
+   - Persistent anxiety with somatic tension; exclude thyroid and cardiac causes.
+- Assessment
+   - Generalized anxiety disorder.
+
+Plan:
+   - Begin CBT-focused therapy; consider SSRI or SNRI if persistent.
+   - Teach breathing and relaxation exercises.
+   - Avoid benzodiazepines long term.
+- Follow-up & Disposition
+   - Review in 6 weeks to monitor response.
+
+Patient Education & Safety Net:
+Explain nature of chronic anxiety and coping tools. Encourage sleep hygiene and regular exercise.
+
+Sign-off:
+Dr. L. Holm, Cardiology

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 060365-1536
+Encounter Date - 2024-10-08
+Author - Dr. S. Nielsen, Pulmonology
+Patient Name - Lars Christensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Gallstones (2020), Peptic ulcer disease (2019).
+- Recent Lab Results (2024-08-31)
+    Hb 7.7 mmol/L
+    Ferritin 25 µg/L
+    CRP 10 mg/L
+    Creatinine 67 µmol/L
+- Prior Consultations
+    - 2024-02-21 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2024-09-11 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Metformin 500 mg BID, Amlodipine 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Lars Christensen presents with throbbing unilateral headache and nausea.
+- History of Present Illness
+   - Lars Christensen reports recurrent headaches lasting 8 hours, aggravated by light and noise. No focal neurological deficits.
+- Physical Examination
+   - Normal neuro exam. BP 128/63, HR 117.
+- Diagnostics (Today)
+   - Clinical diagnosis of migraine; exclude secondary causes if atypical.
+- Assessment
+   - Migraine without aura.
+
+Plan:
+   - Administer triptan and antiemetic as needed.
+   - Avoid triggers, maintain hydration and regular sleep.
+   - Consider prophylactic therapy if frequent attacks.
+- Follow-up & Disposition
+   - Follow-up in 6 weeks for frequency reassessment.
+
+Patient Education & Safety Net:
+Discuss trigger identification and medication overuse prevention.
+
+Sign-off:
+Dr. S. Nielsen, Pulmonology

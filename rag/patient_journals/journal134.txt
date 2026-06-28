@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 270246-9348
+Encounter Date - 2024-05-08
+Author - Dr. M. Petersen, Gastroenterology
+Patient Name - Julie Kristensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Irritable bowel syndrome (1984), Anxiety (1988), Chronic lower back pain.
+- Recent Lab Results (2024-04-19)
+    Hb 6.8 mmol/L (low)
+    Ferritin 74 µg/L
+    CRP 5 mg/L
+    Creatinine 83 µmol/L
+- Prior Consultations
+    - 2024-04-25 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2024-02-11 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Ramipril 5 mg daily, Lisinopril 10 mg daily, Pantoprazole 40 mg daily.
+- Allergies — ACE inhibitors (cough).
+
+Present Illness:
+   - Julie Kristensen reports sore throat, cough, and mild fever.
+- History of Present Illness
+   - Julie Kristensen developed nasal congestion and cough 2 days ago. No dyspnea or chest pain.
+- Physical Examination
+   - T 38.0 °C, mild pharyngeal erythema, lungs clear.
+- Diagnostics (Today)
+   - Clinical diagnosis of viral upper respiratory tract infection.
+- Assessment
+   - Viral URI.
+
+Plan:
+   - Supportive care: rest, fluids, paracetamol for fever.
+   - Avoid unnecessary antibiotics.
+   - Educate on hygiene and infection control.
+- Follow-up & Disposition
+   - Follow-up only if symptoms persist beyond 8 days.
+
+Patient Education & Safety Net:
+Reassure benign course; return if high fever or worsening.
+
+Sign-off:
+Dr. M. Petersen, Gastroenterology

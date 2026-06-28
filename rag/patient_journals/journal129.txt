@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 120373-8585
+Encounter Date - 2024-02-22
+Author - Dr. O. Bjørk, Urology
+Patient Name - Jonas Sørensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Migraine (1988), Iron Deficiency (2017), Heart failure (HFpEF) (2006), GERD (2020), Chronic lower back pain.
+- Recent Lab Results (2024-02-11)
+    Hb 7.5 mmol/L
+    Ferritin 56 µg/L
+    CRP 23 mg/L
+    Creatinine 61 µmol/L
+- Prior Consultations
+    - 2024-02-08 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2023-10-16 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Ramipril 5 mg daily, Bisoprolol 5 mg daily, Furosemide 40 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Jonas Sørensen reports sudden onset of joint pain and swelling.
+- History of Present Illness
+   - Jonas Sørensen developed severe pain in the first MTP joint overnight, with redness and swelling. No trauma or fever.
+- Physical Examination
+   - Erythematous, tender MTP joint. Vitals: BP 163/67, HR 96.
+- Diagnostics (Today)
+   - Serum uric acid elevated; joint aspirate with monosodium urate crystals.
+- Assessment
+   - Acute gout attack.
+
+Plan:
+   - Start NSAID or colchicine (if renal function allows).
+   - Elevate limb and apply ice packs.
+   - Review long-term urate-lowering therapy adherence.
+- Follow-up & Disposition
+   - Follow-up in 3 days to monitor improvement.
+
+Patient Education & Safety Net:
+Avoid alcohol and purine-rich foods; maintain hydration.
+
+Sign-off:
+Dr. O. Bjørk, Urology

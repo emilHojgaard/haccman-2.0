@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 050463-2979
+Encounter Date - 2025-03-01
+Author - Dr. M. Petersen, Gastroenterology
+Patient Name - Søren Pedersen
+
+Medical History & Prior Results:
+- Past Diagnoses — Irritable bowel syndrome (2009), Depression (1981), Osteoporosis (1985), Chronic lower back pain.
+- Recent Lab Results (2025-02-22)
+    Hb 7.4 mmol/L (low)
+    Ferritin 51 µg/L
+    CRP 12 mg/L
+    Creatinine 68 µmol/L
+- Prior Consultations
+    - 2025-02-27 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-10-19 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Furosemide 40 mg daily, Empagliflozin 10 mg daily.
+- Allergies — ACE inhibitors (cough).
+
+Present Illness:
+   - Søren Pedersen complains of increased cough, sputum, and breathlessness.
+- History of Present Illness
+   - Søren Pedersen reports 3 days of worsening cough with purulent sputum and wheeze. No fever or chest pain.
+- Physical Examination
+   - RR 16/min, SpO₂ 97%. Wheezes and prolonged expiration on auscultation.
+- Diagnostics (Today)
+   - Likely infective COPD exacerbation; sputum culture if severe.
+- Assessment
+   - COPD exacerbation, mild to moderate.
+
+Plan:
+   - Increase bronchodilator frequency.
+   - Start oral corticosteroid and consider antibiotic if purulent.
+   - Ensure inhaler technique and smoking cessation advice.
+- Follow-up & Disposition
+   - Review in 4 weeks post-treatment.
+
+Patient Education & Safety Net:
+Discuss exacerbation action plan and vaccination importance.
+
+Sign-off:
+Dr. M. Petersen, Gastroenterology

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 030362-2141
+Encounter Date - 2023-03-06
+Author - Dr. J. Knudsen, ENT
+Patient Name - Emil Dam
+
+Medical History & Prior Results:
+- Past Diagnoses — GERD (1984), Anxiety (2011), Type 2 Diabetes (2020), Chronic lower back pain.
+- Recent Lab Results (2023-01-04)
+    Hb 6.8 mmol/L (low)
+    Ferritin 85 µg/L
+    CRP 23 mg/L
+    Creatinine 94 µmol/L
+- Prior Consultations
+    - 2023-01-29 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2022-12-04 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Metformin 500 mg BID, Furosemide 40 mg daily, Ramipril 5 mg daily, Lisinopril 10 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Emil Dam reports nightmares, flashbacks, and hypervigilance.
+- History of Present Illness
+   - Emil Dam experienced a traumatic event 10 months ago and now has intrusive memories, sleep disturbance, and avoidance of reminders.
+- Physical Examination
+   - Alert, tense, occasional tearfulness. Startles easily. Vitals: BP 160/81, HR 112 bpm.
+- Diagnostics (Today)
+   - Symptoms meet criteria for PTSD; rule out concurrent depression or substance misuse.
+- Assessment
+   - Post-traumatic stress disorder.
+
+Plan:
+   - Refer for trauma-focused CBT or EMDR.
+   - Avoid routine benzodiazepine use.
+   - Consider SSRI if comorbid depression or anxiety.
+- Follow-up & Disposition
+   - Follow-up in 5 weeks to review therapy engagement.
+
+Patient Education & Safety Net:
+Discuss trauma response normalization and coping strategies. Encourage gradual exposure and social support.
+
+Sign-off:
+Dr. J. Knudsen, ENT

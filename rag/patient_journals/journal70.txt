@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 120103-9321
+Encounter Date - 2023-10-26
+Author - Dr. P. Jensen, Psychiatry
+Patient Name - Tina Bjørk
+
+Medical History & Prior Results:
+- Past Diagnoses — Osteoarthritis (2019), Iron Deficiency (2022).
+- Recent Lab Results (2023-10-22)
+    Hb 7.0 mmol/L (low)
+    Ferritin 97 µg/L
+    CRP 18 mg/L
+    Creatinine 62 µmol/L
+- Prior Consultations
+    - 2023-01-22 — Routine check-up — stable BP, mild anemia noted.
+    - 2023-08-15 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Empagliflozin 10 mg daily, Amlodipine 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Tina Bjørk reports epigastric pain and indigestion.
+- History of Present Illness
+   - Tina Bjørk has burning upper abdominal pain related to meals. Uses NSAIDs intermittently; no hematemesis.
+- Physical Examination
+   - Epigastric tenderness, no guarding. Vitals: BP 145/58, HR 108.
+- Diagnostics (Today)
+   - Suspected gastritis/ulcer; H. pylori test ordered.
+- Assessment
+   - Peptic ulcer disease, likely NSAID-related.
+
+Plan:
+   - Stop NSAIDs; start PPI (e.g., pantoprazole 40 mg daily).
+   - If positive, treat H. pylori.
+   - Advise small, frequent meals and limit alcohol/caffeine.
+- Follow-up & Disposition
+   - Reassess in 5 weeks; consider endoscopy if persistent.
+
+Patient Education & Safety Net:
+Explain risk factors and warning signs of bleeding.
+
+Sign-off:
+Dr. P. Jensen, Psychiatry

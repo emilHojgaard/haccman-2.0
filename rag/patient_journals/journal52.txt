@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 160178-2755
+Encounter Date - 2024-04-02
+Author - Dr. L. Holm, Cardiology
+Patient Name - Mette Poulsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Dyslipidemia (2006), Psoriasis (2022), Chronic lower back pain.
+- Recent Lab Results (2024-03-04)
+    Hb 6.7 mmol/L (low)
+    Ferritin 26 µg/L
+    CRP 1 mg/L
+    Creatinine 87 µmol/L
+- Prior Consultations
+    - 2023-10-26 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2023-12-30 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Pantoprazole 40 mg daily, Lisinopril 10 mg daily, Ferrous sulfate 100 mg every other day.
+- Allergies — None known.
+
+Present Illness:
+   - Mette Poulsen reports dysuria, frequency, and suprapubic discomfort.
+- History of Present Illness
+   - Mette Poulsen developed burning on urination for 3 days. No flank pain or fever.
+- Physical Examination
+   - Afebrile (36.0 °C), suprapubic tenderness. No costovertebral angle tenderness.
+- Diagnostics (Today)
+   - Urinalysis positive for nitrites and leukocytes.
+- Assessment
+   - Uncomplicated lower urinary tract infection.
+
+Plan:
+   - Start short course of oral antibiotic per protocol.
+   - Encourage fluid intake.
+   - Review symptoms resolution.
+- Follow-up & Disposition
+   - Follow-up if symptoms persist beyond 3 days.
+
+Patient Education & Safety Net:
+Advise to complete antibiotics and monitor for fever or flank pain.
+
+Sign-off:
+Dr. L. Holm, Cardiology

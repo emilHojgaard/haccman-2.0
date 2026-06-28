@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 230275-0776
+Encounter Date - 2023-10-30
+Author - Dr. V. Laursen, Nephrology
+Patient Name - Maja Jensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Iron Deficiency (1999), Peptic ulcer disease (2019), Osteoporosis (1998).
+- Recent Lab Results (2023-09-29)
+    Hb 8.0 mmol/L
+    Ferritin 138 µg/L
+    CRP 23 mg/L
+    Creatinine 81 µmol/L
+- Prior Consultations
+    - 2023-01-04 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2023-04-20 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Ramipril 5 mg daily, Pantoprazole 40 mg daily, Ferrous sulfate 100 mg every other day.
+- Allergies — None known.
+
+Present Illness:
+   - Maja Jensen reports fatigue, reduced exercise tolerance, and occasional lightheadedness.
+- History of Present Illness
+   - Maja Jensen notes weeks of progressive tiredness and exertional dyspnea. Diet is low in iron-rich foods; denies obvious bleeding but reports intermittent dyspepsia with NSAID use. No black stools observed at home.
+- Physical Examination
+   - Pale conjunctivae; soft systolic flow murmur; no focal deficits. Vitals stable (BP 101/91 mmHg, HR 64 bpm). Abdomen soft, non-tender.
+- Diagnostics (Today)
+   - Hb low with microcytosis, low ferritin, and reduced transferrin saturation. Stool testing and GI evaluation considered if no dietary cause identified.
+- Assessment
+   - Microcytic anemia most consistent with iron deficiency; source evaluation warranted (dietary vs occult GI blood loss).
+
+Plan:
+   - Start oral iron with vitamin C; discuss GI side effects and adherence strategies (alternate-day dosing if needed).
+   - Review NSAID exposure and consider gastroprotection or alternatives.
+   - Arrange GI work-up if poor response or red flags emerge (e.g., melena, weight loss).
+- Follow-up & Disposition
+   - Recheck Hb and ferritin in 6 weeks; earlier review if symptoms worsen.
+
+Patient Education & Safety Net:
+Explain expected timeline for symptom improvement and iron store repletion. Advise on iron-rich foods and to seek care for black stools, severe dizziness, or chest pain.
+
+Sign-off:
+Dr. V. Laursen, Nephrology

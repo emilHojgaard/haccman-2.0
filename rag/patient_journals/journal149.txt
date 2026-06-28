@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 061050-2269
+Encounter Date - 2025-03-14
+Author - Dr. S. Gram, Hematology
+Patient Name - Camilla Dam
+
+Medical History & Prior Results:
+- Past Diagnoses — Heart failure (HFrEF) (2000), COPD (1988), Atrial fibrillation (2002).
+- Recent Lab Results (2025-01-29)
+    Hb 7.8 mmol/L
+    Ferritin 71 µg/L
+    CRP 7 mg/L
+    Creatinine 101 µmol/L
+- Prior Consultations
+    - 2024-11-15 — Routine check-up — stable BP, mild anemia noted.
+    - 2025-01-19 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Pantoprazole 40 mg daily, Lisinopril 10 mg daily, Ramipril 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Camilla Dam reports fatigue, reduced exercise tolerance, and occasional lightheadedness.
+- History of Present Illness
+   - Camilla Dam notes weeks of progressive tiredness and exertional dyspnea. Diet is low in iron-rich foods; denies obvious bleeding but reports intermittent dyspepsia with NSAID use. No black stools observed at home.
+- Physical Examination
+   - Pale conjunctivae; soft systolic flow murmur; no focal deficits. Vitals stable (BP 162/82 mmHg, HR 81 bpm). Abdomen soft, non-tender.
+- Diagnostics (Today)
+   - Hb low with microcytosis, low ferritin, and reduced transferrin saturation. Stool testing and GI evaluation considered if no dietary cause identified.
+- Assessment
+   - Microcytic anemia most consistent with iron deficiency; source evaluation warranted (dietary vs occult GI blood loss).
+
+Plan:
+   - Start oral iron with vitamin C; discuss GI side effects and adherence strategies (alternate-day dosing if needed).
+   - Review NSAID exposure and consider gastroprotection or alternatives.
+   - Arrange GI work-up if poor response or red flags emerge (e.g., melena, weight loss).
+- Follow-up & Disposition
+   - Recheck Hb and ferritin in 6 weeks; earlier review if symptoms worsen.
+
+Patient Education & Safety Net:
+Explain expected timeline for symptom improvement and iron store repletion. Advise on iron-rich foods and to seek care for black stools, severe dizziness, or chest pain.
+
+Sign-off:
+Dr. S. Gram, Hematology

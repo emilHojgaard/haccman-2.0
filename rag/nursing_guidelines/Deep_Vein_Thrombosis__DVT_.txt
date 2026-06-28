@@ -1,0 +1,28 @@
+Document Information:
+Disease - Deep Vein Thrombosis (DVT)
+Date - 2025-03-26
+Responsible Department - Vascular Medicine
+
+Overview:
+DVT is thrombus formation in deep veins, typically of the legs. Nursing care focuses on anticoagulant safety, ambulation guidance, and PE prevention.
+
+Nursing Assessment:
+Assess unilateral swelling, pain, warmth, and dilated superficial veins. Review recent immobility, surgery, hormone therapy, or cancer history.
+
+Key Monitoring:
+Monitor for new chest symptoms suggestive of PE and watch for bleeding on therapy. Track limb circumference and pain changes.
+
+Nursing Interventions:
+Administer anticoagulants as prescribed, encourage ambulation as tolerated, and apply compression for symptoms if ordered. Educate on leg elevation and hydration.
+
+Patient Education:
+Explain medication adherence and bleeding precautions, including when to seek help. Discuss prevention during travel and periods of immobility.
+
+When to Escalate:
+Escalate for suspected PE, phlegmasia, or severe pain and swelling. Seek urgent review for contraindications or complications of therapy.
+
+Documentation & Coordination:
+Document anticoagulant timing, patient response, and education delivered. Coordinate duration planning and specialty referral when needed.
+
+Prognosis:
+Most patients improve with anticoagulation; recurrence risk persists without addressing provoking factors. Nursing education reduces complications.

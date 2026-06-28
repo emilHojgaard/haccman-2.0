@@ -1,0 +1,28 @@
+Document Information:
+Disease - Pulmonary Embolism (PE)
+Date - 2025-03-03
+Responsible Department - Respiratory/ED Unit
+
+Overview:
+Pulmonary embolism is acute obstruction of pulmonary arteries causing hypoxemia and strain. Nursing care supports oxygenation, anticoagulation safety, and rapid risk escalation.
+
+Nursing Assessment:
+Assess sudden dyspnea, pleuritic pain, hemoptysis, or syncope; review recent immobility, surgery, cancer, or prior VTE. Evaluate calf symptoms and oxygen needs.
+
+Key Monitoring:
+Monitor SpO₂, hemodynamics, and pain; observe for bleeding on anticoagulation. Track signs of right heart strain such as hypotension or rising lactate.
+
+Nursing Interventions:
+Administer anticoagulants as ordered and maintain oxygen to target. Prepare for thrombolysis or catheter therapy if high-risk features develop.
+
+Patient Education:
+Teach anticoagulant adherence, bleeding precautions, and activity guidance. Discuss provoking factors and prevention strategies for travel and immobility.
+
+When to Escalate:
+Escalate for hypotension, worsening hypoxemia, or syncope. Activate PE response pathways per local policy.
+
+Documentation & Coordination:
+Document oxygen settings, anticoagulant dose/times, and symptom trends. Coordinate follow-up for duration planning and risk assessment.
+
+Prognosis:
+Risk varies with clot burden and comorbidity; early therapy improves outcomes. Nursing monitoring mitigates bleeding and deterioration.

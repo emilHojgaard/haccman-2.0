@@ -1,0 +1,28 @@
+Document Information:
+Disease - Chronic Kidney Disease (CKD) – Adult
+Date - 2025-09-20
+Responsible Department - Nephrology
+
+Overview:
+CKD involves gradual loss of kidney function with systemic complications. Nursing care supports risk reduction, medication safety, and education on kidney-protective behaviors.
+
+Nursing Assessment:
+Assess eGFR trends, albuminuria, blood pressure control, and anemia symptoms. Review nephrotoxin exposure and fluid status.
+
+Key Monitoring:
+Monitor electrolytes, hemoglobin, and BP; ensure dose adjustments for renally cleared drugs. Track vaccination status.
+
+Nursing Interventions:
+Reinforce RAAS and SGLT2 adherence when prescribed, encourage hydration balance, and avoid NSAIDs. Provide nutrition counseling coordination.
+
+Patient Education:
+Teach sick-day rules, medication lists, and when to seek care for edema or dyspnea. Discuss dialysis options early if progression occurs.
+
+When to Escalate:
+Escalate for rapid eGFR decline, refractory hyperkalemia, or uremic symptoms. Refer for vascular access planning when indicated.
+
+Documentation & Coordination:
+Record lab trends, blood pressure logs, and education delivered. Coordinate nephrology visits and anemia management services.
+
+Prognosis:
+Progression varies; risk reduction slows decline. Nursing monitoring prevents medication-related harm.

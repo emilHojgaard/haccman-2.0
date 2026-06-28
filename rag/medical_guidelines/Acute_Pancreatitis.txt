@@ -1,0 +1,28 @@
+Document Information:
+Disease - Acute Pancreatitis
+Date - 2025-03-22
+Responsible Department - Gastroenterology
+
+Purpose:
+Standardize early diagnosis, supportive care, and complication surveillance in acute pancreatitis.
+
+Scope:
+For adults admitted with suspected pancreatitis related to gallstones, alcohol, hypertriglyceridemia, or medications.
+
+Indications:
+Sudden, severe epigastric pain radiating to the back with nausea and vomiting; risk factors include alcohol use and gallstones.
+
+Diagnosis:
+Establish with characteristic pain plus elevated pancreatic enzymes or imaging findings; evaluate severity and identify biliary etiology with ultrasound.
+
+Treatment/Management:
+Provide aggressive fluid resuscitation, analgesia, and early nutrition; treat biliary pancreatitis with timely ERCP when cholangitis or obstruction is present.
+
+Monitoring & Follow-up:
+Monitor vitals, urine output, and labs; assess for necrosis, infection, or organ failure. Plan cholecystectomy for gallstone pancreatitis when clinically appropriate.
+
+When to Escalate:
+Escalate for organ failure, infected necrosis, or uncontrolled pain. Involve ICU, surgery, or interventional radiology for complications.
+
+Safety Notes:
+Avoid unnecessary antibiotics in sterile necrosis and limit excess fluids after initial resuscitation. Address alcohol cessation and triglyceride control to prevent recurrence.

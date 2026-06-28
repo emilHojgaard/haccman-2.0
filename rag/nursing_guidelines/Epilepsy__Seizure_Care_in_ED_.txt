@@ -1,0 +1,28 @@
+Document Information:
+Disease - Epilepsy (Seizure Care in ED)
+Date - 2024-04-15
+Responsible Department - Neurology
+
+Overview:
+Emergency seizure care centers on airway protection and timely termination of convulsions. Nursing care ensures safety, medication delivery, and post-ictal monitoring.
+
+Nursing Assessment:
+Assess seizure type, duration, injuries, and medication adherence. Check glucose and pregnancy status where relevant.
+
+Key Monitoring:
+Monitor airway, SpO₂, and hemodynamics during and after events. Track post-ictal recovery and recurrence.
+
+Nursing Interventions:
+Protect from injury, position laterally, and administer benzodiazepines per protocol; load antiseizure meds if ordered. Avoid restraining limbs and ensure suction availability.
+
+Patient Education:
+Reinforce adherence, trigger avoidance (sleep deprivation, alcohol), and rescue plan use. Provide driving and safety counseling per local rules.
+
+When to Escalate:
+Escalate for status epilepticus, persistent altered consciousness, or trauma. Notify ICU for refractory seizures needing continuous EEG.
+
+Documentation & Coordination:
+Document timings, meds, responses, and injuries. Coordinate neurology follow-up and medication reconciliation.
+
+Prognosis:
+Many patients achieve control with therapy. Nursing adherence support reduces recurrence risk.

@@ -1,0 +1,28 @@
+Document Information:
+Disease - Viral Gastroenteritis (Adult)
+Date - 2023-02-23
+Responsible Department - Internal Medicine
+
+Overview:
+Viral gastroenteritis causes acute nausea, vomiting, and watery diarrhea. Nursing care emphasizes hydration, electrolyte safety, and infection control.
+
+Nursing Assessment:
+Assess volume status, frequency of vomiting/diarrhea, and exposure history. Screen for red flags such as severe tenderness or blood in stool.
+
+Key Monitoring:
+Monitor hydration markers, electrolytes when indicated, and urine output. Track fever and tolerance of oral intake.
+
+Nursing Interventions:
+Encourage oral rehydration solutions and administer antiemetics judiciously. Implement contact precautions and support gradual diet advancement.
+
+Patient Education:
+Teach hand hygiene, safe food practices, and rehydration strategies. Provide return precautions for dehydration signs.
+
+When to Escalate:
+Escalate for severe dehydration, persistent vomiting, or immunocompromised status. Initiate IV fluids if oral rehydration fails.
+
+Documentation & Coordination:
+Document stool and emesis frequency, intake/output, and education provided. Coordinate work/school notes and follow-up if needed.
+
+Prognosis:
+Most cases resolve within days. Nursing hydration guidance reduces ED returns.

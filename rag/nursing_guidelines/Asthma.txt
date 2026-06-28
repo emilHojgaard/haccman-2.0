@@ -1,0 +1,28 @@
+Document Information:
+Disease - Asthma
+Date - 2024-01-23
+Responsible Department - Pulmonology Unit
+
+Overview:
+Asthma is a chronic inflammatory airway disorder with variable airflow limitation and hyperresponsiveness. Nursing priorities are to support bronchodilation, oxygenation, and education on trigger control and inhaler technique.
+
+Nursing Assessment:
+Assess severity: speech in sentences, accessory muscle use, posture, agitation, and fatigue. Review triggers, controller adherence, prior ICU/intubations, and recent infections; check PEFR if available.
+
+Key Monitoring:
+Monitor SpO₂ and work of breathing frequently, observing for silent chest or rising fatigue. Track response to each bronchodilator dose and record PEFR trends when used.
+
+Nursing Interventions:
+Position upright, provide calm reassurance, and administer prescribed bronchodilators via spacer/nebulizer. Titrate oxygen to ordered targets and prepare/assist with systemic corticosteroids per orders.
+
+Patient Education:
+Teach correct inhaler and spacer technique and review the written action plan. Counsel on trigger reduction including smoke exposure, dust mites, viral hygiene, and pre-exercise reliever use if prescribed.
+
+When to Escalate:
+Escalate for SpO₂ below ordered targets, silent chest, exhaustion, or failure to respond to initial therapy. Alert the team immediately if patient cannot speak in full sentences or shows cyanosis.
+
+Documentation & Coordination:
+Document pre/post SpO₂, RR, PEFR, medications given, and clinical response. Handover trigger profile, action plan status, and follow-up needs to the next shift or community team.
+
+Prognosis:
+Prognosis is good with consistent controller use and technique; nursing vigilance reduces exacerbation severity. Early education and action plans lower emergency presentations.

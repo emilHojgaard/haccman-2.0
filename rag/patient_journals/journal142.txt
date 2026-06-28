@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 031039-1963
+Encounter Date - 2024-08-21
+Author - Dr. K. Østergaard, General Surgery
+Patient Name - Lene Nielsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Depression (2015), Osteoporosis (2008), Hypothyroidism (2004).
+- Recent Lab Results (2024-08-13)
+    Hb 7.3 mmol/L (low)
+    Ferritin 101 µg/L
+    CRP 24 mg/L
+    Creatinine 65 µmol/L
+- Prior Consultations
+    - 2024-02-16 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2024-05-09 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Metformin 500 mg BID, Bisoprolol 5 mg daily, Atorvastatin 20 mg nightly, Furosemide 40 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Lene Nielsen reports stress and low mood following a recent life event.
+- History of Present Illness
+   - Lene Nielsen describes sadness, irritability, and worry after recent psychosocial stressor (job loss, relationship conflict). Duration <6 months.
+- Physical Examination
+   - Mildly tearful, cooperative, no psychosis. Vitals within normal range (BP 146/59).
+- Diagnostics (Today)
+   - Emotional disturbance related to identifiable stressor, not meeting full criteria for major depression.
+- Assessment
+   - Adjustment disorder with mixed anxiety and depressed mood.
+
+Plan:
+   - Provide supportive counselling.
+   - Encourage coping strategies and social support.
+   - Short-term anxiolytic if severe insomnia or anxiety.
+- Follow-up & Disposition
+   - Follow-up in 4 weeks to reassess.
+
+Patient Education & Safety Net:
+Explain normal stress reactions and when to seek help. Promote daily structure and self-care.
+
+Sign-off:
+Dr. K. Østergaard, General Surgery

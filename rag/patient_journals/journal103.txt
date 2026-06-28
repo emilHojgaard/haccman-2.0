@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 281259-9872
+Encounter Date - 2025-02-10
+Author - Dr. H. Sørensen, Internal Medicine
+Patient Name - Sofia Pedersen
+
+Medical History & Prior Results:
+- Past Diagnoses — Migraine (1990), Asthma (1988), Chronic lower back pain.
+- Recent Lab Results (2025-01-24)
+    Hb 7.9 mmol/L
+    Ferritin 83 µg/L
+    CRP 19 mg/L
+    Creatinine 70 µmol/L
+- Prior Consultations
+    - 2024-05-28 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2025-01-04 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Lisinopril 10 mg daily, Bisoprolol 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Sofia Pedersen reports constant worry, muscle tension, and poor sleep.
+- History of Present Illness
+   - Sofia Pedersen describes months of excessive anxiety difficult to control, with restlessness and fatigue. Denies panic attacks or substance misuse.
+- Physical Examination
+   - Anxious affect, fidgeting. HR 95 bpm, BP 124/95 mmHg. No tremor or thyrotoxicosis signs.
+- Diagnostics (Today)
+   - Persistent anxiety with somatic tension; exclude thyroid and cardiac causes.
+- Assessment
+   - Generalized anxiety disorder.
+
+Plan:
+   - Begin CBT-focused therapy; consider SSRI or SNRI if persistent.
+   - Teach breathing and relaxation exercises.
+   - Avoid benzodiazepines long term.
+- Follow-up & Disposition
+   - Review in 3 weeks to monitor response.
+
+Patient Education & Safety Net:
+Explain nature of chronic anxiety and coping tools. Encourage sleep hygiene and regular exercise.
+
+Sign-off:
+Dr. H. Sørensen, Internal Medicine

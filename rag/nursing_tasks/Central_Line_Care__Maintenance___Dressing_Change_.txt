@@ -1,0 +1,34 @@
+Document Information:
+Task - Central Line Care (Maintenance & Dressing Change)
+Date - 2024-10-28
+Responsible Department - ICU / Vascular Access
+
+Purpose:
+Maintain central venous catheters to prevent CLABSI and ensure reliable access.
+
+Scope:
+For nurses trained in sterile dressing changes and line maintenance in ICU and wards.
+
+Indications:
+Any patient with a central line requiring ongoing infusion, blood sampling, or hemodynamic monitoring.
+
+Contraindications:
+Do not manipulate lines during hemodynamic instability unless emergent benefit outweighs risk. Avoid dressing changes in uncontrolled bleeding.
+
+Equipment:
+Sterile dressing kit, chlorhexidine applicator, sterile gloves, mask, securement device, caps, flushes, and waste disposal.
+
+Procedure Steps:
+Perform hand hygiene, mask both nurse and patient if possible, and establish sterile field. Remove old dressing, scrub hub, clean insertion site, allow to dry, replace securement and dressing, and cap with needleless connectors.
+
+Monitoring & Documentation:
+Assess for redness, drainage, tenderness, and line integrity. Document date/time, site condition, and any culture or therapy changes.
+
+Patient/Family Education:
+Explain line purpose, dressing care, and infection signs. Instruct not to handle tubing or caps.
+
+Escalation:
+Escalate for fever of unknown origin, purulence, or suspected catheter dysfunction. Obtain cultures and notify prescriber per policy.
+
+Safety Notes:
+Use maximal sterile precautions and scrub the hub before each access. Replace caps and tubing per schedule.

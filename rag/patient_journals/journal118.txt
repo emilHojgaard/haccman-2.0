@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 170777-9964
+Encounter Date - 2023-04-04
+Author - Dr. K. Østergaard, General Surgery
+Patient Name - Magnus Pedersen
+
+Medical History & Prior Results:
+- Past Diagnoses — CKD (2012), Hypertension (2005), Atrial fibrillation (1989), Anxiety (1998), Chronic lower back pain.
+- Recent Lab Results (2023-03-18)
+    Hb 7.2 mmol/L (low)
+    Ferritin 56 µg/L
+    CRP 11 mg/L
+    Creatinine 65 µmol/L
+- Prior Consultations
+    - 2022-08-22 — Routine check-up — stable BP, mild anemia noted.
+    - 2023-03-27 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Ferrous sulfate 100 mg every other day, Empagliflozin 10 mg daily, Lisinopril 10 mg daily, Levothyroxine 75 µg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Magnus Pedersen reports decreased need for sleep, elevated mood, and increased goal-directed activity.
+- History of Present Illness
+   - Magnus Pedersen describes two weeks of heightened energy, rapid speech, and impulsive spending. Sleep reduced to 3–4 hours per night. Denies hallucinations or substance use.
+- Physical Examination
+   - Alert, restless, pressured speech, euphoric and irritable mood. No psychosis. Vitals stable (BP 135/67, HR 82 bpm).
+- Diagnostics (Today)
+   - Findings consistent with manic episode; labs for lithium and thyroid function ordered.
+- Assessment
+   - Bipolar affective disorder, type I, current manic episode.
+
+Plan:
+   - Continue or initiate mood stabilizer (e.g., lithium or valproate).
+   - Discontinue antidepressants if present.
+   - Offer short inpatient stabilization if insight poor or risk increases.
+- Follow-up & Disposition
+   - Follow-up in 5 days to reassess mood and safety.
+
+Patient Education & Safety Net:
+Discuss relapse prevention, importance of sleep, and medication adherence. Provide crisis contact information.
+
+Sign-off:
+Dr. K. Østergaard, General Surgery

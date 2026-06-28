@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 260930-2664
+Encounter Date - 2023-02-14
+Author - Dr. H. Sørensen, Internal Medicine
+Patient Name - Maria Gram
+
+Medical History & Prior Results:
+- Past Diagnoses — Type 2 Diabetes (1995), Gallstones (2001), Hypothyroidism (2019), Hypertension (1996).
+- Recent Lab Results (2022-11-19)
+    Hb 8.1 mmol/L
+    Ferritin 49 µg/L
+    CRP 9 mg/L
+    Creatinine 83 µmol/L
+- Prior Consultations
+    - 2022-12-06 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2022-11-26 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Empagliflozin 10 mg daily, Atorvastatin 20 mg nightly, Amlodipine 5 mg daily, Ferrous sulfate 100 mg every other day.
+- Allergies — None known.
+
+Present Illness:
+   - Maria Gram presents for follow-up with persistently elevated blood pressure readings.
+- History of Present Illness
+   - Maria Gram notes occasional headaches and dizziness. Adherence to medication inconsistent; diet high in salt.
+- Physical Examination
+   - BP 167/68 mmHg, HR 68 bpm, no edema, no murmurs.
+- Diagnostics (Today)
+   - Office BP elevated; renal function and electrolytes ordered.
+- Assessment
+   - Essential hypertension, suboptimally controlled.
+
+Plan:
+   - Reinforce lifestyle modification (salt restriction, exercise).
+   - Increase or add antihypertensive therapy.
+   - Monitor home BP readings.
+- Follow-up & Disposition
+   - Review in 5 weeks with BP log.
+
+Patient Education & Safety Net:
+Explain importance of adherence and cardiovascular risk reduction.
+
+Sign-off:
+Dr. H. Sørensen, Internal Medicine

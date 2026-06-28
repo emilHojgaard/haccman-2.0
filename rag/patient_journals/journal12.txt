@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 071202-7211
+Encounter Date - 2025-06-04
+Author - Dr. H. Sørensen, Internal Medicine
+Patient Name - Grethe Bang
+
+Medical History & Prior Results:
+- Past Diagnoses — Iron Deficiency (2019), Heart failure (HFpEF) (2009), Chronic lower back pain.
+- Recent Lab Results (2025-03-20)
+    Hb 7.5 mmol/L
+    Ferritin 61 µg/L
+    CRP 2 mg/L
+    Creatinine 61 µmol/L
+- Prior Consultations
+    - 2024-12-28 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2025-03-07 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Amlodipine 5 mg daily, Empagliflozin 10 mg daily, Levothyroxine 75 µg daily.
+- Allergies — Penicillin (rash).
+
+Present Illness:
+   - Grethe Bang reports sore throat, cough, and mild fever.
+- History of Present Illness
+   - Grethe Bang developed nasal congestion and cough 3 days ago. No dyspnea or chest pain.
+- Physical Examination
+   - T 37.3 °C, mild pharyngeal erythema, lungs clear.
+- Diagnostics (Today)
+   - Clinical diagnosis of viral upper respiratory tract infection.
+- Assessment
+   - Viral URI.
+
+Plan:
+   - Supportive care: rest, fluids, paracetamol for fever.
+   - Avoid unnecessary antibiotics.
+   - Educate on hygiene and infection control.
+- Follow-up & Disposition
+   - Follow-up only if symptoms persist beyond 7 days.
+
+Patient Education & Safety Net:
+Reassure benign course; return if high fever or worsening.
+
+Sign-off:
+Dr. H. Sørensen, Internal Medicine

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 180408-0822
+Encounter Date - 2024-01-29
+Author - Dr. V. Laursen, Nephrology
+Patient Name - Sanne Gram
+
+Medical History & Prior Results:
+- Past Diagnoses — Hypothyroidism (2012), Hypertension (2023).
+- Recent Lab Results (2024-01-05)
+    Hb 7.1 mmol/L (low)
+    Ferritin 136 µg/L
+    CRP 16 mg/L
+    Creatinine 85 µmol/L
+- Prior Consultations
+    - 2024-01-05 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2023-10-12 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Empagliflozin 10 mg daily, Ferrous sulfate 100 mg every other day.
+- Allergies — None known.
+
+Present Illness:
+   - Sanne Gram reports stress and low mood following a recent life event.
+- History of Present Illness
+   - Sanne Gram describes sadness, irritability, and worry after recent psychosocial stressor (job loss, relationship conflict). Duration <6 months.
+- Physical Examination
+   - Mildly tearful, cooperative, no psychosis. Vitals within normal range (BP 125/60).
+- Diagnostics (Today)
+   - Emotional disturbance related to identifiable stressor, not meeting full criteria for major depression.
+- Assessment
+   - Adjustment disorder with mixed anxiety and depressed mood.
+
+Plan:
+   - Provide supportive counselling.
+   - Encourage coping strategies and social support.
+   - Short-term anxiolytic if severe insomnia or anxiety.
+- Follow-up & Disposition
+   - Follow-up in 5 weeks to reassess.
+
+Patient Education & Safety Net:
+Explain normal stress reactions and when to seek help. Promote daily structure and self-care.
+
+Sign-off:
+Dr. V. Laursen, Nephrology

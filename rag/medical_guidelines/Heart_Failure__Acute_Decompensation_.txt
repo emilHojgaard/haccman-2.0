@@ -1,0 +1,28 @@
+Document Information:
+Disease - Heart Failure (Acute Decompensation)
+Date - 2025-03-22
+Responsible Department - Cardiology Unit
+
+Purpose:
+Provide a structured approach to evaluating volume status, precipitating factors, and stabilizing adults with acute decompensated heart failure.
+
+Scope:
+For emergency and inpatient teams managing adults with known or suspected heart failure with reduced or preserved ejection fraction.
+
+Indications:
+Worsening dyspnea, orthopnea, edema, rapid weight gain, or fatigue often triggered by dietary indiscretion, arrhythmia, ischemia, or infection.
+
+Diagnosis:
+Assess vitals, natriuretic peptides, renal function, and chest imaging; evaluate perfusion and congestion at the bedside. Use echocardiography to characterize ejection fraction and structural disease.
+
+Treatment/Management:
+Administer loop diuretics with careful titration and consider vasodilators for hypertensive congestion. Optimize guideline-directed medical therapy once stable and treat precipitants such as ischemia or arrhythmia.
+
+Monitoring & Follow-up:
+Track urine output, electrolytes, renal function, and weight; adjust diuretics to achieve euvolemia. Arrange education on diet, fluid limits, and early outpatient follow-up.
+
+When to Escalate:
+Escalate for hypotension with hypoperfusion, refractory hypoxemia, or shock requiring inotropes or mechanical support. Involve cardiology for advanced therapies or unclear hemodynamics.
+
+Safety Notes:
+Avoid excessive diuresis causing prerenal azotemia or electrolyte derangements. Review ACEi/ARB/ARNI, MRA, SGLT2i tolerability and contraindications before up-titration.

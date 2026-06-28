@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 170368-4417
+Encounter Date - 2025-07-18
+Author - Dr. P. Jensen, Psychiatry
+Patient Name - Morten Madsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Anxiety (1990), Peptic ulcer disease (1991), Hypertension (1983), Obesity (1988), Chronic lower back pain.
+- Recent Lab Results (2025-07-02)
+    Hb 8.3 mmol/L
+    Ferritin 51 µg/L
+    CRP 14 mg/L
+    Creatinine 100 µmol/L
+- Prior Consultations
+    - 2025-05-03 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2024-09-30 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Amlodipine 5 mg daily, Ramipril 5 mg daily, Furosemide 40 mg daily.
+- Allergies — Penicillin (rash).
+
+Present Illness:
+   - Morten Madsen reports shortness of breath and leg swelling.
+- History of Present Illness
+   - Morten Madsen has gained 3 kg over the past week, with worsening dyspnea and orthopnea. Missed diuretic doses reported.
+- Physical Examination
+   - Crackles at lung bases, bilateral pitting edema, elevated JVP. BP 145/96, HR 114 bpm.
+- Diagnostics (Today)
+   - BNP elevated, chest X-ray shows pulmonary congestion.
+- Assessment
+   - Acute-on-chronic heart failure exacerbation.
+
+Plan:
+   - Administer loop diuretic (e.g., furosemide).
+   - Monitor weight and urine output.
+   - Optimize heart failure regimen and education.
+- Follow-up & Disposition
+   - Follow-up in 2 weeks or earlier if symptoms recur.
+
+Patient Education & Safety Net:
+Teach daily weight monitoring, salt restriction, and when to seek urgent care.
+
+Sign-off:
+Dr. P. Jensen, Psychiatry

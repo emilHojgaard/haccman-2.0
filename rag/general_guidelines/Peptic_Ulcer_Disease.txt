@@ -1,0 +1,28 @@
+Document Information:
+Disease - Peptic Ulcer Disease
+Date - 2024-02-03
+Responsible Department - Gastroenterology
+
+Overview:
+Peptic ulcers are sores in the stomach or duodenum that can cause burning pain. They may bleed if untreated.
+
+Causes and Risk Factors:
+Infection with H. pylori and regular NSAID/aspirin use are common causes. Smoking and heavy alcohol increase risk.
+
+Common Symptoms:
+Burning upper abdominal pain often related to meals, bloating, and nausea. Some people develop anemia or black stools.
+
+Diagnosis:
+Endoscopy confirms the ulcer and can treat bleeding. Non-invasive tests detect H. pylori infection.
+
+Treatment:
+Stomach acid medicines help healing; eradication therapy cures H. pylori. Stopping NSAIDs reduces recurrence.
+
+Self-Management and Lifestyle:
+Avoid smoking and excess alcohol and take medicines exactly as prescribed. Eat smaller, more frequent meals if it helps.
+
+When to Seek Medical Help:
+Seek urgent help for vomiting blood, black stools, or severe persistent pain.
+
+Prognosis:
+Healing rates are high with modern therapy. Recurrence is uncommon once the cause is addressed.

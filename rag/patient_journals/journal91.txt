@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 120246-8727
+Encounter Date - 2025-09-07
+Author - Dr. R. Iversen, Neurology
+Patient Name - Mette Lund
+
+Medical History & Prior Results:
+- Past Diagnoses — Osteoporosis (2008), Depression (2015), Peptic ulcer disease (1984), Chronic lower back pain.
+- Recent Lab Results (2025-07-14)
+    Hb 7.0 mmol/L (low)
+    Ferritin 115 µg/L
+    CRP 14 mg/L
+    Creatinine 102 µmol/L
+- Prior Consultations
+    - 2025-08-12 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2025-04-24 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Ferrous sulfate 100 mg every other day, Atorvastatin 20 mg nightly, Bisoprolol 5 mg daily.
+- Allergies — NSAIDs (dyspepsia).
+
+Present Illness:
+   - Mette Lund reports fatigue, reduced exercise tolerance, and occasional lightheadedness.
+- History of Present Illness
+   - Mette Lund notes weeks of progressive tiredness and exertional dyspnea. Diet is low in iron-rich foods; denies obvious bleeding but reports intermittent dyspepsia with NSAID use. No black stools observed at home.
+- Physical Examination
+   - Pale conjunctivae; soft systolic flow murmur; no focal deficits. Vitals stable (BP 161/77 mmHg, HR 86 bpm). Abdomen soft, non-tender.
+- Diagnostics (Today)
+   - Hb low with microcytosis, low ferritin, and reduced transferrin saturation. Stool testing and GI evaluation considered if no dietary cause identified.
+- Assessment
+   - Microcytic anemia most consistent with iron deficiency; source evaluation warranted (dietary vs occult GI blood loss).
+
+Plan:
+   - Start oral iron with vitamin C; discuss GI side effects and adherence strategies (alternate-day dosing if needed).
+   - Review NSAID exposure and consider gastroprotection or alternatives.
+   - Arrange GI work-up if poor response or red flags emerge (e.g., melena, weight loss).
+- Follow-up & Disposition
+   - Recheck Hb and ferritin in 6 weeks; earlier review if symptoms worsen.
+
+Patient Education & Safety Net:
+Explain expected timeline for symptom improvement and iron store repletion. Advise on iron-rich foods and to seek care for black stools, severe dizziness, or chest pain.
+
+Sign-off:
+Dr. R. Iversen, Neurology

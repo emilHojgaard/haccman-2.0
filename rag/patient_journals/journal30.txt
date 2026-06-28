@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 210755-9115
+Encounter Date - 2024-04-30
+Author - Dr. R. Iversen, Neurology
+Patient Name - Rune Petersen
+
+Medical History & Prior Results:
+- Past Diagnoses — Osteoporosis (2017), Type 2 Diabetes (1984), CKD (1985), Peptic ulcer disease (1993), Chronic lower back pain.
+- Recent Lab Results (2024-04-04)
+    Hb 6.8 mmol/L (low)
+    Ferritin 134 µg/L
+    CRP 15 mg/L
+    Creatinine 57 µmol/L
+- Prior Consultations
+    - 2023-12-18 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2023-08-27 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Bisoprolol 5 mg daily, Ferrous sulfate 100 mg every other day, Metformin 500 mg BID.
+- Allergies — None known.
+
+Present Illness:
+   - Rune Petersen reports persistent sadness, fatigue, and loss of interest in usual activities.
+- History of Present Illness
+   - Rune Petersen has felt low for the past 4 weeks, with poor concentration and early morning waking. Denies psychosis or suicidal plan.
+- Physical Examination
+   - Flat affect, slow speech, psychomotor retardation. No delusions. Vitals normal (BP 139/63, HR 102).
+- Diagnostics (Today)
+   - Depressive symptoms meeting diagnostic criteria; exclude thyroid or medication causes.
+- Assessment
+   - Major depressive episode, moderate severity.
+
+Plan:
+   - Start SSRI (e.g., sertraline 50 mg daily) or adjust current therapy.
+   - Encourage structured daily routine and gradual activity.
+   - Refer for psychotherapy or CBT.
+- Follow-up & Disposition
+   - Follow-up in 4 weeks to assess mood and adherence.
+
+Patient Education & Safety Net:
+Discuss early treatment effects, side effects, and warning signs. Provide emergency numbers for crisis support.
+
+Sign-off:
+Dr. R. Iversen, Neurology

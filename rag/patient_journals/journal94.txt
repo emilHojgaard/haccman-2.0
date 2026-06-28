@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 010931-4074
+Encounter Date - 2024-07-21
+Author - Dr. R. Iversen, Neurology
+Patient Name - Jonas Thygesen
+
+Medical History & Prior Results:
+- Past Diagnoses — Irritable bowel syndrome (2004), Iron Deficiency (2016), Psoriasis (2005).
+- Recent Lab Results (2024-07-05)
+    Hb 7.2 mmol/L (low)
+    Ferritin 60 µg/L
+    CRP 15 mg/L
+    Creatinine 60 µmol/L
+- Prior Consultations
+    - 2024-05-23 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2024-05-09 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Pantoprazole 40 mg daily, Metformin 500 mg BID, Ferrous sulfate 100 mg every other day, Levothyroxine 75 µg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Jonas Thygesen presents with fever, flank pain, and urinary symptoms.
+- History of Present Illness
+   - Jonas Thygesen reports 1 days of dysuria, chills, and right-sided flank pain.
+- Physical Examination
+   - T 36.8 °C, costovertebral angle tenderness on right side. HR 78 bpm.
+- Diagnostics (Today)
+   - Urinalysis positive for nitrites; elevated CRP and WBC.
+- Assessment
+   - Acute pyelonephritis.
+
+Plan:
+   - Start empiric antibiotic therapy.
+   - Hydration and pain control.
+   - Hospitalize if vomiting or sepsis.
+- Follow-up & Disposition
+   - Recheck in 8 days to confirm recovery.
+
+Patient Education & Safety Net:
+Advise early presentation for recurrence; complete full antibiotic course.
+
+Sign-off:
+Dr. R. Iversen, Neurology

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 170980-4298
+Encounter Date - 2023-08-28
+Author - Dr. A. Thomsen, Emergency Medicine
+Patient Name - Nina Kristensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Irritable bowel syndrome (1991), Psoriasis (2019), Chronic lower back pain.
+- Recent Lab Results (2023-08-09)
+    Hb 8.3 mmol/L
+    Ferritin 98 µg/L
+    CRP 9 mg/L
+    Creatinine 78 µmol/L
+- Prior Consultations
+    - 2023-06-07 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2023-04-28 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Lisinopril 10 mg daily, Amlodipine 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Nina Kristensen reports shortness of breath and leg swelling.
+- History of Present Illness
+   - Nina Kristensen has gained 4 kg over the past week, with worsening dyspnea and orthopnea. Missed diuretic doses reported.
+- Physical Examination
+   - Crackles at lung bases, bilateral pitting edema, elevated JVP. BP 126/72, HR 66 bpm.
+- Diagnostics (Today)
+   - BNP elevated, chest X-ray shows pulmonary congestion.
+- Assessment
+   - Acute-on-chronic heart failure exacerbation.
+
+Plan:
+   - Administer loop diuretic (e.g., furosemide).
+   - Monitor weight and urine output.
+   - Optimize heart failure regimen and education.
+- Follow-up & Disposition
+   - Follow-up in 2 weeks or earlier if symptoms recur.
+
+Patient Education & Safety Net:
+Teach daily weight monitoring, salt restriction, and when to seek urgent care.
+
+Sign-off:
+Dr. A. Thomsen, Emergency Medicine

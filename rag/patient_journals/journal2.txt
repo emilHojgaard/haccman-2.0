@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 011161-6046
+Encounter Date - 2023-03-22
+Author - Dr. P. Jensen, Psychiatry
+Patient Name - Søren Sørensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Anxiety (2012), Hypertension (2015), Chronic lower back pain.
+- Recent Lab Results (2023-03-02)
+    Hb 6.9 mmol/L (low)
+    Ferritin 68 µg/L
+    CRP 2 mg/L
+    Creatinine 75 µmol/L
+- Prior Consultations
+    - 2023-02-10 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2023-02-02 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Metformin 500 mg BID, Furosemide 40 mg daily, Lisinopril 10 mg daily, Ramipril 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Søren Sørensen presents with redness and swelling of the lower leg.
+- History of Present Illness
+   - Søren Sørensen noticed redness and tenderness spreading over 2 days. No trauma reported.
+- Physical Examination
+   - Warm, erythematous area with indistinct margins, mild edema. T 36.5 °C.
+- Diagnostics (Today)
+   - Clinical cellulitis; CBC and CRP elevated.
+- Assessment
+   - Bacterial cellulitis, likely streptococcal.
+
+Plan:
+   - Start empiric oral antibiotic covering streptococci.
+   - Mark margin and monitor spread.
+   - Elevate limb and manage pain.
+- Follow-up & Disposition
+   - Review in 2 days to assess response.
+
+Patient Education & Safety Net:
+Explain signs of worsening infection and when to seek urgent review.
+
+Sign-off:
+Dr. P. Jensen, Psychiatry

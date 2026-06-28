@@ -1,0 +1,34 @@
+Document Information:
+Task - Blood Glucose Monitoring (POC)
+Date - 2025-04-22
+Responsible Department - Endocrinology / Medical Ward
+
+Purpose:
+Obtain accurate capillary blood glucose measurements to guide therapy and detect hypoglycemia/hyperglycemia.
+
+Scope:
+For adult inpatients requiring glucose checks per protocol (e.g., insulin therapy, steroids, sepsis).
+
+Indications:
+Diabetes management, altered mental status evaluation, or therapy known to affect glucose.
+
+Contraindications:
+Avoid sampling from affected/edematous fingers or near infusion lines causing dilution. Consider lab confirmation if perfusion is poor.
+
+Equipment:
+POC glucose meter, quality-controlled strips, lancets, alcohol wipes, gauze, gloves, sharps container.
+
+Procedure Steps:
+Perform hand hygiene, confirm patient ID, and prepare the meter. Clean site, obtain capillary sample with minimal squeezing, apply to strip, record value, and dispose sharps safely.
+
+Monitoring & Documentation:
+Trend values and correlate with meals/insulin dosing; verify critical results. Document readings with time and related interventions.
+
+Patient/Family Education:
+Explain purpose and timing of checks and symptoms of hypo/hyperglycemia. Encourage reporting of hunger, tremor, or confusion promptly.
+
+Escalation:
+Escalate for severe hypoglycemia, persistent hyperglycemia, or unexplained variability. Notify prescriber for regimen adjustment.
+
+Safety Notes:
+Use control solutions and check expiry dates. Rotate finger sites and avoid excessive squeezing to improve accuracy.

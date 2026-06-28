@@ -1,0 +1,28 @@
+Document Information:
+Disease - Viral Gastroenteritis (Adult)
+Date - 2025-03-22
+Responsible Department - Internal Medicine
+
+Purpose:
+Provide supportive care guidance and dehydration risk assessment for viral gastroenteritis.
+
+Scope:
+For adults with acute nausea, vomiting, and diarrhea in ambulatory and emergency settings.
+
+Indications:
+Abrupt onset of watery diarrhea, cramping, nausea, and low-grade fever, often with sick contacts or foodborne exposure.
+
+Diagnosis:
+Clinical diagnosis is typical; reserve stool testing for severe, persistent, or outbreak-related illness. Assess volume status and exclude red flags like bloody stool or severe tenderness.
+
+Treatment/Management:
+Emphasize oral rehydration and early diet advancement; use antiemetics and antidiarrheals judiciously. Avoid unnecessary antibiotics.
+
+Monitoring & Follow-up:
+Monitor for dehydration, electrolyte imbalance, and prolonged symptoms; counsel on hygiene to reduce transmission. Provide return precautions for worsening pain or fever.
+
+When to Escalate:
+Escalate for severe dehydration, intractable vomiting, or immunocompromised hosts with persistent symptoms. Consider IV fluids and further evaluation.
+
+Safety Notes:
+Avoid antimotility agents in suspected dysentery or toxin-mediated illness. Reinforce hand hygiene and safe food practices.

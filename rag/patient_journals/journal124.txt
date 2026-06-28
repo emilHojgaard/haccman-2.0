@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 140651-1207
+Encounter Date - 2023-04-23
+Author - Dr. P. Jensen, Psychiatry
+Patient Name - Anja Johansen
+
+Medical History & Prior Results:
+- Past Diagnoses — Depression (2017), Migraine (2011).
+- Recent Lab Results (2023-04-19)
+    Hb 7.8 mmol/L
+    Ferritin 85 µg/L
+    CRP 13 mg/L
+    Creatinine 65 µmol/L
+- Prior Consultations
+    - 2023-03-26 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2023-04-09 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Pantoprazole 40 mg daily, Levothyroxine 75 µg daily, Metformin 500 mg BID.
+- Allergies — None known.
+
+Present Illness:
+   - Anja Johansen reports epigastric pain and indigestion.
+- History of Present Illness
+   - Anja Johansen has burning upper abdominal pain related to meals. Uses NSAIDs intermittently; no hematemesis.
+- Physical Examination
+   - Epigastric tenderness, no guarding. Vitals: BP 157/86, HR 85.
+- Diagnostics (Today)
+   - Suspected gastritis/ulcer; H. pylori test ordered.
+- Assessment
+   - Peptic ulcer disease, likely NSAID-related.
+
+Plan:
+   - Stop NSAIDs; start PPI (e.g., pantoprazole 40 mg daily).
+   - If positive, treat H. pylori.
+   - Advise small, frequent meals and limit alcohol/caffeine.
+- Follow-up & Disposition
+   - Reassess in 5 weeks; consider endoscopy if persistent.
+
+Patient Education & Safety Net:
+Explain risk factors and warning signs of bleeding.
+
+Sign-off:
+Dr. P. Jensen, Psychiatry

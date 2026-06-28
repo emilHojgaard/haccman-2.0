@@ -1,0 +1,28 @@
+Document Information:
+Disease - Pulmonary Embolism (PE)
+Date - 2025-03-22
+Responsible Department - Respiratory/ED Unit
+
+Purpose:
+Provide a risk-adapted strategy for diagnosing and treating suspected pulmonary embolism.
+
+Scope:
+For adult patients in emergency and inpatient care with acute dyspnea, pleuritic pain, or syncope where PE is a consideration.
+
+Indications:
+Sudden dyspnea, pleuritic chest pain, hemoptysis, or unexplained hypoxemia, particularly with immobilization, surgery, cancer, or prior VTE.
+
+Diagnosis:
+Apply clinical probability tools and D-dimer to guide imaging; use CTPA or V/Q scanning when appropriate. Assess right ventricular strain with biomarkers and echocardiography in intermediate or high risk.
+
+Treatment/Management:
+Start anticoagulation when suspicion is high and bleeding risk acceptable; consider thrombolysis or catheter therapy for high-risk PE with shock. Provide oxygen and treat underlying provoking factors.
+
+Monitoring & Follow-up:
+Monitor hemodynamics, oxygenation, and bleeding while on anticoagulation; plan duration based on provoked versus unprovoked events. Educate on recurrence risk and activity resumption.
+
+When to Escalate:
+Escalate for hemodynamic instability, rising troponin/BNP with RV dysfunction, or persistent severe hypoxemia. Involve PE response teams for advanced therapies.
+
+Safety Notes:
+Verify renal function and weight for anticoagulant dosing and check for drug interactions. Evaluate pregnancy status before imaging and anticoagulant selection.

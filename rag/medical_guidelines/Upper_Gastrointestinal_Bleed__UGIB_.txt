@@ -1,0 +1,28 @@
+Document Information:
+Disease - Upper Gastrointestinal Bleed (UGIB)
+Date - 2025-03-22
+Responsible Department - Gastroenterology
+
+Purpose:
+Standardize resuscitation, risk stratification, and endoscopic coordination for suspected upper GI bleeding.
+
+Scope:
+For emergency and inpatient settings evaluating hematemesis, melena, or anemia suggestive of UGIB.
+
+Indications:
+Hematemesis, melena, syncope, or symptomatic anemia often due to peptic ulcer disease, esophagitis, or varices.
+
+Diagnosis:
+Assess hemodynamics, labs, and risk scores; consider nasogastric aspirate selectively. Identify anticoagulant use and comorbid liver disease.
+
+Treatment/Management:
+Resuscitate with fluids and blood as indicated; start proton pump inhibitors and coordinate early endoscopy. Use vasoactive drugs and antibiotics for suspected variceal bleeding.
+
+Monitoring & Follow-up:
+Monitor vitals, hemoglobin, and recurrent bleeding; adjust anticoagulants and plan secondary prophylaxis. Arrange H. pylori testing and eradication where relevant.
+
+When to Escalate:
+Escalate for persistent hemodynamic instability, rebleeding, or suspected varices. Involve interventional radiology or surgery for refractory bleeding.
+
+Safety Notes:
+Avoid over-transfusion in stable patients and correct coagulopathy thoughtfully. Document timing of last anticoagulant dose and reversal where indicated.

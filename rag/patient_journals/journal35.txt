@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 050642-7513
+Encounter Date - 2024-02-21
+Author - Dr. S. Nielsen, Pulmonology
+Patient Name - Sanne Thygesen
+
+Medical History & Prior Results:
+- Past Diagnoses — Iron Deficiency (1981), Gout (2018), Irritable bowel syndrome (2010), Chronic lower back pain.
+- Recent Lab Results (2023-12-25)
+    Hb 6.9 mmol/L (low)
+    Ferritin 12 µg/L (low)
+    CRP 15 mg/L
+    Creatinine 56 µmol/L
+- Prior Consultations
+    - 2023-12-13 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2023-08-19 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Amlodipine 5 mg daily, Ferrous sulfate 100 mg every other day.
+- Allergies — None known.
+
+Present Illness:
+   - Sanne Thygesen reports dysuria, frequency, and suprapubic discomfort.
+- History of Present Illness
+   - Sanne Thygesen developed burning on urination for 3 days. No flank pain or fever.
+- Physical Examination
+   - Afebrile (37.8 °C), suprapubic tenderness. No costovertebral angle tenderness.
+- Diagnostics (Today)
+   - Urinalysis positive for nitrites and leukocytes.
+- Assessment
+   - Uncomplicated lower urinary tract infection.
+
+Plan:
+   - Start short course of oral antibiotic per protocol.
+   - Encourage fluid intake.
+   - Review symptoms resolution.
+- Follow-up & Disposition
+   - Follow-up if symptoms persist beyond 3 days.
+
+Patient Education & Safety Net:
+Advise to complete antibiotics and monitor for fever or flank pain.
+
+Sign-off:
+Dr. S. Nielsen, Pulmonology

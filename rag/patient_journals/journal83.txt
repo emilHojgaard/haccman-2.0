@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 230958-2379
+Encounter Date - 2025-04-24
+Author - Dr. R. Iversen, Neurology
+Patient Name - Grethe Pedersen
+
+Medical History & Prior Results:
+- Past Diagnoses — COPD (1992), Irritable bowel syndrome (2010).
+- Recent Lab Results (2025-04-13)
+    Hb 7.8 mmol/L
+    Ferritin 39 µg/L
+    CRP 20 mg/L
+    Creatinine 96 µmol/L
+- Prior Consultations
+    - 2025-01-22 — Routine check-up — stable BP, mild anemia noted.
+    - 2025-01-08 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Bisoprolol 5 mg daily, Empagliflozin 10 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Grethe Pedersen presents with redness and swelling of the lower leg.
+- History of Present Illness
+   - Grethe Pedersen noticed redness and tenderness spreading over 2 days. No trauma reported.
+- Physical Examination
+   - Warm, erythematous area with indistinct margins, mild edema. T 36.2 °C.
+- Diagnostics (Today)
+   - Clinical cellulitis; CBC and CRP elevated.
+- Assessment
+   - Bacterial cellulitis, likely streptococcal.
+
+Plan:
+   - Start empiric oral antibiotic covering streptococci.
+   - Mark margin and monitor spread.
+   - Elevate limb and manage pain.
+- Follow-up & Disposition
+   - Review in 3 days to assess response.
+
+Patient Education & Safety Net:
+Explain signs of worsening infection and when to seek urgent review.
+
+Sign-off:
+Dr. R. Iversen, Neurology

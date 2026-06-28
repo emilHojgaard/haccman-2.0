@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 160745-1502
+Encounter Date - 2024-01-25
+Author - Dr. R. Iversen, Neurology
+Patient Name - Helle Bjørk
+
+Medical History & Prior Results:
+- Past Diagnoses — Gallstones (1998), Asthma (1994), Peptic ulcer disease (1984), Hypothyroidism (1986), Chronic lower back pain.
+- Recent Lab Results (2023-11-26)
+    Hb 6.5 mmol/L (low)
+    Ferritin 15 µg/L
+    CRP 8 mg/L
+    Creatinine 93 µmol/L
+- Prior Consultations
+    - 2023-11-29 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2023-11-05 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Ferrous sulfate 100 mg every other day, Levothyroxine 75 µg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Helle Bjørk presents with redness and swelling of the lower leg.
+- History of Present Illness
+   - Helle Bjørk noticed redness and tenderness spreading over 3 days. No trauma reported.
+- Physical Examination
+   - Warm, erythematous area with indistinct margins, mild edema. T 36.9 °C.
+- Diagnostics (Today)
+   - Clinical cellulitis; CBC and CRP elevated.
+- Assessment
+   - Bacterial cellulitis, likely streptococcal.
+
+Plan:
+   - Start empiric oral antibiotic covering streptococci.
+   - Mark margin and monitor spread.
+   - Elevate limb and manage pain.
+- Follow-up & Disposition
+   - Review in 3 days to assess response.
+
+Patient Education & Safety Net:
+Explain signs of worsening infection and when to seek urgent review.
+
+Sign-off:
+Dr. R. Iversen, Neurology

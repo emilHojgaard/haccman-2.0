@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 081003-8526
+Encounter Date - 2025-10-16
+Author - Dr. O. Bjørk, Urology
+Patient Name - Ida Hansen
+
+Medical History & Prior Results:
+- Past Diagnoses — Asthma (1993), Osteoarthritis (1996), Gallstones (1985), Chronic lower back pain.
+- Recent Lab Results (2025-07-31)
+    Hb 7.5 mmol/L
+    Ferritin 89 µg/L
+    CRP 17 mg/L
+    Creatinine 92 µmol/L
+- Prior Consultations
+    - 2025-06-28 — Routine check-up — stable BP, mild anemia noted.
+    - 2025-06-17 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Atorvastatin 20 mg nightly, Levothyroxine 75 µg daily, Pantoprazole 40 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Ida Hansen reports sore throat, cough, and mild fever.
+- History of Present Illness
+   - Ida Hansen developed nasal congestion and cough 2 days ago. No dyspnea or chest pain.
+- Physical Examination
+   - T 38.2 °C, mild pharyngeal erythema, lungs clear.
+- Diagnostics (Today)
+   - Clinical diagnosis of viral upper respiratory tract infection.
+- Assessment
+   - Viral URI.
+
+Plan:
+   - Supportive care: rest, fluids, paracetamol for fever.
+   - Avoid unnecessary antibiotics.
+   - Educate on hygiene and infection control.
+- Follow-up & Disposition
+   - Follow-up only if symptoms persist beyond 10 days.
+
+Patient Education & Safety Net:
+Reassure benign course; return if high fever or worsening.
+
+Sign-off:
+Dr. O. Bjørk, Urology

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 170979-3059
+Encounter Date - 2024-05-16
+Author - Dr. M. Petersen, Gastroenterology
+Patient Name - Maria Rasmussen
+
+Medical History & Prior Results:
+- Past Diagnoses — Irritable bowel syndrome (2020), Migraine (2005), Gallstones (2009), Chronic lower back pain.
+- Recent Lab Results (2024-05-13)
+    Hb 7.0 mmol/L (low)
+    Ferritin 14 µg/L (low)
+    CRP 11 mg/L
+    Creatinine 62 µmol/L
+- Prior Consultations
+    - 2023-07-14 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2023-12-19 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Pantoprazole 40 mg daily, Ramipril 5 mg daily, Lisinopril 10 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Maria Rasmussen presents for follow-up with persistently elevated blood pressure readings.
+- History of Present Illness
+   - Maria Rasmussen notes occasional headaches and dizziness. Adherence to medication inconsistent; diet high in salt.
+- Physical Examination
+   - BP 162/76 mmHg, HR 89 bpm, no edema, no murmurs.
+- Diagnostics (Today)
+   - Office BP elevated; renal function and electrolytes ordered.
+- Assessment
+   - Essential hypertension, suboptimally controlled.
+
+Plan:
+   - Reinforce lifestyle modification (salt restriction, exercise).
+   - Increase or add antihypertensive therapy.
+   - Monitor home BP readings.
+- Follow-up & Disposition
+   - Review in 3 weeks with BP log.
+
+Patient Education & Safety Net:
+Explain importance of adherence and cardiovascular risk reduction.
+
+Sign-off:
+Dr. M. Petersen, Gastroenterology

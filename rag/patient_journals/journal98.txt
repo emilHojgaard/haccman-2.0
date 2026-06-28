@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 230476-6970
+Encounter Date - 2023-01-27
+Author - Dr. R. Iversen, Neurology
+Patient Name - Brian Laursen
+
+Medical History & Prior Results:
+- Past Diagnoses — Asthma (1986), Gout (2018).
+- Recent Lab Results (2023-01-19)
+    Hb 7.2 mmol/L (low)
+    Ferritin 86 µg/L
+    CRP 1 mg/L
+    Creatinine 92 µmol/L
+- Prior Consultations
+    - 2022-11-10 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2022-10-06 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Furosemide 40 mg daily, Amlodipine 5 mg daily, Empagliflozin 10 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Brian Laursen complains of fever, productive cough, and right-sided chest pain.
+- History of Present Illness
+   - Brian Laursen developed a sudden cough with green sputum 2 days ago, followed by fevers and pleuritic pain. Increased breathlessness when climbing stairs; no recent travel.
+- Physical Examination
+   - Febrile (37.6 °C), RR 19/min, SpO₂ 98% on room air. Crackles and bronchial breath sounds over the right lower zone; no peripheral edema.
+- Diagnostics (Today)
+   - CXR shows right lower lobe consolidation. CRP elevated; WBC mildly raised. Consider sputum culture if severe or atypical features.
+- Assessment
+   - Community-acquired pneumonia, lobar pattern, clinically stable for ward/ambulatory care depending on scores.
+
+Plan:
+   - Start empiric antibiotics per local protocol; provide antipyretics and hydration.
+   - Titrate oxygen to target saturations and encourage early mobilization and incentive spirometry.
+   - Review response within 48–72 hours; escalate if hypoxemia or sepsis criteria develop.
+- Follow-up & Disposition
+   - Safety check in 3 days if outpatient; clinical review in 2 weeks to ensure recovery.
+
+Patient Education & Safety Net:
+Discuss contagious period, cough hygiene, and gradual return to activity. Reinforce smoking cessation and vaccination where applicable.
+
+Sign-off:
+Dr. R. Iversen, Neurology

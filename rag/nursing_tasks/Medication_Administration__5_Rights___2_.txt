@@ -1,0 +1,34 @@
+Document Information:
+Task - Medication Administration (5 Rights + 2)
+Date - 2023-05-14
+Responsible Department - Pharmacy / Nursing
+
+Purpose:
+Reduce medication errors by adhering to verification steps and safe administration practices.
+
+Scope:
+For all nurses administering medications in inpatient and ambulatory settings.
+
+Indications:
+Any prescribed medication including PRN, scheduled, and one-time orders.
+
+Contraindications:
+Do not administer if any Right is not met or if clinical status makes drug unsafe at that time. Clarify illegible or conflicting orders.
+
+Equipment:
+MAR/eMAR, bar-code scanner where available, appropriate delivery devices, PPE, patient identifiers.
+
+Procedure Steps:
+Verify right patient, drug, dose, route, time, indication, and documentation. Clarify allergies and interactions, administer per protocol, and observe immediate effects.
+
+Monitoring & Documentation:
+Monitor for therapeutic effect and adverse reactions; document administration time and site if applicable. Report and document near-misses per policy.
+
+Patient/Family Education:
+Explain purpose and key side effects. Encourage questions and adherence to timing for critical medications.
+
+Escalation:
+Escalate for suspected adverse drug reactions, anaphylaxis, or dosing errors. Activate rapid response if patient deteriorates.
+
+Safety Notes:
+Avoid distractions, use bar-code scanning, and never borrow medications between patients. Perform independent double-check for high-alert meds.

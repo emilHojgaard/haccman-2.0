@@ -1,0 +1,28 @@
+Document Information:
+Disease - Appendicitis (Acute)
+Date - 2024-07-01
+Responsible Department - General Surgery
+
+Overview:
+Appendicitis is acute inflammation of the appendix requiring timely diagnosis and usually surgery. Nursing care supports pain control, NPO status, and perioperative safety.
+
+Nursing Assessment:
+Assess pain migration to the right lower quadrant, fever, nausea, and guarding. Review pregnancy status and last oral intake.
+
+Key Monitoring:
+Monitor vitals, pain scores, and signs of perforation such as worsening tenderness or sepsis. Track fluids and antibiotics timing.
+
+Nursing Interventions:
+Maintain NPO, establish IV access, and administer fluids and antibiotics per orders. Provide analgesia and assist with surgical preparation.
+
+Patient Education:
+Explain the surgical plan and recovery expectations. Reinforce early mobilization and wound care after surgery.
+
+When to Escalate:
+Escalate for signs of peritonitis, hemodynamic instability, or uncontrolled pain. Notify the team for suspected abscess or deterioration.
+
+Documentation & Coordination:
+Document exam changes, analgesia response, and antibiotic timing. Coordinate handover to operating room and postoperative unit.
+
+Prognosis:
+Outcomes are excellent with early intervention. Nursing NPO adherence and antibiotic timing reduce complications.

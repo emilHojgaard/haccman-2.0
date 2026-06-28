@@ -1,0 +1,28 @@
+Document Information:
+Disease - Upper Gastrointestinal Bleed (UGIB)
+Date - 2025-02-04
+Responsible Department - Gastroenterology
+
+Overview:
+UGIB presents with hematemesis or melena and can be life-threatening. Nursing care emphasizes resuscitation, transfusion safety, and endoscopy coordination.
+
+Nursing Assessment:
+Assess hemodynamics, stool color, and bleeding history including anticoagulants or NSAIDs. Evaluate comorbid liver disease.
+
+Key Monitoring:
+Monitor vitals, orthostatics, hemoglobin trends, and mental status. Track transfusions and response to therapy.
+
+Nursing Interventions:
+Establish large-bore IV access, administer fluids and PPIs as ordered, and prepare for endoscopy. Position appropriately and manage aspiration risk.
+
+Patient Education:
+Explain fasting, procedure steps, and medication adjustments. Counsel on avoiding NSAIDs and alcohol if relevant.
+
+When to Escalate:
+Escalate for persistent hypotension, ongoing bleeding, or variceal suspicion. Notify the team for massive transfusion protocols.
+
+Documentation & Coordination:
+Record estimated blood loss, transfusion details, and endoscopy timing. Coordinate with endoscopy unit and anesthesia.
+
+Prognosis:
+Outcomes depend on source and comorbidity; early endoscopy improves control. Nursing resuscitation limits complications.

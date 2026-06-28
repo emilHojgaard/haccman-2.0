@@ -1,0 +1,34 @@
+Document Information:
+Task - Transfusion Administration (Packed RBCs)
+Date - 2025-08-11
+Responsible Department - Transfusion / Medical Ward
+
+Purpose:
+Administer red cell transfusions safely while minimizing reactions and documentation errors.
+
+Scope:
+For nurses credentialed in transfusion practices in inpatient units and day hospitals.
+
+Indications:
+Symptomatic anemia or critical thresholds per policy, perioperative needs, or active bleeding stabilization.
+
+Contraindications:
+Avoid unnecessary transfusion in stable chronic anemia when alternatives exist. Defer during unresolved febrile reactions.
+
+Equipment:
+Verified blood product, transfusion set with filter, IV access, vitals monitor, emergency medications, documentation forms.
+
+Procedure Steps:
+Perform two-person ID check, verify product compatibility and expiry, obtain baseline vitals, start infusion at ordered rate, and observe closely in the first 15 minutes. Reassess vitals per schedule.
+
+Monitoring & Documentation:
+Monitor for fever, chills, dyspnea, hypotension, rash, or back pain. Document start/stop times, vitals, volume infused, and any reactions.
+
+Patient/Family Education:
+Explain signs of reaction and to call immediately if symptoms occur. Discuss expected duration and post-transfusion care.
+
+Escalation:
+Stop transfusion and follow reaction protocol if suspected; keep IV line with saline and notify transfusion service. Send required samples and product for investigation.
+
+Safety Notes:
+Never bypass identity checks; use dedicated tubing with filter. Do not add medications to blood products.

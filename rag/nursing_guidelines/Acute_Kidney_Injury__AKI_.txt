@@ -1,0 +1,28 @@
+Document Information:
+Disease - Acute Kidney Injury (AKI)
+Date - 2023-12-09
+Responsible Department - Nephrology
+
+Overview:
+AKI is an abrupt decline in renal function that may be prerenal, intrinsic, or postrenal. Nursing priorities include volume optimization, nephrotoxin avoidance, and electrolyte safety.
+
+Nursing Assessment:
+Assess fluid status, urine output, medications, and potential obstruction. Review recent illness, contrast exposure, and sepsis indicators.
+
+Key Monitoring:
+Monitor intake/output, electrolytes (especially potassium), acid–base status, and weight. Track response to fluids or diuretics when used.
+
+Nursing Interventions:
+Hold nephrotoxins as ordered, administer fluids judiciously, and prepare for renal replacement therapy if indicated. Support safe medication dosing.
+
+Patient Education:
+Explain AKI causes, avoidance of NSAIDs, and follow-up labs. Discuss hydration targets and when to return for worsening symptoms.
+
+When to Escalate:
+Escalate for refractory hyperkalemia, severe acidosis, pulmonary edema, or uremic signs. Notify nephrology if etiology is unclear or severe.
+
+Documentation & Coordination:
+Document fluid balances, lab changes, and medication adjustments. Coordinate follow-up creatinine checks after discharge.
+
+Prognosis:
+Many cases recover if causes are reversed. Nursing vigilance prevents electrolyte complications.

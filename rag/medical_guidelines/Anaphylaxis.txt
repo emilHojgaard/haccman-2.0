@@ -1,0 +1,28 @@
+Document Information:
+Disease - Anaphylaxis
+Date - 2025-03-22
+Responsible Department - Emergency Medicine
+
+Purpose:
+Ensure rapid recognition and first-line treatment of anaphylaxis with intramuscular epinephrine.
+
+Scope:
+For prehospital and emergency clinicians managing acute systemic hypersensitivity reactions.
+
+Indications:
+Acute onset of skin or mucosal symptoms with respiratory compromise, hypotension, or gastrointestinal symptoms after exposure to a likely allergen.
+
+Diagnosis:
+Make a clinical diagnosis based on compatible features and timing; do not delay treatment for confirmatory testing. Identify triggers such as foods, medications, or stings.
+
+Treatment/Management:
+Administer intramuscular epinephrine promptly and repeat if needed; provide airway support, oxygen, and IV fluids. Add antihistamines and corticosteroids as adjuncts after epinephrine.
+
+Monitoring & Follow-up:
+Observe for biphasic reactions and ensure access to self-injectable epinephrine on discharge. Arrange allergy referral for trigger evaluation and action plan.
+
+When to Escalate:
+Escalate for airway compromise, refractory hypotension, or severe bronchospasm requiring advanced airway or vasopressors. Involve critical care for persistent instability.
+
+Safety Notes:
+Epinephrine is first-line; avoid delaying its use. Review beta-blocker therapy which may blunt responses and consider glucagon in refractory cases.

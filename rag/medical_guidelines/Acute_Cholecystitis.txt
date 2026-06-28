@@ -1,0 +1,28 @@
+Document Information:
+Disease - Acute Cholecystitis
+Date - 2025-03-22
+Responsible Department - General Surgery
+
+Purpose:
+Guide timely diagnosis and surgical planning for acute inflammation of the gallbladder, typically due to cystic duct obstruction.
+
+Scope:
+Applies to adults with right upper quadrant pain presenting to emergency or surgical services.
+
+Indications:
+Steady right upper quadrant pain with fever, leukocytosis, and positive Murphy sign; nausea and vomiting are common.
+
+Diagnosis:
+Use abdominal ultrasound as initial imaging to identify stones, wall thickening, and sonographic Murphy sign; consider HIDA scan if equivocal. Evaluate severity and suitability for early surgery.
+
+Treatment/Management:
+Provide analgesia, fluids, and antibiotics targeting biliary flora; arrange early laparoscopic cholecystectomy when feasible. Use percutaneous cholecystostomy for high-risk surgical candidates.
+
+Monitoring & Follow-up:
+Monitor fever curve, liver tests, and pain control; watch for biliary obstruction or perforation. Plan outpatient follow-up for pathology and risk factor modification.
+
+When to Escalate:
+Escalate for sepsis, gallbladder gangrene, or perforation. Seek advanced support for cholangitis or choledocholithiasis.
+
+Safety Notes:
+Screen for antibiotic allergies and adjust dosing in renal or hepatic impairment. Employ DVT prophylaxis perioperatively based on risk.

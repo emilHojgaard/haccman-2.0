@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 150150-5855
+Encounter Date - 2023-12-12
+Author - Dr. K. Østergaard, General Surgery
+Patient Name - Grethe Nielsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Irritable bowel syndrome (1999), Asthma (1994), Dyslipidemia (2004), Migraine (1993).
+- Recent Lab Results (2023-09-15)
+    Hb 7.0 mmol/L (low)
+    Ferritin 34 µg/L
+    CRP 17 mg/L
+    Creatinine 70 µmol/L
+- Prior Consultations
+    - 2023-10-20 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2023-04-21 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Furosemide 40 mg daily, Levothyroxine 75 µg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Grethe Nielsen presents with joint stiffness and increased pain.
+- History of Present Illness
+   - Grethe Nielsen notes worsening knee pain over 8 days, aggravated by activity. No trauma or systemic symptoms.
+- Physical Examination
+   - Mild joint effusion, bony tenderness, no warmth. BP 115/82.
+- Diagnostics (Today)
+   - No acute inflammation; radiographs show osteoarthritic changes.
+- Assessment
+   - Osteoarthritis flare-up.
+
+Plan:
+   - Use acetaminophen or topical NSAID.
+   - Encourage physiotherapy and weight management.
+   - Avoid prolonged inactivity.
+- Follow-up & Disposition
+   - Reassess pain control in 5 weeks.
+
+Patient Education & Safety Net:
+Discuss chronic nature of OA and exercise importance.
+
+Sign-off:
+Dr. K. Østergaard, General Surgery

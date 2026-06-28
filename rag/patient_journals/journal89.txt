@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 130997-3782
+Encounter Date - 2023-02-22
+Author - Dr. M. Petersen, Gastroenterology
+Patient Name - Lars Laursen
+
+Medical History & Prior Results:
+- Past Diagnoses — Dyslipidemia (2010), Iron Deficiency (2010), Irritable bowel syndrome (2017), COPD (2020), Chronic lower back pain.
+- Recent Lab Results (2023-01-23)
+    Hb 7.5 mmol/L
+    Ferritin 29 µg/L
+    CRP 7 mg/L
+    Creatinine 95 µmol/L
+- Prior Consultations
+    - 2022-09-02 — Routine check-up — stable BP, mild anemia noted.
+    - 2022-10-20 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Atorvastatin 20 mg nightly, Levothyroxine 75 µg daily, Empagliflozin 10 mg daily, Amlodipine 5 mg daily.
+- Allergies — ACE inhibitors (cough).
+
+Present Illness:
+   - Lars Laursen presents with redness and swelling of the lower leg.
+- History of Present Illness
+   - Lars Laursen noticed redness and tenderness spreading over 2 days. No trauma reported.
+- Physical Examination
+   - Warm, erythematous area with indistinct margins, mild edema. T 36.9 °C.
+- Diagnostics (Today)
+   - Clinical cellulitis; CBC and CRP elevated.
+- Assessment
+   - Bacterial cellulitis, likely streptococcal.
+
+Plan:
+   - Start empiric oral antibiotic covering streptococci.
+   - Mark margin and monitor spread.
+   - Elevate limb and manage pain.
+- Follow-up & Disposition
+   - Review in 3 days to assess response.
+
+Patient Education & Safety Net:
+Explain signs of worsening infection and when to seek urgent review.
+
+Sign-off:
+Dr. M. Petersen, Gastroenterology

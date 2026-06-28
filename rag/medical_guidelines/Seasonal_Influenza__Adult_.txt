@@ -1,0 +1,28 @@
+Document Information:
+Disease - Seasonal Influenza (Adult)
+Date - 2025-03-22
+Responsible Department - Infectious Diseases
+
+Purpose:
+Support timely diagnosis, antiviral consideration, and complication prevention for adult influenza.
+
+Scope:
+For outpatient and inpatient care during influenza seasons and outbreaks.
+
+Indications:
+Abrupt fever, myalgias, cough, sore throat, and fatigue with known community circulation.
+
+Diagnosis:
+Use clinical judgment and rapid testing when results influence therapy or isolation. Evaluate for secondary bacterial pneumonia if symptoms recur after initial improvement.
+
+Treatment/Management:
+Provide supportive care and consider antivirals for high-risk patients or early presenters. Implement isolation and vaccinate when appropriate.
+
+Monitoring & Follow-up:
+Monitor oxygenation and hydration; watch for myocarditis or encephalopathy in severe illness. Arrange follow-up for persistent cough or wheeze.
+
+When to Escalate:
+Escalate for hypoxemia, decompensated comorbidities, or progressive pneumonia. Consider hospitalization for severe disease or high-risk hosts.
+
+Safety Notes:
+Review renal dosing for antivirals and avoid unnecessary antibiotics. Encourage vaccination for patients and close contacts.

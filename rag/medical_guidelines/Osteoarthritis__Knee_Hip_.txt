@@ -1,0 +1,28 @@
+Document Information:
+Disease - Osteoarthritis (Knee/Hip)
+Date - 2025-03-22
+Responsible Department - Rheumatology
+
+Purpose:
+Provide symptom control strategies and functional optimization for degenerative joint disease of the knee or hip.
+
+Scope:
+For outpatient management with referral for advanced therapy when conservative measures fail.
+
+Indications:
+Activity-related joint pain, stiffness after rest, and crepitus with reduced range of motion; imaging shows joint space narrowing and osteophytes.
+
+Diagnosis:
+Clinical assessment supported by plain radiographs when needed; exclude inflammatory arthritis or referred pain. Evaluate gait, strength, and assistive device needs.
+
+Treatment/Management:
+Use exercise therapy, weight management, topical/oral analgesics, and intra-articular injections as appropriate. Consider arthroplasty for severe, refractory disability.
+
+Monitoring & Follow-up:
+Track pain, function, and medication tolerance; reinforce exercise adherence. Revisit surgical candidacy if quality of life declines despite optimized care.
+
+When to Escalate:
+Escalate for rapid functional decline, severe night pain, or failure of conservative therapy. Refer to orthopedics for advanced options.
+
+Safety Notes:
+Limit chronic NSAID use in high-risk patients and protect gastric and renal function. Counsel on safe activity progression to prevent falls.

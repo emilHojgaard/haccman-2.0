@@ -1,0 +1,28 @@
+Document Information:
+Disease - Acute Kidney Injury (AKI)
+Date - 2025-03-22
+Responsible Department - Nephrology
+
+Purpose:
+Provide a structured approach to identifying etiology and reversing acute kidney injury.
+
+Scope:
+For inpatient and emergency care where sudden creatinine rise or oliguria is detected.
+
+Indications:
+Abrupt decline in kidney function with reduced urine output, often in sepsis, volume depletion, or nephrotoxin exposure.
+
+Diagnosis:
+Classify prerenal, intrinsic, and postrenal mechanisms through exam, labs, urinalysis, and imaging for obstruction. Review medications for nephrotoxins and dose adjustments.
+
+Treatment/Management:
+Restore perfusion with fluids when indicated, remove nephrotoxins, and treat underlying causes. Use renal replacement therapy for standard indications.
+
+Monitoring & Follow-up:
+Monitor fluid balance, electrolytes, acid–base status, and drug levels for renally cleared agents. Plan follow-up to reassess recovery and adjust long-term therapy.
+
+When to Escalate:
+Escalate for refractory hyperkalemia, severe acidosis, pulmonary edema, or uremic complications. Involve nephrology early if etiology is unclear or severe.
+
+Safety Notes:
+Avoid contrast and NSAIDs where possible and correct doses for GFR. Use cautious fluid strategies in heart failure and cirrhosis.

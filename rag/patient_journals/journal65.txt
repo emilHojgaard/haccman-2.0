@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 101240-8855
+Encounter Date - 2025-07-25
+Author - Dr. J. Knudsen, ENT
+Patient Name - Maja Iversen
+
+Medical History & Prior Results:
+- Past Diagnoses — GERD (1993), Dyslipidemia (2023), Hypothyroidism (2019), Atrial fibrillation (2024), Chronic lower back pain.
+- Recent Lab Results (2025-06-29)
+    Hb 8.4 mmol/L
+    Ferritin 92 µg/L
+    CRP 20 mg/L
+    Creatinine 109 µmol/L
+- Prior Consultations
+    - 2025-03-21 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2025-06-17 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Bisoprolol 5 mg daily, Ferrous sulfate 100 mg every other day.
+- Allergies — None known.
+
+Present Illness:
+   - Maja Iversen reports fatigue, reduced exercise tolerance, and occasional lightheadedness.
+- History of Present Illness
+   - Maja Iversen notes weeks of progressive tiredness and exertional dyspnea. Diet is low in iron-rich foods; denies obvious bleeding but reports intermittent dyspepsia with NSAID use. No black stools observed at home.
+- Physical Examination
+   - Pale conjunctivae; soft systolic flow murmur; no focal deficits. Vitals stable (BP 136/81 mmHg, HR 106 bpm). Abdomen soft, non-tender.
+- Diagnostics (Today)
+   - Hb low with microcytosis, low ferritin, and reduced transferrin saturation. Stool testing and GI evaluation considered if no dietary cause identified.
+- Assessment
+   - Microcytic anemia most consistent with iron deficiency; source evaluation warranted (dietary vs occult GI blood loss).
+
+Plan:
+   - Start oral iron with vitamin C; discuss GI side effects and adherence strategies (alternate-day dosing if needed).
+   - Review NSAID exposure and consider gastroprotection or alternatives.
+   - Arrange GI work-up if poor response or red flags emerge (e.g., melena, weight loss).
+- Follow-up & Disposition
+   - Recheck Hb and ferritin in 8 weeks; earlier review if symptoms worsen.
+
+Patient Education & Safety Net:
+Explain expected timeline for symptom improvement and iron store repletion. Advise on iron-rich foods and to seek care for black stools, severe dizziness, or chest pain.
+
+Sign-off:
+Dr. J. Knudsen, ENT

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 020570-7343
+Encounter Date - 2025-09-03
+Author - Dr. E. Dam, Rheumatology
+Patient Name - Jonas Hansen
+
+Medical History & Prior Results:
+- Past Diagnoses — Hypothyroidism (2000), Obesity (2019), Osteoporosis (2011), CKD (1998), Chronic lower back pain.
+- Recent Lab Results (2025-07-10)
+    Hb 6.5 mmol/L (low)
+    Ferritin 34 µg/L
+    CRP 25 mg/L
+    Creatinine 65 µmol/L
+- Prior Consultations
+    - 2025-02-08 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2025-08-01 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Metformin 500 mg BID, Ferrous sulfate 100 mg every other day, Atorvastatin 20 mg nightly.
+- Allergies — None known.
+
+Present Illness:
+   - Jonas Hansen reports worsening lower back pain.
+- History of Present Illness
+   - Jonas Hansen has chronic back pain now intensified after lifting or prolonged sitting. No radicular symptoms or incontinence.
+- Physical Examination
+   - Paraspinal muscle tenderness, normal reflexes and strength. BP 131/96.
+- Diagnostics (Today)
+   - Mechanical exacerbation of chronic low back pain.
+- Assessment
+   - Chronic low back pain, acute exacerbation.
+
+Plan:
+   - Encourage activity as tolerated.
+   - Use heat therapy and simple analgesics.
+   - Refer for physiotherapy if persistent.
+- Follow-up & Disposition
+   - Follow-up in 5 weeks.
+
+Patient Education & Safety Net:
+Discuss posture, core strengthening, and weight control.
+
+Sign-off:
+Dr. E. Dam, Rheumatology

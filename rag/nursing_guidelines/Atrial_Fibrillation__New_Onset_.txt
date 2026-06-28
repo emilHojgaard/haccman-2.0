@@ -1,0 +1,28 @@
+Document Information:
+Disease - Atrial Fibrillation (New Onset)
+Date - 2024-10-12
+Responsible Department - Cardiology Unit
+
+Overview:
+New-onset atrial fibrillation can cause palpitations and hemodynamic instability. Nursing care prioritizes rate control safety, anticoagulation checks, and symptom relief.
+
+Nursing Assessment:
+Assess hemodynamic stability, chest discomfort, dyspnea, and fatigue. Review precipitating illness, thyroid status, alcohol intake, and medication history.
+
+Key Monitoring:
+Monitor telemetry, BP, and heart rate response to therapy; observe for bleeding if anticoagulated. Track symptom change with rate control or cardioversion plans.
+
+Nursing Interventions:
+Prepare for rate control medications and potential cardioversion; maintain NPO as ordered. Educate on anticoagulation rationale and precautions.
+
+Patient Education:
+Discuss triggers, stroke risk, and adherence to anticoagulants when indicated. Provide guidance on heart rate monitoring and activity limits until stabilized.
+
+When to Escalate:
+Escalate for hypotension, chest pain, syncope, or pre-excited AF patterns. Notify cardiology for rapid deterioration or failed rate control.
+
+Documentation & Coordination:
+Document rhythm strips, medication timing, and responses. Coordinate anticoagulation counseling and outpatient rhythm evaluation.
+
+Prognosis:
+Many patients stabilize with rate or rhythm control. Nursing education reduces recurrence triggers and embolic events.

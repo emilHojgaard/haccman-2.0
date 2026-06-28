@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 061155-0436
+Encounter Date - 2025-07-30
+Author - Dr. P. Jensen, Psychiatry
+Patient Name - Søren Larsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Migraine (1995), Gallstones (1993), Iron Deficiency (1982), Atrial fibrillation (1988).
+- Recent Lab Results (2025-05-30)
+    Hb 8.5 mmol/L
+    Ferritin 20 µg/L
+    CRP 17 mg/L
+    Creatinine 88 µmol/L
+- Prior Consultations
+    - 2025-04-27 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2025-06-06 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Lisinopril 10 mg daily, Ferrous sulfate 100 mg every other day, Bisoprolol 5 mg daily, Levothyroxine 75 µg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Søren Larsen presents with right lower quadrant abdominal pain and nausea.
+- History of Present Illness
+   - Søren Larsen reports 16 hours of migrating abdominal pain, initially periumbilical, now localized to right iliac fossa, with mild fever.
+- Physical Examination
+   - T 36.3 °C, tenderness and rebound in right lower quadrant, guarding present.
+- Diagnostics (Today)
+   - Leukocytosis and elevated CRP; ultrasound/CT confirms inflamed appendix.
+- Assessment
+   - Acute appendicitis.
+
+Plan:
+   - NPO, IV fluids, analgesia.
+   - Surgical evaluation for appendectomy.
+   - Administer pre-operative antibiotics.
+- Follow-up & Disposition
+   - Postoperative review in 10 days.
+
+Patient Education & Safety Net:
+Explain surgical procedure and recovery expectations.
+
+Sign-off:
+Dr. P. Jensen, Psychiatry

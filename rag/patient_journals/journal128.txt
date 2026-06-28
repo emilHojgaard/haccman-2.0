@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 200674-8132
+Encounter Date - 2025-07-16
+Author - Dr. P. Jensen, Psychiatry
+Patient Name - Henrik Gram
+
+Medical History & Prior Results:
+- Past Diagnoses — Heart failure (HFpEF) (2016), Obesity (1993), Chronic lower back pain.
+- Recent Lab Results (2025-07-06)
+    Hb 8.3 mmol/L
+    Ferritin 84 µg/L
+    CRP 1 mg/L
+    Creatinine 73 µmol/L
+- Prior Consultations
+    - 2024-09-20 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2025-05-01 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Metformin 500 mg BID, Lisinopril 10 mg daily, Bisoprolol 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Henrik Gram reports dysuria, frequency, and suprapubic discomfort.
+- History of Present Illness
+   - Henrik Gram developed burning on urination for 5 days. No flank pain or fever.
+- Physical Examination
+   - Afebrile (37.8 °C), suprapubic tenderness. No costovertebral angle tenderness.
+- Diagnostics (Today)
+   - Urinalysis positive for nitrites and leukocytes.
+- Assessment
+   - Uncomplicated lower urinary tract infection.
+
+Plan:
+   - Start short course of oral antibiotic per protocol.
+   - Encourage fluid intake.
+   - Review symptoms resolution.
+- Follow-up & Disposition
+   - Follow-up if symptoms persist beyond 5 days.
+
+Patient Education & Safety Net:
+Advise to complete antibiotics and monitor for fever or flank pain.
+
+Sign-off:
+Dr. P. Jensen, Psychiatry

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 250880-7901
+Encounter Date - 2023-07-01
+Author - Dr. M. Petersen, Gastroenterology
+Patient Name - Maria Østergaard
+
+Medical History & Prior Results:
+- Past Diagnoses — Depression (1990), COPD (1988), Chronic lower back pain.
+- Recent Lab Results (2023-04-21)
+    Hb 6.6 mmol/L (low)
+    Ferritin 86 µg/L
+    CRP 8 mg/L
+    Creatinine 85 µmol/L
+- Prior Consultations
+    - 2022-09-12 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2023-03-12 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Atorvastatin 20 mg nightly, Metformin 500 mg BID, Amlodipine 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Maria Østergaard presents with hearing voices and increased suspiciousness.
+- History of Present Illness
+   - Maria Østergaard reports auditory hallucinations and belief that neighbors are watching. Sleep poor; no substance use disclosed. Non-adherent with medication for 2 weeks.
+- Physical Examination
+   - Distracted by internal stimuli, flat affect, limited insight. Vitals: BP 98/69, HR 110 bpm.
+- Diagnostics (Today)
+   - Active psychosis; rule out intoxication or medical cause.
+- Assessment
+   - Schizophrenia, acute exacerbation due to medication nonadherence.
+
+Plan:
+   - Restart antipsychotic (oral or depot).
+   - Ensure safe environment; involve crisis team.
+   - Assess capacity and consider inpatient admission if risk present.
+- Follow-up & Disposition
+   - Close follow-up within 3 days or inpatient as required.
+
+Patient Education & Safety Net:
+Discuss importance of medication adherence and early relapse signs with patient and relatives.
+
+Sign-off:
+Dr. M. Petersen, Gastroenterology

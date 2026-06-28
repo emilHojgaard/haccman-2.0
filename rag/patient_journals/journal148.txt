@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 020959-2066
+Encounter Date - 2025-03-09
+Author - Dr. L. Holm, Cardiology
+Patient Name - Søren Larsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Osteoporosis (1985), Iron Deficiency (2004), Chronic lower back pain.
+- Recent Lab Results (2025-02-23)
+    Hb 7.3 mmol/L (low)
+    Ferritin 17 µg/L
+    CRP 3 mg/L
+    Creatinine 64 µmol/L
+- Prior Consultations
+    - 2024-12-24 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2024-11-25 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Empagliflozin 10 mg daily, Lisinopril 10 mg daily, Furosemide 40 mg daily, Atorvastatin 20 mg nightly.
+- Allergies — NSAIDs (dyspepsia).
+
+Present Illness:
+   - Søren Larsen complains of fever, productive cough, and right-sided chest pain.
+- History of Present Illness
+   - Søren Larsen developed a sudden cough with green sputum 2 days ago, followed by fevers and pleuritic pain. Increased breathlessness when climbing stairs; no recent travel.
+- Physical Examination
+   - Febrile (36.1 °C), RR 23/min, SpO₂ 93% on room air. Crackles and bronchial breath sounds over the right lower zone; no peripheral edema.
+- Diagnostics (Today)
+   - CXR shows right lower lobe consolidation. CRP elevated; WBC mildly raised. Consider sputum culture if severe or atypical features.
+- Assessment
+   - Community-acquired pneumonia, lobar pattern, clinically stable for ward/ambulatory care depending on scores.
+
+Plan:
+   - Start empiric antibiotics per local protocol; provide antipyretics and hydration.
+   - Titrate oxygen to target saturations and encourage early mobilization and incentive spirometry.
+   - Review response within 48–72 hours; escalate if hypoxemia or sepsis criteria develop.
+- Follow-up & Disposition
+   - Safety check in 3 days if outpatient; clinical review in 1 weeks to ensure recovery.
+
+Patient Education & Safety Net:
+Discuss contagious period, cough hygiene, and gradual return to activity. Reinforce smoking cessation and vaccination where applicable.
+
+Sign-off:
+Dr. L. Holm, Cardiology

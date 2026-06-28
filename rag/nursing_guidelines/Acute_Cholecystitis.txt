@@ -1,0 +1,28 @@
+Document Information:
+Disease - Acute Cholecystitis
+Date - 2024-08-15
+Responsible Department - General Surgery
+
+Overview:
+Acute cholecystitis is gallbladder inflammation from cystic duct obstruction. Nursing care emphasizes analgesia, antibiotics, and preparation for early surgery.
+
+Nursing Assessment:
+Assess right upper quadrant pain, fever, and Murphy sign; note nausea and vomiting. Review past gallstone events and comorbidities.
+
+Key Monitoring:
+Monitor vitals, pain control, and liver tests when available. Watch for cholangitis signs such as jaundice or hypotension.
+
+Nursing Interventions:
+Maintain NPO, start IV fluids and antibiotics as ordered, and manage analgesia. Prepare for laparoscopic cholecystectomy or drainage in high-risk patients.
+
+Patient Education:
+Explain procedure expectations, fasting rationale, and postoperative care. Discuss diet advancement and wound care.
+
+When to Escalate:
+Escalate for sepsis, uncontrolled pain, or suspected perforation. Alert the team for worsening jaundice or hypotension.
+
+Documentation & Coordination:
+Record antibiotic timing, pain scores, and surgical plans. Coordinate imaging and OR transfer.
+
+Prognosis:
+Timely surgery usually resolves symptoms. Nursing support prevents dehydration and delays to treatment.

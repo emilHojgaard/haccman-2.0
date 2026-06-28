@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 160268-4171
+Encounter Date - 2024-06-07
+Author - Dr. P. Jensen, Psychiatry
+Patient Name - Maria Madsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Depression (2018), Iron Deficiency (1996), Heart failure (HFpEF) (2021), Chronic lower back pain.
+- Recent Lab Results (2024-04-30)
+    Hb 7.2 mmol/L (low)
+    Ferritin 63 µg/L
+    CRP 5 mg/L
+    Creatinine 101 µmol/L
+- Prior Consultations
+    - 2023-11-11 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2024-05-13 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Pantoprazole 40 mg daily, Bisoprolol 5 mg daily, Metformin 500 mg BID, Lisinopril 10 mg daily.
+- Allergies — ACE inhibitors (cough).
+
+Present Illness:
+   - Maria Madsen presents with throbbing unilateral headache and nausea.
+- History of Present Illness
+   - Maria Madsen reports recurrent headaches lasting 11 hours, aggravated by light and noise. No focal neurological deficits.
+- Physical Examination
+   - Normal neuro exam. BP 161/97, HR 74.
+- Diagnostics (Today)
+   - Clinical diagnosis of migraine; exclude secondary causes if atypical.
+- Assessment
+   - Migraine without aura.
+
+Plan:
+   - Administer triptan and antiemetic as needed.
+   - Avoid triggers, maintain hydration and regular sleep.
+   - Consider prophylactic therapy if frequent attacks.
+- Follow-up & Disposition
+   - Follow-up in 8 weeks for frequency reassessment.
+
+Patient Education & Safety Net:
+Discuss trigger identification and medication overuse prevention.
+
+Sign-off:
+Dr. P. Jensen, Psychiatry

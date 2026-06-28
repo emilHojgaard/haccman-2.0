@@ -1,0 +1,28 @@
+Document Information:
+Disease - Spontaneous Pneumothorax
+Date - 2024-07-20
+Responsible Department - Respiratory/ED Unit
+
+Overview:
+Spontaneous pneumothorax is air in the pleural space causing lung collapse. Nursing care emphasizes oxygenation, pain control, and drain system safety when used.
+
+Nursing Assessment:
+Assess acute pleuritic pain, dyspnea, and asymmetry of breath sounds. Review precipitating events and prior episodes; evaluate stability.
+
+Key Monitoring:
+Monitor SpO₂, respiratory effort, and chest pain. If a drain is placed, check for bubbling/air leak, water seal level, and subcutaneous emphysema.
+
+Nursing Interventions:
+Provide oxygen per orders, optimize analgesia, and assist with needle aspiration or chest drain setup using sterile technique. Keep the system below chest level and ensure secure connections.
+
+Patient Education:
+Educate on avoiding valsalva/strain and when to seek urgent care for sudden dyspnea. Discuss air travel and diving restrictions until cleared.
+
+When to Escalate:
+Escalate immediately for tension signs: severe distress, hypotension, or tracheal deviation. Notify respiratory or surgical teams for persistent air leak.
+
+Documentation & Coordination:
+Record respiratory status, drain details, and analgesia effectiveness. Coordinate surgical follow-up for recurrence risk.
+
+Prognosis:
+Primary cases often resolve with simple measures; recurrence is possible. Nursing drain care reduces complications.

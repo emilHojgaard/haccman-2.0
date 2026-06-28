@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 271096-9615
+Encounter Date - 2024-06-16
+Author - Dr. T. Bæk, Infectious Diseases
+Patient Name - Mette Knudsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Osteoarthritis (2021), Irritable bowel syndrome (1994).
+- Recent Lab Results (2024-05-20)
+    Hb 7.1 mmol/L (low)
+    Ferritin 84 µg/L
+    CRP 25 mg/L
+    Creatinine 94 µmol/L
+- Prior Consultations
+    - 2024-02-05 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2024-04-15 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Pantoprazole 40 mg daily, Levothyroxine 75 µg daily.
+- Allergies — Penicillin (rash).
+
+Present Illness:
+   - Mette Knudsen presents with fever, flank pain, and urinary symptoms.
+- History of Present Illness
+   - Mette Knudsen reports 2 days of dysuria, chills, and right-sided flank pain.
+- Physical Examination
+   - T 36.2 °C, costovertebral angle tenderness on right side. HR 76 bpm.
+- Diagnostics (Today)
+   - Urinalysis positive for nitrites; elevated CRP and WBC.
+- Assessment
+   - Acute pyelonephritis.
+
+Plan:
+   - Start empiric antibiotic therapy.
+   - Hydration and pain control.
+   - Hospitalize if vomiting or sepsis.
+- Follow-up & Disposition
+   - Recheck in 10 days to confirm recovery.
+
+Patient Education & Safety Net:
+Advise early presentation for recurrence; complete full antibiotic course.
+
+Sign-off:
+Dr. T. Bæk, Infectious Diseases

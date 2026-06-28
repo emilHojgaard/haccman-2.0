@@ -1,0 +1,34 @@
+Document Information:
+Task - Oxygen Therapy (Titration & Device Selection)
+Date - 2025-03-09
+Responsible Department - Respiratory / Medical Ward
+
+Purpose:
+Deliver and titrate oxygen to achieve ordered saturation targets while minimizing harm such as CO₂ retention.
+
+Scope:
+For adult inpatients requiring supplemental oxygen in ward or ED settings. Includes nasal cannula, simple masks, and venturi systems.
+
+Indications:
+Hypoxemia from respiratory or cardiac illness, perioperative needs, or palliative dyspnea relief.
+
+Contraindications:
+No absolute contraindications; use caution in CO₂ retainers and flammable environments. Follow fire safety policies strictly.
+
+Equipment:
+Oxygen source, appropriate delivery interface, humidification if required, pulse oximeter, signage, and PPE.
+
+Procedure Steps:
+Assess baseline saturations and clinical status, choose device, and titrate flow to ordered target. Reassess after changes and document device and settings.
+
+Monitoring & Documentation:
+Monitor SpO₂, work of breathing, and comfort; check skin integrity at contact points. Record flow, device, and response each round.
+
+Patient/Family Education:
+Explain goals, safety near heat sources, and avoiding smoking. Teach not to adjust settings without staff.
+
+Escalation:
+Escalate for persistent hypoxemia, rising distress, or suspected CO₂ retention (drowsiness). Consider high-flow or NIV per local pathway.
+
+Safety Notes:
+Use lowest flow that maintains targets and secure tubing to prevent falls. Confirm oxygen points are shut off when discontinued.

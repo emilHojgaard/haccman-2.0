@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 170497-9354
+Encounter Date - 2024-12-08
+Author - Dr. K. Østergaard, General Surgery
+Patient Name - Magnus Lund
+
+Medical History & Prior Results:
+- Past Diagnoses — Heart failure (HFpEF) (1982), Peptic ulcer disease (2023), Gallstones (2004), Chronic lower back pain.
+- Recent Lab Results (2024-11-24)
+    Hb 6.7 mmol/L (low)
+    Ferritin 28 µg/L
+    CRP 23 mg/L
+    Creatinine 71 µmol/L
+- Prior Consultations
+    - 2024-03-07 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2024-06-16 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Levothyroxine 75 µg daily, Amlodipine 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Magnus Lund presents with fever, flank pain, and urinary symptoms.
+- History of Present Illness
+   - Magnus Lund reports 3 days of dysuria, chills, and right-sided flank pain.
+- Physical Examination
+   - T 37.0 °C, costovertebral angle tenderness on right side. HR 92 bpm.
+- Diagnostics (Today)
+   - Urinalysis positive for nitrites; elevated CRP and WBC.
+- Assessment
+   - Acute pyelonephritis.
+
+Plan:
+   - Start empiric antibiotic therapy.
+   - Hydration and pain control.
+   - Hospitalize if vomiting or sepsis.
+- Follow-up & Disposition
+   - Recheck in 10 days to confirm recovery.
+
+Patient Education & Safety Net:
+Advise early presentation for recurrence; complete full antibiotic course.
+
+Sign-off:
+Dr. K. Østergaard, General Surgery

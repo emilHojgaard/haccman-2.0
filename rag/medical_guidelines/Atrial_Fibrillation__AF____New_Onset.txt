@@ -1,0 +1,28 @@
+Document Information:
+Disease - Atrial Fibrillation (AF) – New Onset
+Date - 2025-03-22
+Responsible Department - Cardiology Unit
+
+Purpose:
+Offer a consistent approach to rate or rhythm control and thromboembolism prevention in new-onset atrial fibrillation.
+
+Scope:
+Applies to emergency and inpatient settings for adults presenting with AF with rapid ventricular response or symptomatic palpitations.
+
+Indications:
+Palpitations, dyspnea, chest discomfort, fatigue, or incidental irregularly irregular rhythm on exam or ECG.
+
+Diagnosis:
+Confirm with ECG and classify duration and hemodynamic stability; evaluate triggers such as infection, thyrotoxicosis, or alcohol. Calculate stroke risk and bleeding risk to guide anticoagulation.
+
+Treatment/Management:
+Stabilize if unstable, then pursue rate control and consider rhythm control based on symptoms and duration. Initiate anticoagulation when indicated and address reversible contributors.
+
+Monitoring & Follow-up:
+Monitor rate, symptoms, and anticoagulation parameters; educate on recurrence and device monitoring options. Plan outpatient rhythm assessment and risk factor modification.
+
+When to Escalate:
+Escalate for hypotension, ischemia, heart failure, or pre-excited AF with very rapid conduction. Seek urgent cardiology input for cardioversion timing and anticoagulation strategy.
+
+Safety Notes:
+Review drug interactions with anticoagulants and rate-controlling agents. Avoid AV nodal blockers in pre-excited AF until WPW is excluded.

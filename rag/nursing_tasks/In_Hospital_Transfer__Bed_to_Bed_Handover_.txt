@@ -1,0 +1,34 @@
+Document Information:
+Task - In-Hospital Transfer (Bed-to-Bed Handover)
+Date - 2023-11-15
+Responsible Department - Nursing / Patient Flow
+
+Purpose:
+Ensure safe transfer with complete clinical handover and equipment continuity between units.
+
+Scope:
+Applies to all adult inpatient transfers including ward-to-ward, ED-to-ward, and ward-to-procedure.
+
+Indications:
+Change in level of care, procedure scheduling, or bed management needs.
+
+Contraindications:
+Delay non-urgent transfers during clinical instability unless higher care destination is available.
+
+Equipment:
+Handover checklist, current medication chart, monitoring equipment, oxygen, and mobility aids as required.
+
+Procedure Steps:
+Perform pre-transfer safety checks, confirm destination readiness, accompany with appropriate staff, and provide SBAR handover including allergies, access devices, and infection status.
+
+Monitoring & Documentation:
+Monitor vitals during transfer if required; document departure/arrival times and condition at arrival. Verify all personal items and equipment.
+
+Patient/Family Education:
+Explain reasons for transfer, destination, and what to expect. Encourage questions and address concerns.
+
+Escalation:
+Escalate if deterioration occurs en route or destination is unprepared. Activate rapid response if needed.
+
+Safety Notes:
+Secure lines and tubes; set bed brakes and use side rails appropriately. Use safe patient handling techniques.

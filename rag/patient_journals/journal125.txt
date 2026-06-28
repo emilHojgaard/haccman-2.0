@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 070607-6181
+Encounter Date - 2025-01-09
+Author - Dr. T. Bæk, Infectious Diseases
+Patient Name - Søren Bang
+
+Medical History & Prior Results:
+- Past Diagnoses — Migraine (1994), Anxiety (1984), Chronic lower back pain.
+- Recent Lab Results (2024-12-27)
+    Hb 6.9 mmol/L (low)
+    Ferritin 148 µg/L
+    CRP 23 mg/L
+    Creatinine 94 µmol/L
+- Prior Consultations
+    - 2024-12-11 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2024-08-31 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Lisinopril 10 mg daily, Pantoprazole 40 mg daily.
+- Allergies — ACE inhibitors (cough).
+
+Present Illness:
+   - Søren Bang reports constant worry, muscle tension, and poor sleep.
+- History of Present Illness
+   - Søren Bang describes months of excessive anxiety difficult to control, with restlessness and fatigue. Denies panic attacks or substance misuse.
+- Physical Examination
+   - Anxious affect, fidgeting. HR 74 bpm, BP 145/63 mmHg. No tremor or thyrotoxicosis signs.
+- Diagnostics (Today)
+   - Persistent anxiety with somatic tension; exclude thyroid and cardiac causes.
+- Assessment
+   - Generalized anxiety disorder.
+
+Plan:
+   - Begin CBT-focused therapy; consider SSRI or SNRI if persistent.
+   - Teach breathing and relaxation exercises.
+   - Avoid benzodiazepines long term.
+- Follow-up & Disposition
+   - Review in 3 weeks to monitor response.
+
+Patient Education & Safety Net:
+Explain nature of chronic anxiety and coping tools. Encourage sleep hygiene and regular exercise.
+
+Sign-off:
+Dr. T. Bæk, Infectious Diseases

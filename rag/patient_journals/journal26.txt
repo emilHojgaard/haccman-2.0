@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 031092-2098
+Encounter Date - 2023-06-03
+Author - Dr. H. Sørensen, Internal Medicine
+Patient Name - Julie Bang 
+
+Medical History & Prior Results:
+- Past Diagnoses — Obesity (2001), GERD (2020), Irritable bowel syndrome (1986), Iron Deficiency (2018), Chronic lower back pain.
+- Recent Lab Results (2023-04-09)
+    Hb 7.2 mmol/L (low)
+    Ferritin 70 µg/L
+    CRP 5 mg/L
+    Creatinine 107 µmol/L
+- Prior Consultations
+    - 2023-03-30 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2022-11-14 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Bisoprolol 5 mg daily, Ramipril 5 mg daily, Atorvastatin 20 mg nightly.
+- Allergies — None known.
+
+Present Illness:
+   - Julie Bang reports decreased need for sleep, elevated mood, and increased goal-directed activity.
+- History of Present Illness
+   - Julie Bang describes two weeks of heightened energy, rapid speech, and impulsive spending. Sleep reduced to 3–4 hours per night. Denies hallucinations or substance use.
+- Physical Examination
+   - Alert, restless, pressured speech, euphoric and irritable mood. No psychosis. Vitals stable (BP 144/61, HR 109 bpm).
+- Diagnostics (Today)
+   - Findings consistent with manic episode; labs for lithium and thyroid function ordered.
+- Assessment
+   - Bipolar affective disorder, type I, current manic episode.
+
+Plan:
+   - Continue or initiate mood stabilizer (e.g., lithium or valproate).
+   - Discontinue antidepressants if present.
+   - Offer short inpatient stabilization if insight poor or risk increases.
+- Follow-up & Disposition
+   - Follow-up in 9 days to reassess mood and safety.
+
+Patient Education & Safety Net:
+Discuss relapse prevention, importance of sleep, and medication adherence. Provide crisis contact information.
+
+Sign-off:
+Dr. H. Sørensen, Internal Medicine

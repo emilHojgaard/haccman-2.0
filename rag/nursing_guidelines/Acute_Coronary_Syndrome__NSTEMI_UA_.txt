@@ -1,0 +1,28 @@
+Document Information:
+Disease - Acute Coronary Syndrome (NSTEMI/UA)
+Date - 2024-05-26
+Responsible Department - Cardiology Unit
+
+Overview:
+NSTEMI/UA presents with ischemic chest discomfort without persistent ST elevation. Nursing care centers on pain relief, antithrombotic safety, and rapid deterioration detection.
+
+Nursing Assessment:
+Assess chest pain quality, radiation, and associated dyspnea or diaphoresis. Review risk factors, recent exertion, and medication history including anticoagulants.
+
+Key Monitoring:
+Monitor telemetry, vitals, and serial pain scores; track troponin draws and ECG timing. Observe for bleeding signs with antithrombotics.
+
+Nursing Interventions:
+Administer antiplatelet and anticoagulant therapy as ordered and provide nitrates or beta-blockers when prescribed. Maintain IV access and prepare for imaging or catheterization.
+
+Patient Education:
+Explain the plan for monitoring, procedures, and medication effects. Reinforce activity restriction until cleared and risk-factor modification.
+
+When to Escalate:
+Escalate for recurrent chest pain, hypotension, arrhythmias, or new heart failure signs. Alert the interventional team for rapid changes.
+
+Documentation & Coordination:
+Document symptom onset times, ECGs, troponin results, and medications administered. Coordinate handover to cath lab or step-down with clear anticoagulant status.
+
+Prognosis:
+Early detection and therapy improve outcomes. Nursing vigilance reduces time to intervention and bleeding complications.

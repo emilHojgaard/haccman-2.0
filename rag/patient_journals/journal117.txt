@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 100963-8366
+Encounter Date - 2024-08-10
+Author - Dr. K. Østergaard, General Surgery
+Patient Name - Tina Iversen
+
+Medical History & Prior Results:
+- Past Diagnoses — Atrial fibrillation (1991), Heart failure (HFrEF) (2019), Anxiety (2001), Depression (1990), Chronic lower back pain.
+- Recent Lab Results (2024-07-20)
+    Hb 6.8 mmol/L (low)
+    Ferritin 101 µg/L
+    CRP 16 mg/L
+    Creatinine 72 µmol/L
+- Prior Consultations
+    - 2024-08-05 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-02-06 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Atorvastatin 20 mg nightly, Pantoprazole 40 mg daily, Lisinopril 10 mg daily.
+- Allergies — Penicillin (rash).
+
+Present Illness:
+   - Tina Iversen complains of increased cough, sputum, and breathlessness.
+- History of Present Illness
+   - Tina Iversen reports 3 days of worsening cough with purulent sputum and wheeze. No fever or chest pain.
+- Physical Examination
+   - RR 19/min, SpO₂ 98%. Wheezes and prolonged expiration on auscultation.
+- Diagnostics (Today)
+   - Likely infective COPD exacerbation; sputum culture if severe.
+- Assessment
+   - COPD exacerbation, mild to moderate.
+
+Plan:
+   - Increase bronchodilator frequency.
+   - Start oral corticosteroid and consider antibiotic if purulent.
+   - Ensure inhaler technique and smoking cessation advice.
+- Follow-up & Disposition
+   - Review in 3 weeks post-treatment.
+
+Patient Education & Safety Net:
+Discuss exacerbation action plan and vaccination importance.
+
+Sign-off:
+Dr. K. Østergaard, General Surgery

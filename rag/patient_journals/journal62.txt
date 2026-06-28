@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 010977-0058
+Encounter Date - 2025-06-26
+Author - Dr. M. Petersen, Gastroenterology
+Patient Name - Sanne Olsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Psoriasis (1983), Asthma (1988).
+- Recent Lab Results (2025-06-19)
+    Hb 8.1 mmol/L
+    Ferritin 150 µg/L
+    CRP 12 mg/L
+    Creatinine 73 µmol/L
+- Prior Consultations
+    - 2024-12-03 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2025-01-06 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Lisinopril 10 mg daily, Ramipril 5 mg daily, Metformin 500 mg BID, Ferrous sulfate 100 mg every other day.
+- Allergies — None known.
+
+Present Illness:
+   - Sanne Olsen presents for follow-up with persistently elevated blood pressure readings.
+- History of Present Illness
+   - Sanne Olsen notes occasional headaches and dizziness. Adherence to medication inconsistent; diet high in salt.
+- Physical Examination
+   - BP 137/75 mmHg, HR 58 bpm, no edema, no murmurs.
+- Diagnostics (Today)
+   - Office BP elevated; renal function and electrolytes ordered.
+- Assessment
+   - Essential hypertension, suboptimally controlled.
+
+Plan:
+   - Reinforce lifestyle modification (salt restriction, exercise).
+   - Increase or add antihypertensive therapy.
+   - Monitor home BP readings.
+- Follow-up & Disposition
+   - Review in 6 weeks with BP log.
+
+Patient Education & Safety Net:
+Explain importance of adherence and cardiovascular risk reduction.
+
+Sign-off:
+Dr. M. Petersen, Gastroenterology

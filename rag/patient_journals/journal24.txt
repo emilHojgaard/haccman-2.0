@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 120900-9944
+Encounter Date - 2025-08-30
+Author - Dr. A. Thomsen, Emergency Medicine
+Patient Name - Brian Dam
+
+Medical History & Prior Results:
+- Past Diagnoses — Heart failure (HFpEF) (1982), Type 2 Diabetes (1984), Gout (1993), COPD (1992).
+- Recent Lab Results (2025-08-10)
+    Hb 6.6 mmol/L (low)
+    Ferritin 33 µg/L
+    CRP 25 mg/L
+    Creatinine 95 µmol/L
+- Prior Consultations
+    - 2025-07-15 — Routine check-up — stable BP, mild anemia noted.
+    - 2025-01-07 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Pantoprazole 40 mg daily, Furosemide 40 mg daily.
+- Allergies — NSAIDs (dyspepsia).
+
+Present Illness:
+   - Brian Dam reports shortness of breath and leg swelling.
+- History of Present Illness
+   - Brian Dam has gained 3 kg over the past week, with worsening dyspnea and orthopnea. Missed diuretic doses reported.
+- Physical Examination
+   - Crackles at lung bases, bilateral pitting edema, elevated JVP. BP 123/93, HR 94 bpm.
+- Diagnostics (Today)
+   - BNP elevated, chest X-ray shows pulmonary congestion.
+- Assessment
+   - Acute-on-chronic heart failure exacerbation.
+
+Plan:
+   - Administer loop diuretic (e.g., furosemide).
+   - Monitor weight and urine output.
+   - Optimize heart failure regimen and education.
+- Follow-up & Disposition
+   - Follow-up in 2 weeks or earlier if symptoms recur.
+
+Patient Education & Safety Net:
+Teach daily weight monitoring, salt restriction, and when to seek urgent care.
+
+Sign-off:
+Dr. A. Thomsen, Emergency Medicine

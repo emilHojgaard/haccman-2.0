@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 150939-3575
+Encounter Date - 2024-05-17
+Author - Dr. S. Nielsen, Pulmonology
+Patient Name - Morten Lund
+
+Medical History & Prior Results:
+- Past Diagnoses — Osteoarthritis (2005), Migraine (2003), Peptic ulcer disease (2020).
+- Recent Lab Results (2024-03-18)
+    Hb 7.7 mmol/L
+    Ferritin 90 µg/L
+    CRP 14 mg/L
+    Creatinine 89 µmol/L
+- Prior Consultations
+    - 2024-05-11 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2024-01-17 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Pantoprazole 40 mg daily, Ramipril 5 mg daily, Levothyroxine 75 µg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Morten Lund reports shortness of breath and leg swelling.
+- History of Present Illness
+   - Morten Lund has gained 3 kg over the past week, with worsening dyspnea and orthopnea. Missed diuretic doses reported.
+- Physical Examination
+   - Crackles at lung bases, bilateral pitting edema, elevated JVP. BP 99/88, HR 70 bpm.
+- Diagnostics (Today)
+   - BNP elevated, chest X-ray shows pulmonary congestion.
+- Assessment
+   - Acute-on-chronic heart failure exacerbation.
+
+Plan:
+   - Administer loop diuretic (e.g., furosemide).
+   - Monitor weight and urine output.
+   - Optimize heart failure regimen and education.
+- Follow-up & Disposition
+   - Follow-up in 2 weeks or earlier if symptoms recur.
+
+Patient Education & Safety Net:
+Teach daily weight monitoring, salt restriction, and when to seek urgent care.
+
+Sign-off:
+Dr. S. Nielsen, Pulmonology

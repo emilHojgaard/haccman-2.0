@@ -1,0 +1,34 @@
+Document Information:
+Task - Peripheral IV Removal
+Date - 2023-12-21
+Responsible Department - Medical Ward
+
+Purpose:
+Ensure safe removal of a peripheral IV cannula and assessment of the site after therapy completion. Prevent catheter breakage and reduce infection risk.
+
+Scope:
+Applies to nurses in inpatient and outpatient areas where PVCs are used. Students may remove under supervision.
+
+Indications:
+IV therapy completed, device no longer indicated, or complications such as phlebitis, infiltration, or suspected infection.
+
+Contraindications:
+Do not remove if line is needed for imminent emergency therapy without suitable replacement. Seek senior review if tip fracture is suspected.
+
+Equipment:
+Clean gloves, adhesive remover if needed, sterile gauze, tape or dressing, waste bag, hand hygiene supplies.
+
+Procedure Steps:
+Perform hand hygiene, don gloves, stop infusion, and release securement while stabilizing the catheter. Withdraw catheter smoothly, apply pressure until hemostasis, inspect catheter tip, dress the site, and discard waste.
+
+Monitoring & Documentation:
+Observe for bleeding, hematoma, or signs of infection after removal. Document removal time, catheter integrity, site condition, and patient tolerance.
+
+Patient/Family Education:
+Explain that mild bruising can occur and to report increasing pain, redness, warmth, swelling, or discharge. Keep the dressing dry for several hours.
+
+Escalation:
+Escalate for persistent bleeding, suspected retained fragment, or signs of systemic infection. Seek clinician review if significant pain or swelling develops.
+
+Safety Notes:
+Never reinsert the stylet into a used catheter. Apply gentle traction and avoid ripping skin when removing adhesive.

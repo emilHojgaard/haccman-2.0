@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 051237-6183
+Encounter Date - 2025-10-02
+Author - Dr. J. Knudsen, ENT
+Patient Name - Rasmus Rasmussen
+
+Medical History & Prior Results:
+- Past Diagnoses — Gout (2003), Depression (1986), Dyslipidemia (2007).
+- Recent Lab Results (2025-09-09)
+    Hb 6.7 mmol/L (low)
+    Ferritin 147 µg/L
+    CRP 24 mg/L
+    Creatinine 60 µmol/L
+- Prior Consultations
+    - 2025-06-27 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2025-09-14 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Atorvastatin 20 mg nightly, Ramipril 5 mg daily, Pantoprazole 40 mg daily, Levothyroxine 75 µg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Rasmus Rasmussen reports dysuria, frequency, and suprapubic discomfort.
+- History of Present Illness
+   - Rasmus Rasmussen developed burning on urination for 2 days. No flank pain or fever.
+- Physical Examination
+   - Afebrile (36.7 °C), suprapubic tenderness. No costovertebral angle tenderness.
+- Diagnostics (Today)
+   - Urinalysis positive for nitrites and leukocytes.
+- Assessment
+   - Uncomplicated lower urinary tract infection.
+
+Plan:
+   - Start short course of oral antibiotic per protocol.
+   - Encourage fluid intake.
+   - Review symptoms resolution.
+- Follow-up & Disposition
+   - Follow-up if symptoms persist beyond 4 days.
+
+Patient Education & Safety Net:
+Advise to complete antibiotics and monitor for fever or flank pain.
+
+Sign-off:
+Dr. J. Knudsen, ENT

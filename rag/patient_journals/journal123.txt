@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 050591-5247
+Encounter Date - 2024-06-29
+Author - Dr. E. Dam, Rheumatology
+Patient Name - Louise Holm
+
+Medical History & Prior Results:
+- Past Diagnoses — Asthma (1980), COPD (1995), Chronic lower back pain.
+- Recent Lab Results (2024-06-15)
+    Hb 8.3 mmol/L
+    Ferritin 131 µg/L
+    CRP 7 mg/L
+    Creatinine 72 µmol/L
+- Prior Consultations
+    - 2023-12-17 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2023-07-28 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Lisinopril 10 mg daily, Metformin 500 mg BID.
+- Allergies — None known.
+
+Present Illness:
+   - Louise Holm presents with throbbing unilateral headache and nausea.
+- History of Present Illness
+   - Louise Holm reports recurrent headaches lasting 15 hours, aggravated by light and noise. No focal neurological deficits.
+- Physical Examination
+   - Normal neuro exam. BP 164/76, HR 60.
+- Diagnostics (Today)
+   - Clinical diagnosis of migraine; exclude secondary causes if atypical.
+- Assessment
+   - Migraine without aura.
+
+Plan:
+   - Administer triptan and antiemetic as needed.
+   - Avoid triggers, maintain hydration and regular sleep.
+   - Consider prophylactic therapy if frequent attacks.
+- Follow-up & Disposition
+   - Follow-up in 5 weeks for frequency reassessment.
+
+Patient Education & Safety Net:
+Discuss trigger identification and medication overuse prevention.
+
+Sign-off:
+Dr. E. Dam, Rheumatology

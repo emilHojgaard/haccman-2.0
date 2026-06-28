@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 191206-0596
+Encounter Date - 2023-10-22
+Author - Dr. S. Nielsen, Pulmonology
+Patient Name - Viggo Thygesen
+
+Medical History & Prior Results:
+- Past Diagnoses — Atrial fibrillation (1989), Psoriasis (1996), Depression (2007), Chronic lower back pain.
+- Recent Lab Results (2023-09-01)
+    Hb 6.7 mmol/L (low)
+    Ferritin 61 µg/L
+    CRP 8 mg/L
+    Creatinine 93 µmol/L
+- Prior Consultations
+    - 2023-04-01 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2023-09-09 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Levothyroxine 75 µg daily, Ferrous sulfate 100 mg every other day, Furosemide 40 mg daily, Amlodipine 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Viggo Thygesen reports shortness of breath and leg swelling.
+- History of Present Illness
+   - Viggo Thygesen has gained 4 kg over the past week, with worsening dyspnea and orthopnea. Missed diuretic doses reported.
+- Physical Examination
+   - Crackles at lung bases, bilateral pitting edema, elevated JVP. BP 116/68, HR 110 bpm.
+- Diagnostics (Today)
+   - BNP elevated, chest X-ray shows pulmonary congestion.
+- Assessment
+   - Acute-on-chronic heart failure exacerbation.
+
+Plan:
+   - Administer loop diuretic (e.g., furosemide).
+   - Monitor weight and urine output.
+   - Optimize heart failure regimen and education.
+- Follow-up & Disposition
+   - Follow-up in 2 weeks or earlier if symptoms recur.
+
+Patient Education & Safety Net:
+Teach daily weight monitoring, salt restriction, and when to seek urgent care.
+
+Sign-off:
+Dr. S. Nielsen, Pulmonology

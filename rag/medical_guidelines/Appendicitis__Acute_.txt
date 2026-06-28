@@ -1,0 +1,28 @@
+Document Information:
+Disease - Appendicitis (Acute)
+Date - 2025-03-22
+Responsible Department - General Surgery
+
+Purpose:
+Provide a structured approach to diagnosing and managing acute appendicitis including operative and nonoperative pathways.
+
+Scope:
+For adult and adolescent patients in emergency and surgical services with suspected right lower quadrant pain.
+
+Indications:
+Periumbilical pain migrating to the right lower quadrant with anorexia, nausea, and localized tenderness; fever may be present.
+
+Diagnosis:
+Use clinical scoring to guide imaging selection; perform ultrasound or CT depending on availability and patient factors. Evaluate for complications such as perforation or abscess.
+
+Treatment/Management:
+Offer appendectomy for uncomplicated appendicitis or consider antibiotics in selected cases after shared decision-making. Provide perioperative antibiotics and fluid management.
+
+Monitoring & Follow-up:
+Monitor for postoperative infection, ileus, and pain control; advance diet as tolerated. Arrange follow-up for pathology review and recurrence counseling after nonoperative care.
+
+When to Escalate:
+Escalate for peritonitis, sepsis, or failure of nonoperative management. Consult interventional radiology for drainable abscesses.
+
+Safety Notes:
+Assess pregnancy status before imaging and surgery planning. Review allergies before antibiotics and apply DVT prophylaxis per risk.

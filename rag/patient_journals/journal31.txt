@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 060304-5868
+Encounter Date - 2023-10-29
+Author - Dr. O. Bjørk, Urology
+Patient Name - Ida Rasmussen
+
+Medical History & Prior Results:
+- Past Diagnoses — Asthma (2009), Osteoarthritis (2014), Osteoporosis (2007), Chronic lower back pain.
+- Recent Lab Results (2023-09-01)
+    Hb 7.2 mmol/L (low)
+    Ferritin 86 µg/L
+    CRP 11 mg/L
+    Creatinine 58 µmol/L
+- Prior Consultations
+    - 2022-11-22 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2023-06-14 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Furosemide 40 mg daily, Ramipril 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Ida Rasmussen presents with right lower quadrant abdominal pain and nausea.
+- History of Present Illness
+   - Ida Rasmussen reports 9 hours of migrating abdominal pain, initially periumbilical, now localized to right iliac fossa, with mild fever.
+- Physical Examination
+   - T 37.4 °C, tenderness and rebound in right lower quadrant, guarding present.
+- Diagnostics (Today)
+   - Leukocytosis and elevated CRP; ultrasound/CT confirms inflamed appendix.
+- Assessment
+   - Acute appendicitis.
+
+Plan:
+   - NPO, IV fluids, analgesia.
+   - Surgical evaluation for appendectomy.
+   - Administer pre-operative antibiotics.
+- Follow-up & Disposition
+   - Postoperative review in 9 days.
+
+Patient Education & Safety Net:
+Explain surgical procedure and recovery expectations.
+
+Sign-off:
+Dr. O. Bjørk, Urology

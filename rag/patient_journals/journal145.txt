@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 160376-8143
+Encounter Date - 2024-10-22
+Author - Dr. M. Petersen, Gastroenterology
+Patient Name - Emil Rasmussen
+
+Medical History & Prior Results:
+- Past Diagnoses — Gallstones (1994), CKD (1998), Iron Deficiency (2015), Chronic lower back pain.
+- Recent Lab Results (2024-10-11)
+    Hb 7.1 mmol/L (low)
+    Ferritin 87 µg/L
+    CRP 11 mg/L
+    Creatinine 67 µmol/L
+- Prior Consultations
+    - 2024-06-23 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-02-09 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Amlodipine 5 mg daily, Atorvastatin 20 mg nightly, Empagliflozin 10 mg daily, Furosemide 40 mg daily.
+- Allergies — NSAIDs (dyspepsia).
+
+Present Illness:
+   - Emil Rasmussen reports sudden onset of joint pain and swelling.
+- History of Present Illness
+   - Emil Rasmussen developed severe pain in the first MTP joint overnight, with redness and swelling. No trauma or fever.
+- Physical Examination
+   - Erythematous, tender MTP joint. Vitals: BP 121/85, HR 93.
+- Diagnostics (Today)
+   - Serum uric acid elevated; joint aspirate with monosodium urate crystals.
+- Assessment
+   - Acute gout attack.
+
+Plan:
+   - Start NSAID or colchicine (if renal function allows).
+   - Elevate limb and apply ice packs.
+   - Review long-term urate-lowering therapy adherence.
+- Follow-up & Disposition
+   - Follow-up in 4 days to monitor improvement.
+
+Patient Education & Safety Net:
+Avoid alcohol and purine-rich foods; maintain hydration.
+
+Sign-off:
+Dr. M. Petersen, Gastroenterology

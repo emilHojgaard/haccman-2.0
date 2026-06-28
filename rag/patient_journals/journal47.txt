@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 200357-5943
+Encounter Date - 2024-03-27
+Author - Dr. L. Holm, Cardiology
+Patient Name - Carsten Thygesen
+
+Medical History & Prior Results:
+- Past Diagnoses — Irritable bowel syndrome (1999), Obesity (1981), Chronic lower back pain.
+- Recent Lab Results (2024-03-14)
+    Hb 7.9 mmol/L
+    Ferritin 66 µg/L
+    CRP 9 mg/L
+    Creatinine 98 µmol/L
+- Prior Consultations
+    - 2024-01-12 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2024-02-02 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Atorvastatin 20 mg nightly, Pantoprazole 40 mg daily.
+- Allergies — Penicillin (rash).
+
+Present Illness:
+   - Carsten Thygesen reports stress and low mood following a recent life event.
+- History of Present Illness
+   - Carsten Thygesen describes sadness, irritability, and worry after recent psychosocial stressor (job loss, relationship conflict). Duration <6 months.
+- Physical Examination
+   - Mildly tearful, cooperative, no psychosis. Vitals within normal range (BP 153/67).
+- Diagnostics (Today)
+   - Emotional disturbance related to identifiable stressor, not meeting full criteria for major depression.
+- Assessment
+   - Adjustment disorder with mixed anxiety and depressed mood.
+
+Plan:
+   - Provide supportive counselling.
+   - Encourage coping strategies and social support.
+   - Short-term anxiolytic if severe insomnia or anxiety.
+- Follow-up & Disposition
+   - Follow-up in 3 weeks to reassess.
+
+Patient Education & Safety Net:
+Explain normal stress reactions and when to seek help. Promote daily structure and self-care.
+
+Sign-off:
+Dr. L. Holm, Cardiology

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 160401-2423
+Encounter Date - 2024-11-02
+Author - Dr. V. Laursen, Nephrology
+Patient Name - Birgit Johansen
+
+Medical History & Prior Results:
+- Past Diagnoses — Gallstones (2019), COPD (1997), Asthma (1981), Anxiety (1999).
+- Recent Lab Results (2024-08-22)
+    Hb 7.4 mmol/L (low)
+    Ferritin 143 µg/L
+    CRP 22 mg/L
+    Creatinine 75 µmol/L
+- Prior Consultations
+    - 2024-09-12 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2024-04-19 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Atorvastatin 20 mg nightly, Empagliflozin 10 mg daily, Ramipril 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Birgit Johansen complains of fever, productive cough, and right-sided chest pain.
+- History of Present Illness
+   - Birgit Johansen developed a sudden cough with green sputum 2 days ago, followed by fevers and pleuritic pain. Increased breathlessness when climbing stairs; no recent travel.
+- Physical Examination
+   - Febrile (36.7 °C), RR 14/min, SpO₂ 97% on room air. Crackles and bronchial breath sounds over the right lower zone; no peripheral edema.
+- Diagnostics (Today)
+   - CXR shows right lower lobe consolidation. CRP elevated; WBC mildly raised. Consider sputum culture if severe or atypical features.
+- Assessment
+   - Community-acquired pneumonia, lobar pattern, clinically stable for ward/ambulatory care depending on scores.
+
+Plan:
+   - Start empiric antibiotics per local protocol; provide antipyretics and hydration.
+   - Titrate oxygen to target saturations and encourage early mobilization and incentive spirometry.
+   - Review response within 48–72 hours; escalate if hypoxemia or sepsis criteria develop.
+- Follow-up & Disposition
+   - Safety check in 2 days if outpatient; clinical review in 2 weeks to ensure recovery.
+
+Patient Education & Safety Net:
+Discuss contagious period, cough hygiene, and gradual return to activity. Reinforce smoking cessation and vaccination where applicable.
+
+Sign-off:
+Dr. V. Laursen, Nephrology

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 150440-9915
+Encounter Date - 2024-09-29
+Author - Dr. H. Sørensen, Internal Medicine
+Patient Name - Thomas Østergaard
+
+Medical History & Prior Results:
+- Past Diagnoses — Heart failure (HFrEF) (2014), Depression (1999).
+- Recent Lab Results (2024-09-10)
+    Hb 7.6 mmol/L
+    Ferritin 48 µg/L
+    CRP 17 mg/L
+    Creatinine 64 µmol/L
+- Prior Consultations
+    - 2024-03-28 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2024-02-23 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Ramipril 5 mg daily, Levothyroxine 75 µg daily, Pantoprazole 40 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Thomas Østergaard reports worsening lower back pain.
+- History of Present Illness
+   - Thomas Østergaard has chronic back pain now intensified after lifting or prolonged sitting. No radicular symptoms or incontinence.
+- Physical Examination
+   - Paraspinal muscle tenderness, normal reflexes and strength. BP 128/83.
+- Diagnostics (Today)
+   - Mechanical exacerbation of chronic low back pain.
+- Assessment
+   - Chronic low back pain, acute exacerbation.
+
+Plan:
+   - Encourage activity as tolerated.
+   - Use heat therapy and simple analgesics.
+   - Refer for physiotherapy if persistent.
+- Follow-up & Disposition
+   - Follow-up in 4 weeks.
+
+Patient Education & Safety Net:
+Discuss posture, core strengthening, and weight control.
+
+Sign-off:
+Dr. H. Sørensen, Internal Medicine

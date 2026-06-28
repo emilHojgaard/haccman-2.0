@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 221150-6685
+Encounter Date - 2024-11-05
+Author - Dr. C. Mikkelsen, Endocrinology
+Patient Name - Anja Skov
+
+Medical History & Prior Results:
+- Past Diagnoses — CKD (1999), GERD (2018), COPD (1995), Chronic lower back pain.
+- Recent Lab Results (2024-09-28)
+    Hb 7.7 mmol/L
+    Ferritin 64 µg/L
+    CRP 7 mg/L
+    Creatinine 88 µmol/L
+- Prior Consultations
+    - 2024-08-04 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-06-07 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Bisoprolol 5 mg daily, Pantoprazole 40 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Anja Skov presents with redness and swelling of the lower leg.
+- History of Present Illness
+   - Anja Skov noticed redness and tenderness spreading over 3 days. No trauma reported.
+- Physical Examination
+   - Warm, erythematous area with indistinct margins, mild edema. T 37.7 °C.
+- Diagnostics (Today)
+   - Clinical cellulitis; CBC and CRP elevated.
+- Assessment
+   - Bacterial cellulitis, likely streptococcal.
+
+Plan:
+   - Start empiric oral antibiotic covering streptococci.
+   - Mark margin and monitor spread.
+   - Elevate limb and manage pain.
+- Follow-up & Disposition
+   - Review in 2 days to assess response.
+
+Patient Education & Safety Net:
+Explain signs of worsening infection and when to seek urgent review.
+
+Sign-off:
+Dr. C. Mikkelsen, Endocrinology

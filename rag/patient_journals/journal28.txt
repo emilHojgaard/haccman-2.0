@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 180782-4510
+Encounter Date - 2024-10-16
+Author - Dr. T. Bæk, Infectious Diseases
+Patient Name - Anja Sørensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Migraine (1990), Irritable bowel syndrome (1980), GERD (1982).
+- Recent Lab Results (2024-09-06)
+    Hb 6.6 mmol/L (low)
+    Ferritin 25 µg/L
+    CRP 8 mg/L
+    Creatinine 63 µmol/L
+- Prior Consultations
+    - 2024-03-17 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-07-19 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Ferrous sulfate 100 mg every other day, Furosemide 40 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Anja Sørensen reports sore throat, cough, and mild fever.
+- History of Present Illness
+   - Anja Sørensen developed nasal congestion and cough 3 days ago. No dyspnea or chest pain.
+- Physical Examination
+   - T 37.0 °C, mild pharyngeal erythema, lungs clear.
+- Diagnostics (Today)
+   - Clinical diagnosis of viral upper respiratory tract infection.
+- Assessment
+   - Viral URI.
+
+Plan:
+   - Supportive care: rest, fluids, paracetamol for fever.
+   - Avoid unnecessary antibiotics.
+   - Educate on hygiene and infection control.
+- Follow-up & Disposition
+   - Follow-up only if symptoms persist beyond 10 days.
+
+Patient Education & Safety Net:
+Reassure benign course; return if high fever or worsening.
+
+Sign-off:
+Dr. T. Bæk, Infectious Diseases

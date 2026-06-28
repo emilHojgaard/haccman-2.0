@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 231106-1551
+Encounter Date - 2024-02-03
+Author - Dr. S. Gram, Hematology
+Patient Name - Ole Olsen
+
+Medical History & Prior Results:
+- Past Diagnoses — CKD (1985), Migraine (1985), Type 2 Diabetes (1991), Irritable bowel syndrome (2008).
+- Recent Lab Results (2024-01-21)
+    Hb 7.5 mmol/L
+    Ferritin 52 µg/L
+    CRP 19 mg/L
+    Creatinine 70 µmol/L
+- Prior Consultations
+    - 2023-08-31 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2023-12-01 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Atorvastatin 20 mg nightly, Metformin 500 mg BID, Bisoprolol 5 mg daily, Lisinopril 10 mg daily.
+- Allergies — NSAIDs (dyspepsia).
+
+Present Illness:
+   - Ole Olsen presents with hearing voices and increased suspiciousness.
+- History of Present Illness
+   - Ole Olsen reports auditory hallucinations and belief that neighbors are watching. Sleep poor; no substance use disclosed. Non-adherent with medication for 2 weeks.
+- Physical Examination
+   - Distracted by internal stimuli, flat affect, limited insight. Vitals: BP 131/75, HR 75 bpm.
+- Diagnostics (Today)
+   - Active psychosis; rule out intoxication or medical cause.
+- Assessment
+   - Schizophrenia, acute exacerbation due to medication nonadherence.
+
+Plan:
+   - Restart antipsychotic (oral or depot).
+   - Ensure safe environment; involve crisis team.
+   - Assess capacity and consider inpatient admission if risk present.
+- Follow-up & Disposition
+   - Close follow-up within 6 days or inpatient as required.
+
+Patient Education & Safety Net:
+Discuss importance of medication adherence and early relapse signs with patient and relatives.
+
+Sign-off:
+Dr. S. Gram, Hematology

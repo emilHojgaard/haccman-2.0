@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 221288-8908
+Encounter Date - 2025-01-22
+Author - Dr. V. Laursen, Nephrology
+Patient Name - Carsten Skov
+
+Medical History & Prior Results:
+- Past Diagnoses — Iron Deficiency (1993), COPD (2013), Chronic lower back pain.
+- Recent Lab Results (2025-01-05)
+    Hb 8.4 mmol/L
+    Ferritin 127 µg/L
+    CRP 4 mg/L
+    Creatinine 99 µmol/L
+- Prior Consultations
+    - 2024-05-13 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2025-01-20 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Bisoprolol 5 mg daily, Amlodipine 5 mg daily, Pantoprazole 40 mg daily, Levothyroxine 75 µg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Carsten Skov reports persistent sadness, fatigue, and loss of interest in usual activities.
+- History of Present Illness
+   - Carsten Skov has felt low for the past 4 weeks, with poor concentration and early morning waking. Denies psychosis or suicidal plan.
+- Physical Examination
+   - Flat affect, slow speech, psychomotor retardation. No delusions. Vitals normal (BP 138/82, HR 89).
+- Diagnostics (Today)
+   - Depressive symptoms meeting diagnostic criteria; exclude thyroid or medication causes.
+- Assessment
+   - Major depressive episode, moderate severity.
+
+Plan:
+   - Start SSRI (e.g., sertraline 50 mg daily) or adjust current therapy.
+   - Encourage structured daily routine and gradual activity.
+   - Refer for psychotherapy or CBT.
+- Follow-up & Disposition
+   - Follow-up in 2 weeks to assess mood and adherence.
+
+Patient Education & Safety Net:
+Discuss early treatment effects, side effects, and warning signs. Provide emergency numbers for crisis support.
+
+Sign-off:
+Dr. V. Laursen, Nephrology

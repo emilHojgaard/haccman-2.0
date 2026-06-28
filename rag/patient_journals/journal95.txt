@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 280456-2310
+Encounter Date - 2023-06-27
+Author - Dr. E. Dam, Rheumatology
+Patient Name - Anders Thomsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Type 2 Diabetes (2010), Obesity (2011), Osteoarthritis (2015).
+- Recent Lab Results (2023-06-07)
+    Hb 7.2 mmol/L (low)
+    Ferritin 36 µg/L
+    CRP 18 mg/L
+    Creatinine 100 µmol/L
+- Prior Consultations
+    - 2022-12-20 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2023-05-04 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Lisinopril 10 mg daily, Atorvastatin 20 mg nightly, Pantoprazole 40 mg daily, Ferrous sulfate 100 mg every other day.
+- Allergies — None known.
+
+Present Illness:
+   - Anders Thomsen presents with fever, flank pain, and urinary symptoms.
+- History of Present Illness
+   - Anders Thomsen reports 3 days of dysuria, chills, and right-sided flank pain.
+- Physical Examination
+   - T 36.6 °C, costovertebral angle tenderness on right side. HR 116 bpm.
+- Diagnostics (Today)
+   - Urinalysis positive for nitrites; elevated CRP and WBC.
+- Assessment
+   - Acute pyelonephritis.
+
+Plan:
+   - Start empiric antibiotic therapy.
+   - Hydration and pain control.
+   - Hospitalize if vomiting or sepsis.
+- Follow-up & Disposition
+   - Recheck in 10 days to confirm recovery.
+
+Patient Education & Safety Net:
+Advise early presentation for recurrence; complete full antibiotic course.
+
+Sign-off:
+Dr. E. Dam, Rheumatology

@@ -1,0 +1,28 @@
+Document Information:
+Disease - Primary Hypertension (Adult)
+Date - 2025-03-22
+Responsible Department - Internal Medicine
+
+Purpose:
+Provide a pragmatic pathway for diagnosis confirmation, cardiovascular risk reduction, and medication titration in primary hypertension.
+
+Scope:
+For outpatient management and emergency confirmation when severe asymptomatic elevations are encountered.
+
+Indications:
+Repeated elevated office or home readings without a secondary cause, often accompanied by headaches or no symptoms at all.
+
+Diagnosis:
+Confirm with out-of-office measurements or ambulatory monitoring; evaluate secondary causes based on age and clinical clues. Assess global risk, renal function, and electrolytes.
+
+Treatment/Management:
+Implement lifestyle measures and initiate first-line agents such as thiazide diuretics, ACEi/ARB, or calcium channel blockers; tailor to comorbidities. Avoid rapid blood pressure reduction in stable, asymptomatic patients.
+
+Monitoring & Follow-up:
+Review home BP logs, adherence, and adverse effects; titrate medications to targets over weeks. Reinforce diet, activity, and sleep hygiene.
+
+When to Escalate:
+Escalate for hypertensive emergencies with acute end-organ damage or refractory hypertension on combination therapy. Consider specialty referral for secondary workup.
+
+Safety Notes:
+Monitor electrolytes and renal function after dose changes and be cautious with dual renin–angiotensin blockade. Assess pregnancy potential before ACEi/ARB use.

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 220850-5870
+Encounter Date - 2024-04-12
+Author - Dr. K. Østergaard, General Surgery
+Patient Name - Henrik Christensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Psoriasis (1989), Osteoarthritis (2006).
+- Recent Lab Results (2024-03-14)
+    Hb 7.8 mmol/L
+    Ferritin 49 µg/L
+    CRP 8 mg/L
+    Creatinine 105 µmol/L
+- Prior Consultations
+    - 2023-11-06 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-02-26 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Furosemide 40 mg daily, Atorvastatin 20 mg nightly.
+- Allergies — None known.
+
+Present Illness:
+   - Henrik Christensen reports nightmares, flashbacks, and hypervigilance.
+- History of Present Illness
+   - Henrik Christensen experienced a traumatic event 12 months ago and now has intrusive memories, sleep disturbance, and avoidance of reminders.
+- Physical Examination
+   - Alert, tense, occasional tearfulness. Startles easily. Vitals: BP 98/70, HR 81 bpm.
+- Diagnostics (Today)
+   - Symptoms meet criteria for PTSD; rule out concurrent depression or substance misuse.
+- Assessment
+   - Post-traumatic stress disorder.
+
+Plan:
+   - Refer for trauma-focused CBT or EMDR.
+   - Avoid routine benzodiazepine use.
+   - Consider SSRI if comorbid depression or anxiety.
+- Follow-up & Disposition
+   - Follow-up in 3 weeks to review therapy engagement.
+
+Patient Education & Safety Net:
+Discuss trauma response normalization and coping strategies. Encourage gradual exposure and social support.
+
+Sign-off:
+Dr. K. Østergaard, General Surgery

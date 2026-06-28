@@ -1,0 +1,28 @@
+Document Information:
+Disease - Asthma
+Date - 2025-03-22
+Responsible Department - Pulmonology Unit
+
+Purpose:
+Provide structured guidance for recognizing variable airflow limitation, initiating controller therapy, and managing acute exacerbations in adult asthma.
+
+Scope:
+Applies to clinicians in emergency, outpatient, and inpatient settings who are evaluating or treating adults with suspected or confirmed asthma.
+
+Indications:
+Typical symptoms include episodic wheeze, dyspnea, chest tightness, and cough that vary over time and are often triggered by allergens, exercise, or respiratory infections.
+
+Diagnosis:
+Diagnosis is supported by obstructive spirometry with reduced FEV1/FVC and significant bronchodilator reversibility, or by excessive peak flow variability when spirometry is inconclusive. Differential diagnosis includes COPD, vocal cord dysfunction, cardiac dyspnea, and anxiety-related hyperventilation.
+
+Treatment/Management:
+Initiate an inhaled corticosteroid controller and step up to ICS/LABA if control is inadequate; consider LAMA, leukotriene modifiers, or biologics for eosinophilic or Type 2–high disease. For exacerbations, provide oxygen to target saturations, administer rapid-acting bronchodilators with ipratropium in severe cases, and give short systemic corticosteroids.
+
+Monitoring & Follow-up:
+Reassess control, symptoms, and rescue use at each visit; verify inhaler technique and adherence, and adjust step therapy accordingly. Provide a written action plan and review triggers, vaccination status, and comorbidities such as rhinitis and reflux.
+
+When to Escalate:
+Escalate for life-threatening features such as silent chest, exhaustion, or hypoxemia, or for frequent exacerbations despite high-dose ICS/LABA. Consider specialty review for biologic eligibility or uncertainty in diagnosis.
+
+Safety Notes:
+Use the lowest effective steroid dose and monitor for metabolic and bone effects with long-term therapy. Observe patients after repeated bronchodilator dosing for rebound bronchospasm, and ensure epinephrine readiness if biologics are administered.

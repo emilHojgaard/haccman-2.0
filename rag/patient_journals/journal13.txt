@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 060761-1688
+Encounter Date - 2025-10-12
+Author - Dr. A. Thomsen, Emergency Medicine
+Patient Name - Maja Bang
+
+Medical History & Prior Results:
+- Past Diagnoses — Heart failure (HFrEF) (1990), Migraine (1990), Psoriasis (2018), Chronic lower back pain.
+- Recent Lab Results (2025-10-02)
+    Hb 8.2 mmol/L
+    Ferritin 96 µg/L
+    CRP 8 mg/L
+    Creatinine 69 µmol/L
+- Prior Consultations
+    - 2025-08-28 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2025-08-16 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Atorvastatin 20 mg nightly, Empagliflozin 10 mg daily, Amlodipine 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Maja Bang reports epigastric pain and indigestion.
+- History of Present Illness
+   - Maja Bang has burning upper abdominal pain related to meals. Uses NSAIDs intermittently; no hematemesis.
+- Physical Examination
+   - Epigastric tenderness, no guarding. Vitals: BP 149/63, HR 98.
+- Diagnostics (Today)
+   - Suspected gastritis/ulcer; H. pylori test ordered.
+- Assessment
+   - Peptic ulcer disease, likely NSAID-related.
+
+Plan:
+   - Stop NSAIDs; start PPI (e.g., pantoprazole 40 mg daily).
+   - If positive, treat H. pylori.
+   - Advise small, frequent meals and limit alcohol/caffeine.
+- Follow-up & Disposition
+   - Reassess in 6 weeks; consider endoscopy if persistent.
+
+Patient Education & Safety Net:
+Explain risk factors and warning signs of bleeding.
+
+Sign-off:
+Dr. A. Thomsen, Emergency Medicine

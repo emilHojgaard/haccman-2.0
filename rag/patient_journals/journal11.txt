@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 121289-6091
+Encounter Date - 2024-05-03
+Author - Dr. T. Bæk, Infectious Diseases
+Patient Name - Lene Larsen
+
+Medical History & Prior Results:
+- Past Diagnoses — CKD (2006), Iron Deficiency (2011), Obesity (2020), Type 2 Diabetes (2023), Chronic lower back pain.
+- Recent Lab Results (2024-04-08)
+    Hb 7.2 mmol/L (low)
+    Ferritin 135 µg/L
+    CRP 2 mg/L
+    Creatinine 95 µmol/L
+- Prior Consultations
+    - 2023-09-15 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2023-10-05 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Metformin 500 mg BID, Ferrous sulfate 100 mg every other day, Atorvastatin 20 mg nightly, Amlodipine 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Lene Larsen reports nightmares, flashbacks, and hypervigilance.
+- History of Present Illness
+   - Lene Larsen experienced a traumatic event 11 months ago and now has intrusive memories, sleep disturbance, and avoidance of reminders.
+- Physical Examination
+   - Alert, tense, occasional tearfulness. Startles easily. Vitals: BP 144/71, HR 92 bpm.
+- Diagnostics (Today)
+   - Symptoms meet criteria for PTSD; rule out concurrent depression or substance misuse.
+- Assessment
+   - Post-traumatic stress disorder.
+
+Plan:
+   - Refer for trauma-focused CBT or EMDR.
+   - Avoid routine benzodiazepine use.
+   - Consider SSRI if comorbid depression or anxiety.
+- Follow-up & Disposition
+   - Follow-up in 3 weeks to review therapy engagement.
+
+Patient Education & Safety Net:
+Discuss trauma response normalization and coping strategies. Encourage gradual exposure and social support.
+
+Sign-off:
+Dr. T. Bæk, Infectious Diseases

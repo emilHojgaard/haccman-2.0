@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 150354-2658
+Encounter Date - 2024-10-15
+Author - Dr. E. Dam, Rheumatology
+Patient Name - Mette Sørensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Migraine (1998), Gout (1987), Asthma (2016), Chronic lower back pain.
+- Recent Lab Results (2024-08-30)
+    Hb 6.7 mmol/L (low)
+    Ferritin 150 µg/L
+    CRP 4 mg/L
+    Creatinine 83 µmol/L
+- Prior Consultations
+    - 2024-09-08 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-08-09 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Empagliflozin 10 mg daily, Ramipril 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Mette Sørensen presents with joint stiffness and increased pain.
+- History of Present Illness
+   - Mette Sørensen notes worsening knee pain over 9 days, aggravated by activity. No trauma or systemic symptoms.
+- Physical Examination
+   - Mild joint effusion, bony tenderness, no warmth. BP 109/58.
+- Diagnostics (Today)
+   - No acute inflammation; radiographs show osteoarthritic changes.
+- Assessment
+   - Osteoarthritis flare-up.
+
+Plan:
+   - Use acetaminophen or topical NSAID.
+   - Encourage physiotherapy and weight management.
+   - Avoid prolonged inactivity.
+- Follow-up & Disposition
+   - Reassess pain control in 8 weeks.
+
+Patient Education & Safety Net:
+Discuss chronic nature of OA and exercise importance.
+
+Sign-off:
+Dr. E. Dam, Rheumatology

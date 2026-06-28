@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 041145-5239
+Encounter Date - 2024-01-09
+Author - Dr. S. Gram, Hematology
+Patient Name - Peter Mikkelsen
+
+Medical History & Prior Results:
+- Past Diagnoses — GERD (2003), Irritable bowel syndrome (1985), Asthma (2005), Osteoarthritis (2008), Chronic lower back pain.
+- Recent Lab Results (2023-11-04)
+    Hb 7.5 mmol/L
+    Ferritin 102 µg/L
+    CRP 1 mg/L
+    Creatinine 90 µmol/L
+- Prior Consultations
+    - 2023-10-03 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2023-11-05 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Amlodipine 5 mg daily, Furosemide 40 mg daily, Ramipril 5 mg daily, Lisinopril 10 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Peter Mikkelsen reports dysuria, frequency, and suprapubic discomfort.
+- History of Present Illness
+   - Peter Mikkelsen developed burning on urination for 2 days. No flank pain or fever.
+- Physical Examination
+   - Afebrile (36.7 °C), suprapubic tenderness. No costovertebral angle tenderness.
+- Diagnostics (Today)
+   - Urinalysis positive for nitrites and leukocytes.
+- Assessment
+   - Uncomplicated lower urinary tract infection.
+
+Plan:
+   - Start short course of oral antibiotic per protocol.
+   - Encourage fluid intake.
+   - Review symptoms resolution.
+- Follow-up & Disposition
+   - Follow-up if symptoms persist beyond 3 days.
+
+Patient Education & Safety Net:
+Advise to complete antibiotics and monitor for fever or flank pain.
+
+Sign-off:
+Dr. S. Gram, Hematology

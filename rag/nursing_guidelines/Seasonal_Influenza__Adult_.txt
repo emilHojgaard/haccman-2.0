@@ -1,0 +1,28 @@
+Document Information:
+Disease - Seasonal Influenza (Adult)
+Date - 2023-03-06
+Responsible Department - Infectious Diseases
+
+Overview:
+Seasonal influenza causes abrupt fever, myalgias, and respiratory symptoms. Nursing care focuses on supportive therapy, antiviral eligibility, and isolation.
+
+Nursing Assessment:
+Assess symptom onset timing, exposure history, and risk factors for complications. Evaluate for secondary pneumonia if relapse occurs.
+
+Key Monitoring:
+Monitor oxygenation, hydration, and temperature trends. Watch for myocarditis or encephalopathy in severe cases.
+
+Nursing Interventions:
+Provide antipyretics, fluids, and rest; administer antivirals when indicated by risk and timing. Implement droplet precautions.
+
+Patient Education:
+Counsel on isolation, hydration, and when to seek care. Reinforce annual vaccination.
+
+When to Escalate:
+Escalate for hypoxemia, severe dehydration, or decompensation of comorbid conditions. Consider admission for high-risk patients.
+
+Documentation & Coordination:
+Document symptom chronology, therapies given, and response. Coordinate follow-up and work/school guidance.
+
+Prognosis:
+Most recover in days to a week. Nursing support mitigates complications in vulnerable groups.

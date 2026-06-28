@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 211200-4218
+Encounter Date - 2023-12-05
+Author - Dr. S. Nielsen, Pulmonology
+Patient Name - Sebastian Hansen
+
+Medical History & Prior Results:
+- Past Diagnoses — Peptic ulcer disease (2007), Irritable bowel syndrome (2016), Osteoporosis (1980), Chronic lower back pain.
+- Recent Lab Results (2023-11-13)
+    Hb 7.4 mmol/L (low)
+    Ferritin 32 µg/L
+    CRP 10 mg/L
+    Creatinine 62 µmol/L
+- Prior Consultations
+    - 2023-05-26 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2023-08-17 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Pantoprazole 40 mg daily, Ferrous sulfate 100 mg every other day, Furosemide 40 mg daily, Empagliflozin 10 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Sebastian Hansen complains of increased cough, sputum, and breathlessness.
+- History of Present Illness
+   - Sebastian Hansen reports 4 days of worsening cough with purulent sputum and wheeze. No fever or chest pain.
+- Physical Examination
+   - RR 25/min, SpO₂ 96%. Wheezes and prolonged expiration on auscultation.
+- Diagnostics (Today)
+   - Likely infective COPD exacerbation; sputum culture if severe.
+- Assessment
+   - COPD exacerbation, mild to moderate.
+
+Plan:
+   - Increase bronchodilator frequency.
+   - Start oral corticosteroid and consider antibiotic if purulent.
+   - Ensure inhaler technique and smoking cessation advice.
+- Follow-up & Disposition
+   - Review in 2 weeks post-treatment.
+
+Patient Education & Safety Net:
+Discuss exacerbation action plan and vaccination importance.
+
+Sign-off:
+Dr. S. Nielsen, Pulmonology

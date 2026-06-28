@@ -1,0 +1,28 @@
+Document Information:
+Disease - Heart Failure (Acute Decompensation)
+Date - 2023-11-17
+Responsible Department - Cardiology Unit
+
+Overview:
+Acute decompensated heart failure causes congestion and hypoperfusion symptoms. Nursing priorities are diuresis support, fluid balance, and recognition of hemodynamic instability.
+
+Nursing Assessment:
+Assess dyspnea, orthopnea, edema, weight change, and urine output. Evaluate lung sounds, JVP surrogates, skin perfusion, and presence of S3 or crackles.
+
+Key Monitoring:
+Track strict intake/output, daily weights, electrolytes, and renal function. Monitor vital signs and tele for arrhythmias during diuresis or vasodilator therapy.
+
+Nursing Interventions:
+Administer loop diuretics as ordered, reinforce sodium/fluid limits, and position upright. Support oxygen therapy and assist with vasodilators per protocol.
+
+Patient Education:
+Teach daily weights, low-sodium diet, and when to seek care for rapid gain or swelling. Review medication adherence and follow-up plans.
+
+When to Escalate:
+Escalate for hypotension, declining urine output, new confusion, or refractory hypoxemia. Notify cardiology for suspected shock or chest pain suggestive of ischemia.
+
+Documentation & Coordination:
+Record diuretic dosing, outputs, electrolyte changes, and patient education. Coordinate discharge planning with heart failure clinic.
+
+Prognosis:
+Outcome improves with guideline therapy and early follow-up. Nursing surveillance helps prevent readmission and fluid overload.

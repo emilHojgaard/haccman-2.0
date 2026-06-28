@@ -1,0 +1,28 @@
+Document Information:
+Disease - Sepsis (Adult)
+Date - 2025-03-22
+Responsible Department - Acute Medicine/ICU
+
+Purpose:
+Standardize early identification, source control, antimicrobial therapy, and hemodynamic resuscitation for adult sepsis.
+
+Scope:
+Applies to adults with suspected infection and organ dysfunction across emergency and inpatient settings.
+
+Indications:
+Fever or hypothermia, tachycardia, hypotension, tachypnea, altered mentation, or oliguria in the context of infection symptoms.
+
+Diagnosis:
+Assess for organ dysfunction with labs and lactate; obtain cultures before antibiotics when feasible without delaying therapy. Identify likely source via examination and imaging as indicated.
+
+Treatment/Management:
+Administer timely broad-spectrum antibiotics and begin fluid resuscitation with reassessment; add vasopressors for persistent hypotension. Pursue source control procedures and tailor therapy with culture results.
+
+Monitoring & Follow-up:
+Track hemodynamics, urine output, lactate clearance, and end-organ function; de-escalate antimicrobials when stabilized. Reevaluate source and complications daily.
+
+When to Escalate:
+Escalate for refractory shock, escalating oxygen requirements, or multiorgan failure. Involve ICU teams for advanced monitoring and support.
+
+Safety Notes:
+Avoid delays in antibiotics and ensure appropriate dosing in renal or hepatic dysfunction. Monitor for drug reactions and Clostridioides difficile risk.

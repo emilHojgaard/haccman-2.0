@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 191273-3796
+Encounter Date - 2025-08-20
+Author - Dr. S. Nielsen, Pulmonology
+Patient Name - Niklas Thomsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Migraine (2015), Anxiety (2023).
+- Recent Lab Results (2025-07-04)
+    Hb 6.9 mmol/L (low)
+    Ferritin 145 µg/L
+    CRP 19 mg/L
+    Creatinine 94 µmol/L
+- Prior Consultations
+    - 2025-03-29 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2025-06-27 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Empagliflozin 10 mg daily, Ferrous sulfate 100 mg every other day, Amlodipine 5 mg daily, Metformin 500 mg BID.
+- Allergies — None known.
+
+Present Illness:
+   - Niklas Thomsen presents with throbbing unilateral headache and nausea.
+- History of Present Illness
+   - Niklas Thomsen reports recurrent headaches lasting 18 hours, aggravated by light and noise. No focal neurological deficits.
+- Physical Examination
+   - Normal neuro exam. BP 120/94, HR 105.
+- Diagnostics (Today)
+   - Clinical diagnosis of migraine; exclude secondary causes if atypical.
+- Assessment
+   - Migraine without aura.
+
+Plan:
+   - Administer triptan and antiemetic as needed.
+   - Avoid triggers, maintain hydration and regular sleep.
+   - Consider prophylactic therapy if frequent attacks.
+- Follow-up & Disposition
+   - Follow-up in 7 weeks for frequency reassessment.
+
+Patient Education & Safety Net:
+Discuss trigger identification and medication overuse prevention.
+
+Sign-off:
+Dr. S. Nielsen, Pulmonology

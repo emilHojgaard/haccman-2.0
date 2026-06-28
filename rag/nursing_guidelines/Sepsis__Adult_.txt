@@ -1,0 +1,28 @@
+Document Information:
+Disease - Sepsis (Adult)
+Date - 2025-07-17
+Responsible Department - Acute Medicine/ICU
+
+Overview:
+Sepsis is life-threatening organ dysfunction from dysregulated infection response. Nursing care emphasizes rapid recognition, timely antibiotics, and hemodynamic support.
+
+Nursing Assessment:
+Assess for fever or hypothermia, tachycardia, tachypnea, hypotension, altered mentation, and oliguria. Identify likely source through history and focused exam.
+
+Key Monitoring:
+Monitor lactate, urine output, mental status, and hemodynamics. Track antibiotic timing and fluid responsiveness.
+
+Nursing Interventions:
+Obtain cultures before antibiotics when feasible without delay, administer antibiotics promptly, and give fluids per orders. Prepare for vasopressors and central access if hypotension persists.
+
+Patient Education:
+Explain infection source control and the need for monitoring. Provide family updates and discuss early mobilization when stable.
+
+When to Escalate:
+Escalate for persistent hypotension, escalating oxygen needs, or multiorgan dysfunction. Notify ICU for advanced monitoring or support.
+
+Documentation & Coordination:
+Record sepsis screening time, antibiotic start, fluid totals, and response. Coordinate source control procedures and consults.
+
+Prognosis:
+Early bundle adherence improves survival. Nursing timing and reassessment are critical to outcomes.

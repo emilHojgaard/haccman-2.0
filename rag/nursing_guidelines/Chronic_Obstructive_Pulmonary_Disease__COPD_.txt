@@ -1,0 +1,28 @@
+Document Information:
+Disease - Chronic Obstructive Pulmonary Disease (COPD)
+Date - 2024-11-13
+Responsible Department - Pulmonology Unit
+
+Overview:
+COPD involves persistent airflow limitation with symptom burden and exacerbation risk. Nursing care focuses on dyspnea relief, safe oxygen delivery, infection surveillance, and inhaler optimization.
+
+Nursing Assessment:
+Assess baseline function, activity tolerance, and exacerbation history. Evaluate cough, sputum purulence, accessory muscle use, and pursed-lip breathing; note home oxygen or NIV use.
+
+Key Monitoring:
+Track SpO₂ with ordered targets and observe for CO₂ retention signs such as drowsiness or tremor. Monitor frequency of rescue inhaler use and response to therapy.
+
+Nursing Interventions:
+Administer prescribed bronchodilators and systemic steroids when indicated; provide controlled oxygen to avoid hypercapnia. Encourage effective coughing, airway clearance, and energy conservation techniques.
+
+Patient Education:
+Reinforce vaccination, smoking cessation support, and inhaler technique with demonstration and return-demo. Teach early exacerbation recognition and when to seek care.
+
+When to Escalate:
+Escalate for rising CO₂, worsening hypoxemia, or increasing work of breathing despite therapy. Notify the team for altered mental status or hemodynamic instability.
+
+Documentation & Coordination:
+Record ABG results, oxygen settings, and therapy responses. Coordinate pulmonary rehab referrals and community follow-up for inhaler supply and adherence.
+
+Prognosis:
+Prognosis depends on severity and exacerbation control; pulmonary rehab improves function. Nursing support reduces readmissions and enhances self-management.

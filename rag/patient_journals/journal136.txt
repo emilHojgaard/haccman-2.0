@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 060163-0858
+Encounter Date - 2024-02-19
+Author - Dr. V. Laursen, Nephrology
+Patient Name - Søren Rasmussen
+
+Medical History & Prior Results:
+- Past Diagnoses — Gout (2020), Osteoporosis (1998), Peptic ulcer disease (1991), Atrial fibrillation (1988).
+- Recent Lab Results (2024-02-03)
+    Hb 8.3 mmol/L
+    Ferritin 45 µg/L
+    CRP 13 mg/L
+    Creatinine 75 µmol/L
+- Prior Consultations
+    - 2023-09-30 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2023-07-31 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Furosemide 40 mg daily, Atorvastatin 20 mg nightly, Ferrous sulfate 100 mg every other day.
+- Allergies — None known.
+
+Present Illness:
+   - Søren Rasmussen reports persistent sadness, fatigue, and loss of interest in usual activities.
+- History of Present Illness
+   - Søren Rasmussen has felt low for the past 3 weeks, with poor concentration and early morning waking. Denies psychosis or suicidal plan.
+- Physical Examination
+   - Flat affect, slow speech, psychomotor retardation. No delusions. Vitals normal (BP 116/87, HR 85).
+- Diagnostics (Today)
+   - Depressive symptoms meeting diagnostic criteria; exclude thyroid or medication causes.
+- Assessment
+   - Major depressive episode, moderate severity.
+
+Plan:
+   - Start SSRI (e.g., sertraline 50 mg daily) or adjust current therapy.
+   - Encourage structured daily routine and gradual activity.
+   - Refer for psychotherapy or CBT.
+- Follow-up & Disposition
+   - Follow-up in 2 weeks to assess mood and adherence.
+
+Patient Education & Safety Net:
+Discuss early treatment effects, side effects, and warning signs. Provide emergency numbers for crisis support.
+
+Sign-off:
+Dr. V. Laursen, Nephrology

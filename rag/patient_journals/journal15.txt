@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 070956-4175
+Encounter Date - 2023-03-15
+Author - Dr. K. Østergaard, General Surgery
+Patient Name - Carsten Gram
+
+Medical History & Prior Results:
+- Past Diagnoses — Asthma (2016), Heart failure (HFpEF) (1995), Dyslipidemia (1981), Atrial fibrillation (2005), Chronic lower back pain.
+- Recent Lab Results (2023-03-10)
+    Hb 7.4 mmol/L (low)
+    Ferritin 116 µg/L
+    CRP 19 mg/L
+    Creatinine 81 µmol/L
+- Prior Consultations
+    - 2022-10-16 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2022-06-03 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Ramipril 5 mg daily, Amlodipine 5 mg daily.
+- Allergies — Penicillin (rash).
+
+Present Illness:
+   - Carsten Gram reports sudden onset of joint pain and swelling.
+- History of Present Illness
+   - Carsten Gram developed severe pain in the first MTP joint overnight, with redness and swelling. No trauma or fever.
+- Physical Examination
+   - Erythematous, tender MTP joint. Vitals: BP 111/89, HR 84.
+- Diagnostics (Today)
+   - Serum uric acid elevated; joint aspirate with monosodium urate crystals.
+- Assessment
+   - Acute gout attack.
+
+Plan:
+   - Start NSAID or colchicine (if renal function allows).
+   - Elevate limb and apply ice packs.
+   - Review long-term urate-lowering therapy adherence.
+- Follow-up & Disposition
+   - Follow-up in 7 days to monitor improvement.
+
+Patient Education & Safety Net:
+Avoid alcohol and purine-rich foods; maintain hydration.
+
+Sign-off:
+Dr. K. Østergaard, General Surgery

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 080985-7783
+Encounter Date - 2024-06-09
+Author - Dr. H. Sørensen, Internal Medicine
+Patient Name - Morten Iversen
+
+Medical History & Prior Results:
+- Past Diagnoses — Gout (1992), Hypertension (2004), Atrial fibrillation (1997).
+- Recent Lab Results (2024-04-12)
+    Hb 7.6 mmol/L
+    Ferritin 114 µg/L
+    CRP 3 mg/L
+    Creatinine 65 µmol/L
+- Prior Consultations
+    - 2023-12-06 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2023-09-10 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Ramipril 5 mg daily, Lisinopril 10 mg daily, Amlodipine 5 mg daily, Ferrous sulfate 100 mg every other day.
+- Allergies — None known.
+
+Present Illness:
+   - Morten Iversen reports recurrent episodes of sudden intense fear and palpitations.
+- History of Present Illness
+   - Morten Iversen describes abrupt attacks of shortness of breath, chest tightness, and fear of dying lasting 15 minutes. Between attacks, anticipatory anxiety persists.
+- Physical Examination
+   - During visit, mildly anxious, HR 96 bpm, BP 109/75. ECG normal.
+- Diagnostics (Today)
+   - Recurrent panic attacks without underlying cardiac or endocrine cause.
+- Assessment
+   - Panic disorder.
+
+Plan:
+   - Provide CBT focused on panic management.
+   - Consider SSRI for long-term control.
+   - Educate on breathing and relaxation techniques.
+- Follow-up & Disposition
+   - Follow-up in 4 weeks for progress evaluation.
+
+Patient Education & Safety Net:
+Explain physiological basis of panic and avoidance behaviors. Encourage gradual exposure to feared situations.
+
+Sign-off:
+Dr. H. Sørensen, Internal Medicine

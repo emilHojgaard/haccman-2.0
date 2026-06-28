@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 220853-8800
+Encounter Date - 2024-02-04
+Author - Dr. L. Holm, Cardiology
+Patient Name - Jonas Gram
+
+Medical History & Prior Results:
+- Past Diagnoses — Dyslipidemia (2016), Osteoarthritis (2015), Chronic lower back pain.
+- Recent Lab Results (2024-01-16)
+    Hb 8.4 mmol/L
+    Ferritin 93 µg/L
+    CRP 12 mg/L
+    Creatinine 81 µmol/L
+- Prior Consultations
+    - 2023-10-04 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2023-09-12 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Pantoprazole 40 mg daily, Lisinopril 10 mg daily, Ramipril 5 mg daily, Atorvastatin 20 mg nightly.
+- Allergies — NSAIDs (dyspepsia).
+
+Present Illness:
+   - Jonas Gram presents for follow-up with persistently elevated blood pressure readings.
+- History of Present Illness
+   - Jonas Gram notes occasional headaches and dizziness. Adherence to medication inconsistent; diet high in salt.
+- Physical Examination
+   - BP 126/60 mmHg, HR 72 bpm, no edema, no murmurs.
+- Diagnostics (Today)
+   - Office BP elevated; renal function and electrolytes ordered.
+- Assessment
+   - Essential hypertension, suboptimally controlled.
+
+Plan:
+   - Reinforce lifestyle modification (salt restriction, exercise).
+   - Increase or add antihypertensive therapy.
+   - Monitor home BP readings.
+- Follow-up & Disposition
+   - Review in 4 weeks with BP log.
+
+Patient Education & Safety Net:
+Explain importance of adherence and cardiovascular risk reduction.
+
+Sign-off:
+Dr. L. Holm, Cardiology

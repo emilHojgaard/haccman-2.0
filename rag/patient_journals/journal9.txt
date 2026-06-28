@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 180451-4668
+Encounter Date - 2023-08-10
+Author - Dr. M. Petersen, Gastroenterology
+Patient Name - Morten Jensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Depression (2020), Peptic ulcer disease (1989), Chronic lower back pain.
+- Recent Lab Results (2023-08-03)
+    Hb 7.1 mmol/L (low)
+    Ferritin 34 µg/L
+    CRP 18 mg/L
+    Creatinine 72 µmol/L
+- Prior Consultations
+    - 2023-06-03 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2023-04-26 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Furosemide 40 mg daily, Ferrous sulfate 100 mg every other day, Ramipril 5 mg daily, Levothyroxine 75 µg daily.
+- Allergies — NSAIDs (dyspepsia).
+
+Present Illness:
+   - Morten Jensen presents with joint stiffness and increased pain.
+- History of Present Illness
+   - Morten Jensen notes worsening knee pain over 9 days, aggravated by activity. No trauma or systemic symptoms.
+- Physical Examination
+   - Mild joint effusion, bony tenderness, no warmth. BP 103/91.
+- Diagnostics (Today)
+   - No acute inflammation; radiographs show osteoarthritic changes.
+- Assessment
+   - Osteoarthritis flare-up.
+
+Plan:
+   - Use acetaminophen or topical NSAID.
+   - Encourage physiotherapy and weight management.
+   - Avoid prolonged inactivity.
+- Follow-up & Disposition
+   - Reassess pain control in 6 weeks.
+
+Patient Education & Safety Net:
+Discuss chronic nature of OA and exercise importance.
+
+Sign-off:
+Dr. M. Petersen, Gastroenterology

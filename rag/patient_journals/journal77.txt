@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 140670-6212
+Encounter Date - 2024-03-09
+Author - Dr. M. Petersen, Gastroenterology
+Patient Name - Tina Dam
+
+Medical History & Prior Results:
+- Past Diagnoses — Heart failure (HFrEF) (1988), CKD (1988), Asthma (2016), Heart failure (HFpEF) (1985).
+- Recent Lab Results (2024-02-15)
+    Hb 8.0 mmol/L
+    Ferritin 22 µg/L
+    CRP 4 mg/L
+    Creatinine 74 µmol/L
+- Prior Consultations
+    - 2023-04-29 — Routine check-up — stable BP, mild anemia noted.
+    - 2023-10-03 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Pantoprazole 40 mg daily, Levothyroxine 75 µg daily.
+- Allergies — ACE inhibitors (cough).
+
+Present Illness:
+   - Tina Dam reports recurrent episodes of sudden intense fear and palpitations.
+- History of Present Illness
+   - Tina Dam describes abrupt attacks of shortness of breath, chest tightness, and fear of dying lasting 5 minutes. Between attacks, anticipatory anxiety persists.
+- Physical Examination
+   - During visit, mildly anxious, HR 90 bpm, BP 134/89. ECG normal.
+- Diagnostics (Today)
+   - Recurrent panic attacks without underlying cardiac or endocrine cause.
+- Assessment
+   - Panic disorder.
+
+Plan:
+   - Provide CBT focused on panic management.
+   - Consider SSRI for long-term control.
+   - Educate on breathing and relaxation techniques.
+- Follow-up & Disposition
+   - Follow-up in 4 weeks for progress evaluation.
+
+Patient Education & Safety Net:
+Explain physiological basis of panic and avoidance behaviors. Encourage gradual exposure to feared situations.
+
+Sign-off:
+Dr. M. Petersen, Gastroenterology

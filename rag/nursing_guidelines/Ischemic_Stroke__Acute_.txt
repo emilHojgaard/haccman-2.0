@@ -1,0 +1,28 @@
+Document Information:
+Disease - Ischemic Stroke (Acute)
+Date - 2023-09-16
+Responsible Department - Neurology/Stroke Unit
+
+Overview:
+Acute ischemic stroke requires rapid imaging and reperfusion eligibility assessment. Nursing care focuses on airway protection, BP parameters, and prevention of complications.
+
+Nursing Assessment:
+Assess time last known well, focal deficits, glucose, and anticoagulant use. Screen for dysphagia before oral intake.
+
+Key Monitoring:
+Monitor neuro checks per protocol, BP targets, and temperature; watch for worsening deficits. Track thrombolysis or thrombectomy timelines if pursued.
+
+Nursing Interventions:
+Maintain head midline with aspiration precautions, and manage oxygenation. Prepare for thrombolysis screening, administer ordered meds, and start DVT prophylaxis when appropriate.
+
+Patient Education:
+Explain stroke symptoms, time sensitivity, and rehabilitation goals. Involve family in positioning and safety education.
+
+When to Escalate:
+Escalate for decreased level of consciousness, rising BP beyond parameters, or new severe headache. Notify the team for signs of hemorrhagic conversion.
+
+Documentation & Coordination:
+Document NIHSS or local scores, swallow screen, therapy times, and neuro trends. Coordinate PT/OT/SLT referrals and discharge planning early.
+
+Prognosis:
+Timely reperfusion and rehab improve function. Nursing complication prevention reduces pneumonia and DVT risk.

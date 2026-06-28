@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 260475-3796
+Encounter Date - 2025-08-08
+Author - Dr. E. Dam, Rheumatology
+Patient Name - Brian Lund
+
+Medical History & Prior Results:
+- Past Diagnoses — Irritable bowel syndrome (1980), Asthma (1988), Iron Deficiency (1995), COPD (2006), Chronic lower back pain.
+- Recent Lab Results (2025-05-30)
+    Hb 7.9 mmol/L
+    Ferritin 96 µg/L
+    CRP 1 mg/L
+    Creatinine 89 µmol/L
+- Prior Consultations
+    - 2025-03-26 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2025-07-03 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Metformin 500 mg BID, Furosemide 40 mg daily, Pantoprazole 40 mg daily, Ramipril 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Brian Lund reports decreased need for sleep, elevated mood, and increased goal-directed activity.
+- History of Present Illness
+   - Brian Lund describes two weeks of heightened energy, rapid speech, and impulsive spending. Sleep reduced to 3–4 hours per night. Denies hallucinations or substance use.
+- Physical Examination
+   - Alert, restless, pressured speech, euphoric and irritable mood. No psychosis. Vitals stable (BP 132/62, HR 58 bpm).
+- Diagnostics (Today)
+   - Findings consistent with manic episode; labs for lithium and thyroid function ordered.
+- Assessment
+   - Bipolar affective disorder, type I, current manic episode.
+
+Plan:
+   - Continue or initiate mood stabilizer (e.g., lithium or valproate).
+   - Discontinue antidepressants if present.
+   - Offer short inpatient stabilization if insight poor or risk increases.
+- Follow-up & Disposition
+   - Follow-up in 7 days to reassess mood and safety.
+
+Patient Education & Safety Net:
+Discuss relapse prevention, importance of sleep, and medication adherence. Provide crisis contact information.
+
+Sign-off:
+Dr. E. Dam, Rheumatology

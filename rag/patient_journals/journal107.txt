@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 260455-3639
+Encounter Date - 2025-09-04
+Author - Dr. E. Dam, Rheumatology
+Patient Name - Tina Laursen
+
+Medical History & Prior Results:
+- Past Diagnoses — Gout (1985), COPD (1994), GERD (2018), Peptic ulcer disease (2010), Chronic lower back pain.
+- Recent Lab Results (2025-07-19)
+    Hb 7.8 mmol/L
+    Ferritin 23 µg/L
+    CRP 21 mg/L
+    Creatinine 99 µmol/L
+- Prior Consultations
+    - 2025-06-16 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2025-05-31 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Lisinopril 10 mg daily, Atorvastatin 20 mg nightly.
+- Allergies — None known.
+
+Present Illness:
+   - Tina Laursen reports nightmares, flashbacks, and hypervigilance.
+- History of Present Illness
+   - Tina Laursen experienced a traumatic event 3 months ago and now has intrusive memories, sleep disturbance, and avoidance of reminders.
+- Physical Examination
+   - Alert, tense, occasional tearfulness. Startles easily. Vitals: BP 157/92, HR 116 bpm.
+- Diagnostics (Today)
+   - Symptoms meet criteria for PTSD; rule out concurrent depression or substance misuse.
+- Assessment
+   - Post-traumatic stress disorder.
+
+Plan:
+   - Refer for trauma-focused CBT or EMDR.
+   - Avoid routine benzodiazepine use.
+   - Consider SSRI if comorbid depression or anxiety.
+- Follow-up & Disposition
+   - Follow-up in 5 weeks to review therapy engagement.
+
+Patient Education & Safety Net:
+Discuss trauma response normalization and coping strategies. Encourage gradual exposure and social support.
+
+Sign-off:
+Dr. E. Dam, Rheumatology

@@ -1,0 +1,28 @@
+Document Information:
+Disease - Pyelonephritis (Acute)
+Date - 2024-07-06
+Responsible Department - Urology/Medicine
+
+Overview:
+Acute pyelonephritis is a systemic urinary tract infection affecting the renal parenchyma. Nursing care supports timely antibiotics, hydration, and pain control.
+
+Nursing Assessment:
+Assess fever, flank pain, CVA tenderness, and urinary symptoms. Review pregnancy status, obstruction risk, and recent instrumentation.
+
+Key Monitoring:
+Monitor temperature curve, renal function, and response to therapy. Track hydration status and nausea control.
+
+Nursing Interventions:
+Administer empiric antibiotics promptly and ensure adequate fluids; provide analgesia and antiemetics. Prepare for imaging if obstruction is suspected.
+
+Patient Education:
+Reinforce antibiotic adherence, hydration, and early return if symptoms persist. Discuss UTI prevention strategies.
+
+When to Escalate:
+Escalate for sepsis, persistent fever after therapy initiation, or obstruction signs. Seek urgent urologic input for hydronephrosis.
+
+Documentation & Coordination:
+Document antibiotic start time, vitals, and symptom changes. Coordinate follow-up cultures in high-risk cases.
+
+Prognosis:
+Most patients improve within days of therapy. Nursing hydration and adherence coaching reduce recurrence.

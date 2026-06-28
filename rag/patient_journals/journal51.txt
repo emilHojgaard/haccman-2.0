@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 040940-2481
+Encounter Date - 2025-01-14
+Author - Dr. L. Holm, Cardiology
+Patient Name - Louise Mikkelsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Migraine (2004), Osteoporosis (1999), Osteoarthritis (2009), Chronic lower back pain.
+- Recent Lab Results (2024-12-30)
+    Hb 7.9 mmol/L
+    Ferritin 40 µg/L
+    CRP 18 mg/L
+    Creatinine 70 µmol/L
+- Prior Consultations
+    - 2024-09-16 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-10-13 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Amlodipine 5 mg daily, Levothyroxine 75 µg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Louise Mikkelsen reports sudden onset of joint pain and swelling.
+- History of Present Illness
+   - Louise Mikkelsen developed severe pain in the first MTP joint overnight, with redness and swelling. No trauma or fever.
+- Physical Examination
+   - Erythematous, tender MTP joint. Vitals: BP 118/80, HR 109.
+- Diagnostics (Today)
+   - Serum uric acid elevated; joint aspirate with monosodium urate crystals.
+- Assessment
+   - Acute gout attack.
+
+Plan:
+   - Start NSAID or colchicine (if renal function allows).
+   - Elevate limb and apply ice packs.
+   - Review long-term urate-lowering therapy adherence.
+- Follow-up & Disposition
+   - Follow-up in 3 days to monitor improvement.
+
+Patient Education & Safety Net:
+Avoid alcohol and purine-rich foods; maintain hydration.
+
+Sign-off:
+Dr. L. Holm, Cardiology

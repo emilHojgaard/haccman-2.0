@@ -1,0 +1,28 @@
+Document Information:
+Disease - Spontaneous Pneumothorax
+Date - 2025-03-22
+Responsible Department - Respiratory/ED Unit
+
+Purpose:
+Outline recognition and acute management of primary and secondary spontaneous pneumothorax.
+
+Scope:
+For emergency, respiratory, and ICU teams managing adults with acute pleuritic chest pain and dyspnea.
+
+Indications:
+Sudden unilateral pleuritic pain and breathlessness, sometimes after coughing or exertion; risk increased in tall thin individuals and underlying lung disease.
+
+Diagnosis:
+Confirm with chest radiography or ultrasound; use CT when findings are equivocal or to evaluate underlying disease. Estimate size and assess stability to guide intervention.
+
+Treatment/Management:
+Observe small, stable primary pneumothoraces with oxygen and follow-up; perform needle aspiration or place a chest drain for larger, symptomatic, or secondary cases. Treat tension pneumothorax with immediate needle decompression followed by definitive management.
+
+Monitoring & Follow-up:
+Monitor for air leak and lung re-expansion; ensure analgesia and educate on recurrence prevention. Plan surgical referral for recurrent episodes or persistent air leak.
+
+When to Escalate:
+Escalate for tension physiology, hemodynamic instability, or refractory hypoxemia. Involve thoracic surgery for complicated or recurrent disease.
+
+Safety Notes:
+Avoid high-pressure ventilation where possible and counsel against air travel or diving until radiographic resolution and clearance. Use sterile technique for pleural procedures to reduce infection risk.

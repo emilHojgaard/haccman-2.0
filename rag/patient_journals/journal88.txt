@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 050651-0326
+Encounter Date - 2023-08-23
+Author - Dr. L. Holm, Cardiology
+Patient Name - Nina Bæk
+
+Medical History & Prior Results:
+- Past Diagnoses — COPD (2020), Hypertension (1986), Atrial fibrillation (2014).
+- Recent Lab Results (2023-06-15)
+    Hb 8.0 mmol/L
+    Ferritin 14 µg/L (low)
+    CRP 2 mg/L
+    Creatinine 93 µmol/L
+- Prior Consultations
+    - 2023-06-27 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2023-03-16 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Levothyroxine 75 µg daily, Bisoprolol 5 mg daily, Ferrous sulfate 100 mg every other day, Atorvastatin 20 mg nightly.
+- Allergies — None known.
+
+Present Illness:
+   - Nina Bæk presents with right lower quadrant abdominal pain and nausea.
+- History of Present Illness
+   - Nina Bæk reports 18 hours of migrating abdominal pain, initially periumbilical, now localized to right iliac fossa, with mild fever.
+- Physical Examination
+   - T 36.4 °C, tenderness and rebound in right lower quadrant, guarding present.
+- Diagnostics (Today)
+   - Leukocytosis and elevated CRP; ultrasound/CT confirms inflamed appendix.
+- Assessment
+   - Acute appendicitis.
+
+Plan:
+   - NPO, IV fluids, analgesia.
+   - Surgical evaluation for appendectomy.
+   - Administer pre-operative antibiotics.
+- Follow-up & Disposition
+   - Postoperative review in 8 days.
+
+Patient Education & Safety Net:
+Explain surgical procedure and recovery expectations.
+
+Sign-off:
+Dr. L. Holm, Cardiology

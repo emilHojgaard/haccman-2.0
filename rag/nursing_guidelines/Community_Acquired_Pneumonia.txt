@@ -1,0 +1,28 @@
+Document Information:
+Disease - Community-Acquired Pneumonia
+Date - 2024-12-08
+Responsible Department - Respiratory/ED Unit
+
+Overview:
+Community-acquired pneumonia presents with acute lower respiratory infection and radiographic infiltrate. Nursing care prioritizes oxygenation, fever control, early antibiotics, and mobilization.
+
+Nursing Assessment:
+Assess cough, sputum, pleuritic pain, fever, and dyspnea; evaluate respiratory pattern and accessory use. Review aspiration risk, vaccination status, and comorbidities.
+
+Key Monitoring:
+Monitor SpO₂, temperature curve, and respiratory rate; evaluate response to oxygen and antibiotics. Track fluid balance and delirium risk in older adults.
+
+Nursing Interventions:
+Administer prescribed antibiotics promptly, provide antipyretics, and titrate oxygen to targets. Encourage incentive spirometry and early ambulation when safe.
+
+Patient Education:
+Explain antibiotic adherence, hydration, and airway clearance strategies. Reinforce vaccination and smoking cessation to reduce recurrence.
+
+When to Escalate:
+Escalate for worsening hypoxemia, persistent tachypnea, hypotension, or confusion. Seek urgent review if sepsis criteria develop or oxygen needs rise quickly.
+
+Documentation & Coordination:
+Document oxygen delivery, SpO₂, temperatures, and antibiotic timing. Coordinate follow-up imaging or visits for high-risk patients.
+
+Prognosis:
+Most patients recover with timely therapy; frail or comorbid patients have higher complication risk. Nursing mobilization and hydration reduce deconditioning.

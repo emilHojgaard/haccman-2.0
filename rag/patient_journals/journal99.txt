@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 210906-3976
+Encounter Date - 2023-01-20
+Author - Dr. S. Gram, Hematology
+Patient Name - Jonas Iversen
+
+Medical History & Prior Results:
+- Past Diagnoses — CKD (1989), Gout (1984), Chronic lower back pain.
+- Recent Lab Results (2023-01-09)
+    Hb 8.0 mmol/L
+    Ferritin 46 µg/L
+    CRP 22 mg/L
+    Creatinine 60 µmol/L
+- Prior Consultations
+    - 2023-01-06 — Routine check-up — stable BP, mild anemia noted.
+    - 2022-09-02 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Furosemide 40 mg daily, Metformin 500 mg BID, Pantoprazole 40 mg daily, Ferrous sulfate 100 mg every other day.
+- Allergies — None known.
+
+Present Illness:
+   - Jonas Iversen presents with hearing voices and increased suspiciousness.
+- History of Present Illness
+   - Jonas Iversen reports auditory hallucinations and belief that neighbors are watching. Sleep poor; no substance use disclosed. Non-adherent with medication for 2 weeks.
+- Physical Examination
+   - Distracted by internal stimuli, flat affect, limited insight. Vitals: BP 141/65, HR 60 bpm.
+- Diagnostics (Today)
+   - Active psychosis; rule out intoxication or medical cause.
+- Assessment
+   - Schizophrenia, acute exacerbation due to medication nonadherence.
+
+Plan:
+   - Restart antipsychotic (oral or depot).
+   - Ensure safe environment; involve crisis team.
+   - Assess capacity and consider inpatient admission if risk present.
+- Follow-up & Disposition
+   - Close follow-up within 3 days or inpatient as required.
+
+Patient Education & Safety Net:
+Discuss importance of medication adherence and early relapse signs with patient and relatives.
+
+Sign-off:
+Dr. S. Gram, Hematology

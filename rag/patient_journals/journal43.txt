@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 220589-4455
+Encounter Date - 2024-08-02
+Author - Dr. K. Østergaard, General Surgery
+Patient Name - Christian Petersen
+
+Medical History & Prior Results:
+- Past Diagnoses — Heart failure (HFrEF) (2004), Atrial fibrillation (1999), Chronic lower back pain.
+- Recent Lab Results (2024-07-29)
+    Hb 8.3 mmol/L
+    Ferritin 19 µg/L
+    CRP 14 mg/L
+    Creatinine 88 µmol/L
+- Prior Consultations
+    - 2024-01-21 — Routine check-up — stable BP, mild anemia noted.
+    - 2023-08-18 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Ferrous sulfate 100 mg every other day, Amlodipine 5 mg daily, Bisoprolol 5 mg daily, Levothyroxine 75 µg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Christian Petersen presents with redness and swelling of the lower leg.
+- History of Present Illness
+   - Christian Petersen noticed redness and tenderness spreading over 1 days. No trauma reported.
+- Physical Examination
+   - Warm, erythematous area with indistinct margins, mild edema. T 38.1 °C.
+- Diagnostics (Today)
+   - Clinical cellulitis; CBC and CRP elevated.
+- Assessment
+   - Bacterial cellulitis, likely streptococcal.
+
+Plan:
+   - Start empiric oral antibiotic covering streptococci.
+   - Mark margin and monitor spread.
+   - Elevate limb and manage pain.
+- Follow-up & Disposition
+   - Review in 3 days to assess response.
+
+Patient Education & Safety Net:
+Explain signs of worsening infection and when to seek urgent review.
+
+Sign-off:
+Dr. K. Østergaard, General Surgery

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 240581-5687
+Encounter Date - 2023-01-09
+Author - Dr. M. Petersen, Gastroenterology
+Patient Name - Brian Mikkelsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Dyslipidemia (1996), Migraine (2002), Irritable bowel syndrome (1999), Gout (1993).
+- Recent Lab Results (2022-12-27)
+    Hb 8.0 mmol/L
+    Ferritin 28 µg/L
+    CRP 18 mg/L
+    Creatinine 76 µmol/L
+- Prior Consultations
+    - 2022-12-27 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2022-12-10 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Atorvastatin 20 mg nightly, Levothyroxine 75 µg daily, Empagliflozin 10 mg daily.
+- Allergies — NSAIDs (dyspepsia).
+
+Present Illness:
+   - Brian Mikkelsen reports thirst, frequent urination, and blurred vision.
+- History of Present Illness
+   - Brian Mikkelsen has several weeks of polyuria, polydipsia, and fatigue. Diet has been irregular during recent work stress; missed evening doses twice last week. No abdominal pain or vomiting.
+- Physical Examination
+   - Vitals: BP 107/70 mmHg, HR 95 bpm. Dry mucous membranes; otherwise normal exam; no focal deficits.
+- Diagnostics (Today)
+   - Capillary glucose elevated; ketones negative or trace; no acidosis on venous blood gas. HbA1c ordered for control assessment.
+- Assessment
+   - Poor glycemic control without DKA. Medication adherence and lifestyle contributors likely.
+
+Plan:
+   - Reinforce medication schedule; consider adding or adjusting therapy per plan.
+   - Hydration guidance and sick-day rules; check for precipitating infection.
+   - Arrange diabetes education and home glucose monitoring review.
+- Follow-up & Disposition
+   - Clinic follow-up in 3 weeks to assess response and review HbA1c.
+
+Patient Education & Safety Net:
+Review hypoglycemia recognition and treatment. Encourage regular meals, activity, and sleep hygiene to stabilize control.
+
+Sign-off:
+Dr. M. Petersen, Gastroenterology

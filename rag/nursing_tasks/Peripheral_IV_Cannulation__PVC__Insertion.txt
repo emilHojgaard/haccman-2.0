@@ -1,0 +1,34 @@
+Document Information:
+Task - Peripheral IV Cannulation (PVC) Insertion
+Date - 2023-12-24
+Responsible Department - Medical Ward / Infection Medicine
+
+Purpose:
+Provide standardized steps for safe insertion, securement, and initial care of a peripheral venous catheter in adults. Emphasize asepsis, vessel preservation, and documentation clarity.
+
+Scope:
+Applies to registered nurses trained and authorized in PVC insertion across ward, ED, day-case, or outpatient settings. Students may assist under direct supervision.
+
+Indications:
+Short-term IV access for medication administration, fluids, or contrast. Temporary access while awaiting central access or for preoperative therapy.
+
+Contraindications:
+Severe local infection or dermatitis at the intended site, lymphoedema, or limb with AV fistula or prior axillary node dissection. Avoid small fragile veins for vesicants or hyperosmolar infusions.
+
+Equipment:
+Appropriate gauge catheter, tourniquet, chlorhexidine/alcohol antiseptic, sterile gloves, transparent dressing, stabilization device, extension set, needle-free connector, 0.9% saline flush, labels, and sharps container.
+
+Procedure Steps:
+Perform hand hygiene and PPE; verify identity and allergies; explain the procedure. Select a suitable vein (prefer forearm), clean with antiseptic and allow to dry, insert at 15–30° until flashback, advance cannula, dispose sharps safely, attach extension and flush, secure with sterile dressing and label.
+
+Monitoring & Documentation:
+Inspect site per shift for phlebitis, infiltration, leakage, and dressing integrity. Document site, gauge, attempts, patency, patient tolerance, and education provided.
+
+Patient/Family Education:
+Request reporting of pain, heat, swelling, leakage, or restricted movement. Advise to keep the site clean and dry and avoid pulling on tubing.
+
+Escalation:
+Stop infusion and re-site if infiltration, extravasation, purulence, or inability to flush occurs. Consider central access for recurrent failures or anticipated prolonged therapy.
+
+Safety Notes:
+Use aseptic non-touch technique and allow antiseptic to dry fully. Choose the smallest gauge that meets therapy needs and limit repeated attempts on the same limb.

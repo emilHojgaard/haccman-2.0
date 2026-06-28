@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 090990-5740
+Encounter Date - 2024-03-05
+Author - Dr. S. Nielsen, Pulmonology
+Patient Name - Grethe Bang
+
+Medical History & Prior Results:
+- Past Diagnoses — Gallstones (2008), Atrial fibrillation (1993).
+- Recent Lab Results (2024-02-13)
+    Hb 7.2 mmol/L (low)
+    Ferritin 129 µg/L
+    CRP 4 mg/L
+    Creatinine 95 µmol/L
+- Prior Consultations
+    - 2024-02-11 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2024-01-19 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Metformin 500 mg BID, Amlodipine 5 mg daily, Empagliflozin 10 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Grethe Bang reports recurrent episodes of sudden intense fear and palpitations.
+- History of Present Illness
+   - Grethe Bang describes abrupt attacks of shortness of breath, chest tightness, and fear of dying lasting 10 minutes. Between attacks, anticipatory anxiety persists.
+- Physical Examination
+   - During visit, mildly anxious, HR 85 bpm, BP 139/72. ECG normal.
+- Diagnostics (Today)
+   - Recurrent panic attacks without underlying cardiac or endocrine cause.
+- Assessment
+   - Panic disorder.
+
+Plan:
+   - Provide CBT focused on panic management.
+   - Consider SSRI for long-term control.
+   - Educate on breathing and relaxation techniques.
+- Follow-up & Disposition
+   - Follow-up in 4 weeks for progress evaluation.
+
+Patient Education & Safety Net:
+Explain physiological basis of panic and avoidance behaviors. Encourage gradual exposure to feared situations.
+
+Sign-off:
+Dr. S. Nielsen, Pulmonology

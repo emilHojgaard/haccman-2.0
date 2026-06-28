@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 130832-9226
+Encounter Date - 2025-06-18
+Author - Dr. A. Thomsen, Emergency Medicine
+Patient Name - Morten Petersen
+
+Medical History & Prior Results:
+- Past Diagnoses — Hypothyroidism (2005), Gallstones (1987), Gout (2024), Type 2 Diabetes (2002), Chronic lower back pain.
+- Recent Lab Results (2025-05-30)
+    Hb 6.5 mmol/L (low)
+    Ferritin 140 µg/L
+    CRP 3 mg/L
+    Creatinine 95 µmol/L
+- Prior Consultations
+    - 2025-03-27 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2025-01-09 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Lisinopril 10 mg daily, Atorvastatin 20 mg nightly, Furosemide 40 mg daily, Bisoprolol 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Morten Petersen reports decreased need for sleep, elevated mood, and increased goal-directed activity.
+- History of Present Illness
+   - Morten Petersen describes two weeks of heightened energy, rapid speech, and impulsive spending. Sleep reduced to 3–4 hours per night. Denies hallucinations or substance use.
+- Physical Examination
+   - Alert, restless, pressured speech, euphoric and irritable mood. No psychosis. Vitals stable (BP 118/83, HR 88 bpm).
+- Diagnostics (Today)
+   - Findings consistent with manic episode; labs for lithium and thyroid function ordered.
+- Assessment
+   - Bipolar affective disorder, type I, current manic episode.
+
+Plan:
+   - Continue or initiate mood stabilizer (e.g., lithium or valproate).
+   - Discontinue antidepressants if present.
+   - Offer short inpatient stabilization if insight poor or risk increases.
+- Follow-up & Disposition
+   - Follow-up in 9 days to reassess mood and safety.
+
+Patient Education & Safety Net:
+Discuss relapse prevention, importance of sleep, and medication adherence. Provide crisis contact information.
+
+Sign-off:
+Dr. A. Thomsen, Emergency Medicine

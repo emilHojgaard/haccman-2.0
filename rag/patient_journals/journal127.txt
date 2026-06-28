@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 281291-4221
+Encounter Date - 2023-10-30
+Author - Dr. V. Laursen, Nephrology
+Patient Name - Christian Sørensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Migraine (2005), Obesity (1989).
+- Recent Lab Results (2023-09-25)
+    Hb 7.5 mmol/L
+    Ferritin 61 µg/L
+    CRP 23 mg/L
+    Creatinine 73 µmol/L
+- Prior Consultations
+    - 2023-09-01 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2023-08-19 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Pantoprazole 40 mg daily, Levothyroxine 75 µg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Christian Sørensen presents with fever, flank pain, and urinary symptoms.
+- History of Present Illness
+   - Christian Sørensen reports 2 days of dysuria, chills, and right-sided flank pain.
+- Physical Examination
+   - T 37.3 °C, costovertebral angle tenderness on right side. HR 111 bpm.
+- Diagnostics (Today)
+   - Urinalysis positive for nitrites; elevated CRP and WBC.
+- Assessment
+   - Acute pyelonephritis.
+
+Plan:
+   - Start empiric antibiotic therapy.
+   - Hydration and pain control.
+   - Hospitalize if vomiting or sepsis.
+- Follow-up & Disposition
+   - Recheck in 7 days to confirm recovery.
+
+Patient Education & Safety Net:
+Advise early presentation for recurrence; complete full antibiotic course.
+
+Sign-off:
+Dr. V. Laursen, Nephrology

@@ -1,0 +1,28 @@
+Document Information:
+Disease - Diabetic Ketoacidosis (DKA)
+Date - 2025-03-22
+Responsible Department - Endocrinology Unit
+
+Purpose:
+Provide a consistent protocol for fluid resuscitation, insulin therapy, and electrolyte replacement in adult DKA.
+
+Scope:
+For emergency and inpatient teams managing hyperglycemic crises in known or new diabetes.
+
+Indications:
+Polyuria, polydipsia, nausea, abdominal pain, and fatigue with hyperglycemia, ketonemia, and metabolic acidosis often precipitated by infection or insulin omission.
+
+Diagnosis:
+Identify hyperglycemia with elevated ketones and anion-gap metabolic acidosis; assess osmolality and triggers. Evaluate potassium before insulin administration.
+
+Treatment/Management:
+Begin isotonic fluids, correct potassium, and initiate continuous insulin once potassium is safe; address precipitating illness and transition to subcutaneous regimens after resolution.
+
+Monitoring & Follow-up:
+Monitor glucose, electrolytes, ketones, and anion gap; titrate insulin and fluids to steady correction. Educate on sick-day rules and outpatient follow-up.
+
+When to Escalate:
+Escalate for refractory acidosis, shock, altered mental status, or severe electrolyte disturbances. Consider ICU care for frequent monitoring and insulin titration.
+
+Safety Notes:
+Avoid early insulin in hypokalemia to prevent arrhythmias. Prevent overly rapid correction of osmolality and watch for cerebral edema in at-risk patients.

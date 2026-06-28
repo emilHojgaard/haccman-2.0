@@ -1,0 +1,28 @@
+Document Information:
+Disease - Ischemic Stroke (Acute)
+Date - 2025-03-22
+Responsible Department - Neurology/Stroke Unit
+
+Purpose:
+Guide rapid recognition, neuroimaging, and reperfusion eligibility assessment for acute ischemic stroke.
+
+Scope:
+For prehospital, emergency, and stroke-unit teams evaluating adults with new focal neurological deficits.
+
+Indications:
+Sudden onset facial droop, arm weakness, speech difficulty, visual field loss, or gait imbalance within a definable time window.
+
+Diagnosis:
+Perform immediate neurological assessment and non-contrast head CT to exclude hemorrhage; consider CT/MR angiography for large vessel occlusion. Determine last known well and contraindications to reperfusion.
+
+Treatment/Management:
+Manage airway and blood pressure targets and evaluate eligibility for thrombolysis and/or thrombectomy per local criteria. Provide antiplatelet therapy and DVT prophylaxis when reperfusion is not pursued.
+
+Monitoring & Follow-up:
+Monitor for neurological worsening, hemorrhagic conversion, dysphagia, and aspiration; start early rehabilitation. Address secondary prevention including blood pressure, lipids, and atrial fibrillation screening.
+
+When to Escalate:
+Escalate for decreasing level of consciousness, refractory hypertension, or malignant cerebral edema. Involve neurosurgery and critical care if deterioration or large infarct syndromes develop.
+
+Safety Notes:
+Confirm glucose and exclude mimics such as seizures; avoid hypotension and hyperthermia. Carefully apply reperfusion inclusion and exclusion criteria.

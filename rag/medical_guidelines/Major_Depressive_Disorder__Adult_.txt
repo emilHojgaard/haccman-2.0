@@ -1,0 +1,28 @@
+Document Information:
+Disease - Major Depressive Disorder (Adult)
+Date - 2025-03-22
+Responsible Department - Behavioral Health
+
+Purpose:
+Offer a structured pathway for diagnosis, risk assessment, and treatment selection for major depressive disorder.
+
+Scope:
+For primary care and behavioral health settings managing adults with persistent low mood or anhedonia.
+
+Indications:
+At least two weeks of depressed mood or anhedonia with changes in sleep, appetite, energy, concentration, or self-worth; consider comorbid anxiety or substance use.
+
+Diagnosis:
+Use validated screening tools and clinical interview to confirm criteria; assess suicide risk and medical contributors such as thyroid disease or medications.
+
+Treatment/Management:
+Provide psychoeducation and choose psychotherapy, pharmacotherapy, or combined approaches based on severity and preference. Address sleep, exercise, and substance use, and plan for measurement-based care.
+
+Monitoring & Follow-up:
+Monitor symptom scores, adherence, and side effects; adjust therapy at regular intervals. Plan relapse prevention and maintenance strategies for recurrent episodes.
+
+When to Escalate:
+Escalate for active suicidal intent, psychosis, catatonia, or failure of multiple treatments. Coordinate urgent evaluation and higher levels of care as needed.
+
+Safety Notes:
+Discuss black-box warnings and initiation side effects; review pregnancy and lactation considerations. Avoid abrupt discontinuation of serotonergic agents.

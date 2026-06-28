@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 110360-2434
+Encounter Date - 2025-09-28
+Author - Dr. J. Knudsen, ENT
+Patient Name - Kirsten Petersen
+
+Medical History & Prior Results:
+- Past Diagnoses — Irritable bowel syndrome (1986), GERD (2018).
+- Recent Lab Results (2025-08-22)
+    Hb 6.9 mmol/L (low)
+    Ferritin 44 µg/L
+    CRP 12 mg/L
+    Creatinine 81 µmol/L
+- Prior Consultations
+    - 2025-09-09 — Routine check-up — stable BP, mild anemia noted.
+    - 2025-07-20 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Bisoprolol 5 mg daily, Amlodipine 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Kirsten Petersen reports constant worry, muscle tension, and poor sleep.
+- History of Present Illness
+   - Kirsten Petersen describes months of excessive anxiety difficult to control, with restlessness and fatigue. Denies panic attacks or substance misuse.
+- Physical Examination
+   - Anxious affect, fidgeting. HR 108 bpm, BP 140/68 mmHg. No tremor or thyrotoxicosis signs.
+- Diagnostics (Today)
+   - Persistent anxiety with somatic tension; exclude thyroid and cardiac causes.
+- Assessment
+   - Generalized anxiety disorder.
+
+Plan:
+   - Begin CBT-focused therapy; consider SSRI or SNRI if persistent.
+   - Teach breathing and relaxation exercises.
+   - Avoid benzodiazepines long term.
+- Follow-up & Disposition
+   - Review in 3 weeks to monitor response.
+
+Patient Education & Safety Net:
+Explain nature of chronic anxiety and coping tools. Encourage sleep hygiene and regular exercise.
+
+Sign-off:
+Dr. J. Knudsen, ENT

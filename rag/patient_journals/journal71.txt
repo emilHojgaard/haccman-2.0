@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 231208-4026
+Encounter Date - 2024-01-25
+Author - Dr. R. Iversen, Neurology
+Patient Name - Emil Sørensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Iron Deficiency (2016), Psoriasis (2000), Chronic lower back pain.
+- Recent Lab Results (2024-01-22)
+    Hb 8.2 mmol/L
+    Ferritin 47 µg/L
+    CRP 16 mg/L
+    Creatinine 89 µmol/L
+- Prior Consultations
+    - 2023-04-09 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2024-01-09 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Bisoprolol 5 mg daily, Furosemide 40 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Emil Sørensen presents with fever, flank pain, and urinary symptoms.
+- History of Present Illness
+   - Emil Sørensen reports 2 days of dysuria, chills, and right-sided flank pain.
+- Physical Examination
+   - T 36.9 °C, costovertebral angle tenderness on right side. HR 90 bpm.
+- Diagnostics (Today)
+   - Urinalysis positive for nitrites; elevated CRP and WBC.
+- Assessment
+   - Acute pyelonephritis.
+
+Plan:
+   - Start empiric antibiotic therapy.
+   - Hydration and pain control.
+   - Hospitalize if vomiting or sepsis.
+- Follow-up & Disposition
+   - Recheck in 7 days to confirm recovery.
+
+Patient Education & Safety Net:
+Advise early presentation for recurrence; complete full antibiotic course.
+
+Sign-off:
+Dr. R. Iversen, Neurology

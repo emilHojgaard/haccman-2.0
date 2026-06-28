@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 160351-4751
+Encounter Date - 2024-10-04
+Author - Dr. C. Mikkelsen, Endocrinology
+Patient Name - Jonas Holm
+
+Medical History & Prior Results:
+- Past Diagnoses — Hypothyroidism (2011), Depression (1982), Osteoporosis (1982), Type 2 Diabetes (2020), Chronic lower back pain.
+- Recent Lab Results (2024-08-30)
+    Hb 7.4 mmol/L (low)
+    Ferritin 16 µg/L
+    CRP 20 mg/L
+    Creatinine 95 µmol/L
+- Prior Consultations
+    - 2024-09-13 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-06-21 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Pantoprazole 40 mg daily, Amlodipine 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Jonas Holm complains of increased cough, sputum, and breathlessness.
+- History of Present Illness
+   - Jonas Holm reports 5 days of worsening cough with purulent sputum and wheeze. No fever or chest pain.
+- Physical Examination
+   - RR 26/min, SpO₂ 95%. Wheezes and prolonged expiration on auscultation.
+- Diagnostics (Today)
+   - Likely infective COPD exacerbation; sputum culture if severe.
+- Assessment
+   - COPD exacerbation, mild to moderate.
+
+Plan:
+   - Increase bronchodilator frequency.
+   - Start oral corticosteroid and consider antibiotic if purulent.
+   - Ensure inhaler technique and smoking cessation advice.
+- Follow-up & Disposition
+   - Review in 2 weeks post-treatment.
+
+Patient Education & Safety Net:
+Discuss exacerbation action plan and vaccination importance.
+
+Sign-off:
+Dr. C. Mikkelsen, Endocrinology

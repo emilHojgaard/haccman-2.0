@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 071291-4108
+Encounter Date - 2023-06-30
+Author - Dr. V. Laursen, Nephrology
+Patient Name - Carsten Sørensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Osteoporosis (1985), COPD (2021), Type 2 Diabetes (2005), Chronic lower back pain.
+- Recent Lab Results (2023-06-25)
+    Hb 8.3 mmol/L
+    Ferritin 26 µg/L
+    CRP 4 mg/L
+    Creatinine 106 µmol/L
+- Prior Consultations
+    - 2023-06-21 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2023-05-01 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Empagliflozin 10 mg daily, Ramipril 5 mg daily.
+- Allergies — NSAIDs (dyspepsia).
+
+Present Illness:
+   - Carsten Sørensen reports epigastric pain and indigestion.
+- History of Present Illness
+   - Carsten Sørensen has burning upper abdominal pain related to meals. Uses NSAIDs intermittently; no hematemesis.
+- Physical Examination
+   - Epigastric tenderness, no guarding. Vitals: BP 165/60, HR 80.
+- Diagnostics (Today)
+   - Suspected gastritis/ulcer; H. pylori test ordered.
+- Assessment
+   - Peptic ulcer disease, likely NSAID-related.
+
+Plan:
+   - Stop NSAIDs; start PPI (e.g., pantoprazole 40 mg daily).
+   - If positive, treat H. pylori.
+   - Advise small, frequent meals and limit alcohol/caffeine.
+- Follow-up & Disposition
+   - Reassess in 6 weeks; consider endoscopy if persistent.
+
+Patient Education & Safety Net:
+Explain risk factors and warning signs of bleeding.
+
+Sign-off:
+Dr. V. Laursen, Nephrology

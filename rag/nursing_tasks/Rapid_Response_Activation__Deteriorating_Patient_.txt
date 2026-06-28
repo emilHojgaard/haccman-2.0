@@ -1,0 +1,34 @@
+Document Information:
+Task - Rapid Response Activation (Deteriorating Patient)
+Date - 2023-03-24
+Responsible Department - Hospital Medicine
+
+Purpose:
+Ensure timely escalation for patients showing acute physiological deterioration to reduce cardiac arrest and ICU transfers.
+
+Scope:
+Applies to all adult inpatients where early warning scores or clinical concern triggers a call.
+
+Indications:
+Threatened airway, respiratory distress, new hypotension, chest pain with instability, altered consciousness, or staff concern.
+
+Contraindications:
+None; activate based on concern even if scores are borderline. Do not delay while seeking permission.
+
+Equipment:
+Bedside monitor, oxygen, suction, IV access equipment, emergency trolley per local setup.
+
+Procedure Steps:
+Call the rapid response number, state location and concern, and begin basic interventions (airway, oxygen, IV access). Prepare recent vitals, medications, and history for the team.
+
+Monitoring & Documentation:
+Record activation time, response times, and interventions. Update observation chart and handover to team on arrival.
+
+Patient/Family Education:
+Reassure patient and family that help is on the way and describe steps being taken. Maintain privacy and dignity.
+
+Escalation:
+If condition worsens before team arrives, call code per protocol. Continue ABC support and re-alert as needed.
+
+Safety Notes:
+Keep emergency equipment functional and accessible. Practice closed-loop communication during events.

@@ -1,0 +1,34 @@
+Document Information:
+Task - Pain Assessment & Management (Adult Inpatient)
+Date - 2024-08-08
+Responsible Department - Nursing / Acute Pain Service
+
+Purpose:
+Assess and manage pain effectively to improve recovery and function while minimizing adverse effects.
+
+Scope:
+For adult inpatients across medical, surgical, and palliative services.
+
+Indications:
+Acute postoperative pain, trauma, medical conditions causing pain, or chronic pain exacerbation.
+
+Contraindications:
+Avoid specific analgesics when contraindicated by allergies, renal/hepatic impairment, or interactions. Clarify unclear orders.
+
+Equipment:
+Validated pain scales, medication chart, nonpharmacologic aids (ice/heat packs), PPE.
+
+Procedure Steps:
+Assess pain at rest and with movement, choose multimodal strategies including nonpharmacologic measures, administer prescribed analgesics, and reassess effect.
+
+Monitoring & Documentation:
+Monitor pain scores, sedation, respiratory rate, and side effects. Document interventions, responses, and plan adjustments.
+
+Patient/Family Education:
+Explain realistic goals and the importance of reporting inadequate relief. Discuss side effects and nonpharmacologic options.
+
+Escalation:
+Escalate for uncontrolled pain, oversedation, or suspected compartment syndrome. Consult Acute Pain Service for complex cases.
+
+Safety Notes:
+Avoid concurrent sedatives without review and respect maximum dosing intervals. Consider bowel regimens with opioids.

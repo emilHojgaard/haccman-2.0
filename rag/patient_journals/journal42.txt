@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 230797-2513
+Encounter Date - 2024-01-14
+Author - Dr. L. Holm, Cardiology
+Patient Name - Katrine Kristensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Anxiety (2000), Iron Deficiency (2015), Atrial fibrillation (2005), Chronic lower back pain.
+- Recent Lab Results (2024-01-08)
+    Hb 7.1 mmol/L (low)
+    Ferritin 66 µg/L
+    CRP 16 mg/L
+    Creatinine 64 µmol/L
+- Prior Consultations
+    - 2023-09-16 — Routine check-up — stable BP, mild anemia noted.
+    - 2023-11-03 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Metformin 500 mg BID, Amlodipine 5 mg daily, Ferrous sulfate 100 mg every other day, Atorvastatin 20 mg nightly.
+- Allergies — None known.
+
+Present Illness:
+   - Katrine Kristensen reports constant worry, muscle tension, and poor sleep.
+- History of Present Illness
+   - Katrine Kristensen describes months of excessive anxiety difficult to control, with restlessness and fatigue. Denies panic attacks or substance misuse.
+- Physical Examination
+   - Anxious affect, fidgeting. HR 86 bpm, BP 155/75 mmHg. No tremor or thyrotoxicosis signs.
+- Diagnostics (Today)
+   - Persistent anxiety with somatic tension; exclude thyroid and cardiac causes.
+- Assessment
+   - Generalized anxiety disorder.
+
+Plan:
+   - Begin CBT-focused therapy; consider SSRI or SNRI if persistent.
+   - Teach breathing and relaxation exercises.
+   - Avoid benzodiazepines long term.
+- Follow-up & Disposition
+   - Review in 4 weeks to monitor response.
+
+Patient Education & Safety Net:
+Explain nature of chronic anxiety and coping tools. Encourage sleep hygiene and regular exercise.
+
+Sign-off:
+Dr. L. Holm, Cardiology

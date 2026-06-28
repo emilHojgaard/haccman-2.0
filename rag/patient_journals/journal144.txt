@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 090644-4403
+Encounter Date - 2024-11-03
+Author - Dr. S. Gram, Hematology
+Patient Name - Helle Rasmussen
+
+Medical History & Prior Results:
+- Past Diagnoses — Psoriasis (2016), Iron Deficiency (1990), Depression (2000).
+- Recent Lab Results (2024-10-30)
+    Hb 7.2 mmol/L (low)
+    Ferritin 100 µg/L
+    CRP 9 mg/L
+    Creatinine 101 µmol/L
+- Prior Consultations
+    - 2023-12-06 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2024-08-27 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Atorvastatin 20 mg nightly, Metformin 500 mg BID, Amlodipine 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Helle Rasmussen presents for follow-up with persistently elevated blood pressure readings.
+- History of Present Illness
+   - Helle Rasmussen notes occasional headaches and dizziness. Adherence to medication inconsistent; diet high in salt.
+- Physical Examination
+   - BP 161/81 mmHg, HR 82 bpm, no edema, no murmurs.
+- Diagnostics (Today)
+   - Office BP elevated; renal function and electrolytes ordered.
+- Assessment
+   - Essential hypertension, suboptimally controlled.
+
+Plan:
+   - Reinforce lifestyle modification (salt restriction, exercise).
+   - Increase or add antihypertensive therapy.
+   - Monitor home BP readings.
+- Follow-up & Disposition
+   - Review in 6 weeks with BP log.
+
+Patient Education & Safety Net:
+Explain importance of adherence and cardiovascular risk reduction.
+
+Sign-off:
+Dr. S. Gram, Hematology

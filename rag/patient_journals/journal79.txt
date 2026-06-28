@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 060182-6742
+Encounter Date - 2025-08-18
+Author - Dr. C. Mikkelsen, Endocrinology
+Patient Name - Brian Skov
+
+Medical History & Prior Results:
+- Past Diagnoses — COPD (2009), Osteoarthritis (2000), GERD (2010), Asthma (2020).
+- Recent Lab Results (2025-08-16)
+    Hb 8.2 mmol/L
+    Ferritin 50 µg/L
+    CRP 23 mg/L
+    Creatinine 68 µmol/L
+- Prior Consultations
+    - 2025-06-25 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2025-01-26 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Ferrous sulfate 100 mg every other day, Empagliflozin 10 mg daily, Bisoprolol 5 mg daily, Metformin 500 mg BID.
+- Allergies — None known.
+
+Present Illness:
+   - Brian Skov reports worsening lower back pain.
+- History of Present Illness
+   - Brian Skov has chronic back pain now intensified after lifting or prolonged sitting. No radicular symptoms or incontinence.
+- Physical Examination
+   - Paraspinal muscle tenderness, normal reflexes and strength. BP 109/80.
+- Diagnostics (Today)
+   - Mechanical exacerbation of chronic low back pain.
+- Assessment
+   - Chronic low back pain, acute exacerbation.
+
+Plan:
+   - Encourage activity as tolerated.
+   - Use heat therapy and simple analgesics.
+   - Refer for physiotherapy if persistent.
+- Follow-up & Disposition
+   - Follow-up in 5 weeks.
+
+Patient Education & Safety Net:
+Discuss posture, core strengthening, and weight control.
+
+Sign-off:
+Dr. C. Mikkelsen, Endocrinology

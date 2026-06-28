@@ -1,0 +1,28 @@
+Document Information:
+Disease - Community-Acquired Pneumonia
+Date - 2025-03-22
+Responsible Department - Respiratory/ED Unit
+
+Purpose:
+Guide timely recognition, severity assessment, antimicrobial selection, and supportive care for adults with community-acquired pneumonia.
+
+Scope:
+Applies to adults presenting in outpatient clinics, emergency departments, or hospital wards with suspected lower respiratory infection.
+
+Indications:
+Acute cough, fever, pleuritic chest pain, dyspnea, or sputum production, especially following viral illness or exposure.
+
+Diagnosis:
+Establish with compatible symptoms plus new infiltrate on chest imaging when feasible; use labs and microbiology selectively. Apply severity tools to inform site-of-care decisions and antibiotic route.
+
+Treatment/Management:
+Initiate empiric antibiotics based on local patterns and risk factors; de-escalate with culture data and clinical response. Provide oxygen for hypoxemia, antipyretics, fluids, and VTE prophylaxis for hospitalized patients as indicated.
+
+Monitoring & Follow-up:
+Reassess clinical stability, oxygen needs, and adverse drug effects; convert to oral therapy once stable. Arrange follow-up imaging for high-risk patients or persistent symptoms.
+
+When to Escalate:
+Escalate for septic shock, respiratory failure, or rapidly progressive multilobar disease. Consider ICU evaluation for high severity scores or increasing oxygen requirements.
+
+Safety Notes:
+Review allergies and drug interactions when selecting antibiotics and ensure appropriate duration. Encourage early mobilization and aspiration risk mitigation in frail patients.

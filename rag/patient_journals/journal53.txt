@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 240667-2554
+Encounter Date - 2025-08-27
+Author - Dr. C. Mikkelsen, Endocrinology
+Patient Name - Ida Mikkelsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Atrial fibrillation (2011), COPD (2021), Heart failure (HFrEF) (1993), Chronic lower back pain.
+- Recent Lab Results (2025-08-18)
+    Hb 7.4 mmol/L (low)
+    Ferritin 86 µg/L
+    CRP 10 mg/L
+    Creatinine 97 µmol/L
+- Prior Consultations
+    - 2025-06-24 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2025-02-21 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Furosemide 40 mg daily, Levothyroxine 75 µg daily, Ramipril 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Ida Mikkelsen presents with fever, flank pain, and urinary symptoms.
+- History of Present Illness
+   - Ida Mikkelsen reports 1 days of dysuria, chills, and right-sided flank pain.
+- Physical Examination
+   - T 37.4 °C, costovertebral angle tenderness on right side. HR 67 bpm.
+- Diagnostics (Today)
+   - Urinalysis positive for nitrites; elevated CRP and WBC.
+- Assessment
+   - Acute pyelonephritis.
+
+Plan:
+   - Start empiric antibiotic therapy.
+   - Hydration and pain control.
+   - Hospitalize if vomiting or sepsis.
+- Follow-up & Disposition
+   - Recheck in 10 days to confirm recovery.
+
+Patient Education & Safety Net:
+Advise early presentation for recurrence; complete full antibiotic course.
+
+Sign-off:
+Dr. C. Mikkelsen, Endocrinology

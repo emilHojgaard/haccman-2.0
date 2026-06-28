@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 031180-1172
+Encounter Date - 2023-01-11
+Author - Dr. C. Mikkelsen, Endocrinology
+Patient Name - Sebastian Gram
+
+Medical History & Prior Results:
+- Past Diagnoses — GERD (2006), CKD (2013), Gallstones (1998), Chronic lower back pain.
+- Recent Lab Results (2022-12-20)
+    Hb 8.2 mmol/L
+    Ferritin 138 µg/L
+    CRP 1 mg/L
+    Creatinine 92 µmol/L
+- Prior Consultations
+    - 2022-07-14 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2022-05-08 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Furosemide 40 mg daily, Levothyroxine 75 µg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Sebastian Gram reports constant worry, muscle tension, and poor sleep.
+- History of Present Illness
+   - Sebastian Gram describes months of excessive anxiety difficult to control, with restlessness and fatigue. Denies panic attacks or substance misuse.
+- Physical Examination
+   - Anxious affect, fidgeting. HR 110 bpm, BP 99/96 mmHg. No tremor or thyrotoxicosis signs.
+- Diagnostics (Today)
+   - Persistent anxiety with somatic tension; exclude thyroid and cardiac causes.
+- Assessment
+   - Generalized anxiety disorder.
+
+Plan:
+   - Begin CBT-focused therapy; consider SSRI or SNRI if persistent.
+   - Teach breathing and relaxation exercises.
+   - Avoid benzodiazepines long term.
+- Follow-up & Disposition
+   - Review in 4 weeks to monitor response.
+
+Patient Education & Safety Net:
+Explain nature of chronic anxiety and coping tools. Encourage sleep hygiene and regular exercise.
+
+Sign-off:
+Dr. C. Mikkelsen, Endocrinology

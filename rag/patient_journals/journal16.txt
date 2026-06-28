@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 090680-3437
+Encounter Date - 2025-02-19
+Author - Dr. K. Østergaard, General Surgery
+Patient Name - Sebastian Bjørk
+
+Medical History & Prior Results:
+- Past Diagnoses — Peptic ulcer disease (1995), Dyslipidemia (2010).
+- Recent Lab Results (2025-02-07)
+    Hb 7.1 mmol/L (low)
+    Ferritin 11 µg/L (low)
+    CRP 15 mg/L
+    Creatinine 73 µmol/L
+- Prior Consultations
+    - 2025-01-08 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-12-23 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Bisoprolol 5 mg daily, Metformin 500 mg BID, Ramipril 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Sebastian Bjørk reports thirst, frequent urination, and blurred vision.
+- History of Present Illness
+   - Sebastian Bjørk has several weeks of polyuria, polydipsia, and fatigue. Diet has been irregular during recent work stress; missed evening doses twice last week. No abdominal pain or vomiting.
+- Physical Examination
+   - Vitals: BP 141/87 mmHg, HR 113 bpm. Dry mucous membranes; otherwise normal exam; no focal deficits.
+- Diagnostics (Today)
+   - Capillary glucose elevated; ketones negative or trace; no acidosis on venous blood gas. HbA1c ordered for control assessment.
+- Assessment
+   - Poor glycemic control without DKA. Medication adherence and lifestyle contributors likely.
+
+Plan:
+   - Reinforce medication schedule; consider adding or adjusting therapy per plan.
+   - Hydration guidance and sick-day rules; check for precipitating infection.
+   - Arrange diabetes education and home glucose monitoring review.
+- Follow-up & Disposition
+   - Clinic follow-up in 4 weeks to assess response and review HbA1c.
+
+Patient Education & Safety Net:
+Review hypoglycemia recognition and treatment. Encourage regular meals, activity, and sleep hygiene to stabilize control.
+
+Sign-off:
+Dr. K. Østergaard, General Surgery

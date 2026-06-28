@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 050205-3347
+Encounter Date - 2023-01-09
+Author - Dr. K. Østergaard, General Surgery
+Patient Name - Kirsten Poulsen
+
+Medical History & Prior Results:
+- Past Diagnoses — CKD (2003), Anxiety (2008), Psoriasis (1994), Asthma (2011).
+- Recent Lab Results (2022-12-26)
+    Hb 7.9 mmol/L
+    Ferritin 85 µg/L
+    CRP 15 mg/L
+    Creatinine 61 µmol/L
+- Prior Consultations
+    - 2022-12-15 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2022-05-14 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Levothyroxine 75 µg daily, Empagliflozin 10 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Kirsten Poulsen reports recurrent episodes of sudden intense fear and palpitations.
+- History of Present Illness
+   - Kirsten Poulsen describes abrupt attacks of shortness of breath, chest tightness, and fear of dying lasting 7 minutes. Between attacks, anticipatory anxiety persists.
+- Physical Examination
+   - During visit, mildly anxious, HR 114 bpm, BP 142/68. ECG normal.
+- Diagnostics (Today)
+   - Recurrent panic attacks without underlying cardiac or endocrine cause.
+- Assessment
+   - Panic disorder.
+
+Plan:
+   - Provide CBT focused on panic management.
+   - Consider SSRI for long-term control.
+   - Educate on breathing and relaxation techniques.
+- Follow-up & Disposition
+   - Follow-up in 6 weeks for progress evaluation.
+
+Patient Education & Safety Net:
+Explain physiological basis of panic and avoidance behaviors. Encourage gradual exposure to feared situations.
+
+Sign-off:
+Dr. K. Østergaard, General Surgery

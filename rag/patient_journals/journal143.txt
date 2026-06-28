@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 120357-7352
+Encounter Date - 2024-09-26
+Author - Dr. O. Bjørk, Urology
+Patient Name - Peter Iversen
+
+Medical History & Prior Results:
+- Past Diagnoses — Obesity (2002), Peptic ulcer disease (1997).
+- Recent Lab Results (2024-09-12)
+    Hb 7.5 mmol/L
+    Ferritin 143 µg/L
+    CRP 12 mg/L
+    Creatinine 65 µmol/L
+- Prior Consultations
+    - 2024-07-06 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2024-07-25 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Empagliflozin 10 mg daily, Lisinopril 10 mg daily, Pantoprazole 40 mg daily, Furosemide 40 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Peter Iversen complains of fever, productive cough, and right-sided chest pain.
+- History of Present Illness
+   - Peter Iversen developed a sudden cough with green sputum 3 days ago, followed by fevers and pleuritic pain. Increased breathlessness when climbing stairs; no recent travel.
+- Physical Examination
+   - Febrile (38.2 °C), RR 20/min, SpO₂ 95% on room air. Crackles and bronchial breath sounds over the right lower zone; no peripheral edema.
+- Diagnostics (Today)
+   - CXR shows right lower lobe consolidation. CRP elevated; WBC mildly raised. Consider sputum culture if severe or atypical features.
+- Assessment
+   - Community-acquired pneumonia, lobar pattern, clinically stable for ward/ambulatory care depending on scores.
+
+Plan:
+   - Start empiric antibiotics per local protocol; provide antipyretics and hydration.
+   - Titrate oxygen to target saturations and encourage early mobilization and incentive spirometry.
+   - Review response within 48–72 hours; escalate if hypoxemia or sepsis criteria develop.
+- Follow-up & Disposition
+   - Safety check in 3 days if outpatient; clinical review in 2 weeks to ensure recovery.
+
+Patient Education & Safety Net:
+Discuss contagious period, cough hygiene, and gradual return to activity. Reinforce smoking cessation and vaccination where applicable.
+
+Sign-off:
+Dr. O. Bjørk, Urology

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 160370-7156
+Encounter Date - 2024-11-14
+Author - Dr. T. Bæk, Infectious Diseases
+Patient Name - Maria Pedersen
+
+Medical History & Prior Results:
+- Past Diagnoses — Migraine (2017), Iron Deficiency (2016), Psoriasis (1998), Heart failure (HFpEF) (2013), Chronic lower back pain.
+- Recent Lab Results (2024-09-04)
+    Hb 6.6 mmol/L (low)
+    Ferritin 128 µg/L
+    CRP 19 mg/L
+    Creatinine 64 µmol/L
+- Prior Consultations
+    - 2024-09-08 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2024-11-01 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Levothyroxine 75 µg daily, Lisinopril 10 mg daily.
+- Allergies — Penicillin (rash).
+
+Present Illness:
+   - Maria Pedersen presents for follow-up with persistently elevated blood pressure readings.
+- History of Present Illness
+   - Maria Pedersen notes occasional headaches and dizziness. Adherence to medication inconsistent; diet high in salt.
+- Physical Examination
+   - BP 154/84 mmHg, HR 71 bpm, no edema, no murmurs.
+- Diagnostics (Today)
+   - Office BP elevated; renal function and electrolytes ordered.
+- Assessment
+   - Essential hypertension, suboptimally controlled.
+
+Plan:
+   - Reinforce lifestyle modification (salt restriction, exercise).
+   - Increase or add antihypertensive therapy.
+   - Monitor home BP readings.
+- Follow-up & Disposition
+   - Review in 4 weeks with BP log.
+
+Patient Education & Safety Net:
+Explain importance of adherence and cardiovascular risk reduction.
+
+Sign-off:
+Dr. T. Bæk, Infectious Diseases

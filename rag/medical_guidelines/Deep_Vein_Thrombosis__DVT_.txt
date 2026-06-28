@@ -1,0 +1,28 @@
+Document Information:
+Disease - Deep Vein Thrombosis (DVT)
+Date - 2025-03-22
+Responsible Department - Vascular Medicine
+
+Purpose:
+Standardize evaluation and anticoagulation of suspected lower-extremity deep vein thrombosis.
+
+Scope:
+For adults with leg swelling or pain in ambulatory and emergency settings.
+
+Indications:
+Unilateral leg swelling, pain, warmth, and dilated superficial veins, often after immobility, trauma, or surgery.
+
+Diagnosis:
+Use clinical probability scoring with D-dimer to decide on compression ultrasonography. Consider alternative diagnoses like cellulitis or Baker’s cyst.
+
+Treatment/Management:
+Initiate anticoagulation when indicated and choose agent based on renal function, cancer status, and preferences. Encourage ambulation as tolerated and compression for symptoms.
+
+Monitoring & Follow-up:
+Monitor for bleeding and extension; review adherence and duration strategy. Reassess provoking factors and need for thrombophilia testing in selected patients.
+
+When to Escalate:
+Escalate for extensive iliofemoral thrombosis, phlegmasia, or suspected PE. Seek specialty input for thrombolysis or thrombectomy in limb-threatening cases.
+
+Safety Notes:
+Adjust dosing in renal impairment and avoid drug interactions that increase bleeding. Educate on warning signs of PE during treatment.

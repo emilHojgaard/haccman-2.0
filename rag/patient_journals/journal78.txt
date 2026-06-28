@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 030656-5003
+Encounter Date - 2023-02-14
+Author - Dr. V. Laursen, Nephrology
+Patient Name - Magnus Knudsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Osteoporosis (1998), COPD (2014), Chronic lower back pain.
+- Recent Lab Results (2022-11-26)
+    Hb 7.6 mmol/L
+    Ferritin 70 µg/L
+    CRP 16 mg/L
+    Creatinine 76 µmol/L
+- Prior Consultations
+    - 2022-10-28 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2023-01-01 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Bisoprolol 5 mg daily, Ramipril 5 mg daily, Metformin 500 mg BID.
+- Allergies — None known.
+
+Present Illness:
+   - Magnus Knudsen presents with redness and swelling of the lower leg.
+- History of Present Illness
+   - Magnus Knudsen noticed redness and tenderness spreading over 2 days. No trauma reported.
+- Physical Examination
+   - Warm, erythematous area with indistinct margins, mild edema. T 36.7 °C.
+- Diagnostics (Today)
+   - Clinical cellulitis; CBC and CRP elevated.
+- Assessment
+   - Bacterial cellulitis, likely streptococcal.
+
+Plan:
+   - Start empiric oral antibiotic covering streptococci.
+   - Mark margin and monitor spread.
+   - Elevate limb and manage pain.
+- Follow-up & Disposition
+   - Review in 2 days to assess response.
+
+Patient Education & Safety Net:
+Explain signs of worsening infection and when to seek urgent review.
+
+Sign-off:
+Dr. V. Laursen, Nephrology

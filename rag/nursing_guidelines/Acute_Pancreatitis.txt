@@ -1,0 +1,28 @@
+Document Information:
+Disease - Acute Pancreatitis
+Date - 2024-10-02
+Responsible Department - Gastroenterology
+
+Overview:
+Acute pancreatitis presents with severe epigastric pain and elevated enzymes. Nursing care focuses on fluids, analgesia, and early complication surveillance.
+
+Nursing Assessment:
+Assess pain radiation to the back, nausea/vomiting, and risk factors such as alcohol use or gallstones. Evaluate volume status and abdominal tenderness.
+
+Key Monitoring:
+Monitor vitals, urine output, and pain control; track labs including electrolytes and hematocrit. Watch for hypoxia and infection signs.
+
+Nursing Interventions:
+Administer isotonic fluids per protocol, provide multimodal analgesia, and support early enteral nutrition when ordered. Prepare for ERCP if biliary obstruction is suspected.
+
+Patient Education:
+Counsel on alcohol cessation and gallstone management plans. Explain dietary progression and the importance of follow-up.
+
+When to Escalate:
+Escalate for organ failure, persistent vomiting, or uncontrolled pain. Notify team for suspected necrosis or sepsis.
+
+Documentation & Coordination:
+Document fluid totals, pain scores, nutrition status, and procedures performed. Coordinate surgical or GI consults as needed.
+
+Prognosis:
+Most mild cases resolve with supportive care; severe cases carry complication risk. Nursing vigilance detects deterioration early.

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 090292-7723
+Encounter Date - 2025-02-02
+Author - Dr. R. Iversen, Neurology
+Patient Name - Emil Mortensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Atrial fibrillation (2024), Obesity (2012), Asthma (1986).
+- Recent Lab Results (2024-11-24)
+    Hb 7.2 mmol/L (low)
+    Ferritin 27 µg/L
+    CRP 6 mg/L
+    Creatinine 56 µmol/L
+- Prior Consultations
+    - 2025-01-26 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-10-19 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Metformin 500 mg BID, Levothyroxine 75 µg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Emil Mortensen presents with joint stiffness and increased pain.
+- History of Present Illness
+   - Emil Mortensen notes worsening knee pain over 14 days, aggravated by activity. No trauma or systemic symptoms.
+- Physical Examination
+   - Mild joint effusion, bony tenderness, no warmth. BP 120/87.
+- Diagnostics (Today)
+   - No acute inflammation; radiographs show osteoarthritic changes.
+- Assessment
+   - Osteoarthritis flare-up.
+
+Plan:
+   - Use acetaminophen or topical NSAID.
+   - Encourage physiotherapy and weight management.
+   - Avoid prolonged inactivity.
+- Follow-up & Disposition
+   - Reassess pain control in 4 weeks.
+
+Patient Education & Safety Net:
+Discuss chronic nature of OA and exercise importance.
+
+Sign-off:
+Dr. R. Iversen, Neurology

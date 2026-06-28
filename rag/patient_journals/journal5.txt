@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 100993-4006
+Encounter Date - 2024-11-18
+Author - Dr. P. Jensen, Psychiatry
+Patient Name - Peter Knudsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Anxiety (1989), CKD (2023), Gout (2018), Chronic lower back pain.
+- Recent Lab Results (2024-08-29)
+    Hb 7.3 mmol/L (low)
+    Ferritin 22 µg/L
+    CRP 9 mg/L
+    Creatinine 93 µmol/L
+- Prior Consultations
+    - 2024-07-13 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2024-10-21 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Bisoprolol 5 mg daily, Ferrous sulfate 100 mg every other day, Lisinopril 10 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Peter Knudsen reports worsening lower back pain.
+- History of Present Illness
+   - Peter Knudsen has chronic back pain now intensified after lifting or prolonged sitting. No radicular symptoms or incontinence.
+- Physical Examination
+   - Paraspinal muscle tenderness, normal reflexes and strength. BP 157/72.
+- Diagnostics (Today)
+   - Mechanical exacerbation of chronic low back pain.
+- Assessment
+   - Chronic low back pain, acute exacerbation.
+
+Plan:
+   - Encourage activity as tolerated.
+   - Use heat therapy and simple analgesics.
+   - Refer for physiotherapy if persistent.
+- Follow-up & Disposition
+   - Follow-up in 5 weeks.
+
+Patient Education & Safety Net:
+Discuss posture, core strengthening, and weight control.
+
+Sign-off:
+Dr. P. Jensen, Psychiatry

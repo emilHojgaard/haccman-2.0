@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 251240-1779
+Encounter Date - 2024-07-19
+Author - Dr. H. Sørensen, Internal Medicine
+Patient Name - Nina Petersen
+
+Medical History & Prior Results:
+- Past Diagnoses — Osteoporosis (1980), CKD (1981), Heart failure (HFpEF) (1981).
+- Recent Lab Results (2024-06-18)
+    Hb 8.0 mmol/L
+    Ferritin 41 µg/L
+    CRP 25 mg/L
+    Creatinine 106 µmol/L
+- Prior Consultations
+    - 2023-11-29 — Routine check-up — stable BP, mild anemia noted.
+    - 2023-11-07 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Atorvastatin 20 mg nightly, Pantoprazole 40 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Nina Petersen reports sore throat, cough, and mild fever.
+- History of Present Illness
+   - Nina Petersen developed nasal congestion and cough 3 days ago. No dyspnea or chest pain.
+- Physical Examination
+   - T 37.8 °C, mild pharyngeal erythema, lungs clear.
+- Diagnostics (Today)
+   - Clinical diagnosis of viral upper respiratory tract infection.
+- Assessment
+   - Viral URI.
+
+Plan:
+   - Supportive care: rest, fluids, paracetamol for fever.
+   - Avoid unnecessary antibiotics.
+   - Educate on hygiene and infection control.
+- Follow-up & Disposition
+   - Follow-up only if symptoms persist beyond 10 days.
+
+Patient Education & Safety Net:
+Reassure benign course; return if high fever or worsening.
+
+Sign-off:
+Dr. H. Sørensen, Internal Medicine

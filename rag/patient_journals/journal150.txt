@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 160750-3962
+Encounter Date - 2024-01-14
+Author - Dr. V. Laursen, Nephrology
+Patient Name - Maria Pedersen
+
+Medical History & Prior Results:
+- Past Diagnoses — Anxiety (2008), Psoriasis (2012), Atrial fibrillation (2017), Osteoarthritis (2014).
+- Recent Lab Results (2024-01-08)
+    Hb 7.0 mmol/L (low)
+    Ferritin 69 µg/L
+    CRP 21 mg/L
+    Creatinine 103 µmol/L
+- Prior Consultations
+    - 2023-06-01 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2023-09-03 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Pantoprazole 40 mg daily, Amlodipine 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Maria Pedersen reports constant worry, muscle tension, and poor sleep.
+- History of Present Illness
+   - Maria Pedersen describes months of excessive anxiety difficult to control, with restlessness and fatigue. Denies panic attacks or substance misuse.
+- Physical Examination
+   - Anxious affect, fidgeting. HR 80 bpm, BP 141/94 mmHg. No tremor or thyrotoxicosis signs.
+- Diagnostics (Today)
+   - Persistent anxiety with somatic tension; exclude thyroid and cardiac causes.
+- Assessment
+   - Generalized anxiety disorder.
+
+Plan:
+   - Begin CBT-focused therapy; consider SSRI or SNRI if persistent.
+   - Teach breathing and relaxation exercises.
+   - Avoid benzodiazepines long term.
+- Follow-up & Disposition
+   - Review in 5 weeks to monitor response.
+
+Patient Education & Safety Net:
+Explain nature of chronic anxiety and coping tools. Encourage sleep hygiene and regular exercise.
+
+Sign-off:
+Dr. V. Laursen, Nephrology

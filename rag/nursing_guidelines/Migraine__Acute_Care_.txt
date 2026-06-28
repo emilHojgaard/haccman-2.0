@@ -1,0 +1,28 @@
+Document Information:
+Disease - Migraine (Acute Care)
+Date - 2024-12-25
+Responsible Department - Neurology
+
+Overview:
+Migraine produces recurrent, disabling headaches with sensory symptoms. Nursing care reduces stimuli, administers abortive therapy, and prevents medication overuse.
+
+Nursing Assessment:
+Assess aura, photophobia/phonophobia, nausea, and triggers. Screen for red flags suggesting secondary causes.
+
+Key Monitoring:
+Monitor pain scores, hydration, and response to therapy. Track adverse effects from triptans, antiemetics, or NSAIDs.
+
+Nursing Interventions:
+Provide a low-stimulus environment, administer prescribed analgesics and antiemetics, and encourage sleep hygiene. Offer non-pharmacologic measures like hydration and cold packs.
+
+Patient Education:
+Teach trigger tracking, limits on acute medications, and preventive options discussion. Provide headache diary templates.
+
+When to Escalate:
+Escalate for status migrainosus, new neurological deficits, or atypical features. Seek specialist input for refractory attacks.
+
+Documentation & Coordination:
+Document onset, treatments, and response trajectory. Coordinate outpatient neurology referral when frequent.
+
+Prognosis:
+Most episodes resolve with appropriate therapy. Nursing education curbs rebound headaches.

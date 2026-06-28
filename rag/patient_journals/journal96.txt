@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 170497-8416
+Encounter Date - 2023-11-26
+Author - Dr. P. Jensen, Psychiatry
+Patient Name - Lars Laursen
+
+Medical History & Prior Results:
+- Past Diagnoses — Iron Deficiency (1999), Hypothyroidism (1998), Hypertension (1990).
+- Recent Lab Results (2023-11-05)
+    Hb 7.1 mmol/L (low)
+    Ferritin 140 µg/L
+    CRP 22 mg/L
+    Creatinine 69 µmol/L
+- Prior Consultations
+    - 2023-07-02 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2023-06-01 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Lisinopril 10 mg daily, Metformin 500 mg BID, Amlodipine 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Lars Laursen reports thirst, frequent urination, and blurred vision.
+- History of Present Illness
+   - Lars Laursen has several weeks of polyuria, polydipsia, and fatigue. Diet has been irregular during recent work stress; missed evening doses twice last week. No abdominal pain or vomiting.
+- Physical Examination
+   - Vitals: BP 155/59 mmHg, HR 117 bpm. Dry mucous membranes; otherwise normal exam; no focal deficits.
+- Diagnostics (Today)
+   - Capillary glucose elevated; ketones negative or trace; no acidosis on venous blood gas. HbA1c ordered for control assessment.
+- Assessment
+   - Poor glycemic control without DKA. Medication adherence and lifestyle contributors likely.
+
+Plan:
+   - Reinforce medication schedule; consider adding or adjusting therapy per plan.
+   - Hydration guidance and sick-day rules; check for precipitating infection.
+   - Arrange diabetes education and home glucose monitoring review.
+- Follow-up & Disposition
+   - Clinic follow-up in 2 weeks to assess response and review HbA1c.
+
+Patient Education & Safety Net:
+Review hypoglycemia recognition and treatment. Encourage regular meals, activity, and sleep hygiene to stabilize control.
+
+Sign-off:
+Dr. P. Jensen, Psychiatry

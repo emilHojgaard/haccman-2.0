@@ -1,0 +1,34 @@
+Document Information:
+Task - Noninvasive Ventilation (NIV) Setup & Care
+Date - 2025-08-17
+Responsible Department - Respiratory / ICU
+
+Purpose:
+Provide positive pressure support for acute respiratory failure while avoiding intubation when appropriate.
+
+Scope:
+For trained nurses in monitored settings initiating or maintaining NIV (CPAP/BiPAP) per protocol.
+
+Indications:
+Hypercapnic COPD exacerbation, cardiogenic pulmonary edema, or selected hypoxemic failure with intact airway and cooperation.
+
+Contraindications:
+Impaired consciousness, copious secretions, facial trauma, or hemodynamic instability. Relative caution with agitation or poor mask tolerance.
+
+Equipment:
+NIV device, mask interfaces, headgear, heated humidification if available, oxygen supply, monitoring equipment.
+
+Procedure Steps:
+Explain therapy, select mask size, apply with minimal leaks, set initial pressures per protocol, and titrate based on comfort and gas exchange. Provide skin protection at pressure points.
+
+Monitoring & Documentation:
+Monitor respiratory rate, SpO₂, CO₂ markers/ABGs, comfort, and mask leaks. Document settings, tolerance, and skin checks.
+
+Patient/Family Education:
+Describe goals, sensations of pressure, and the importance of mask cooperation. Reassure regarding breaks for hydration and communication.
+
+Escalation:
+Escalate for worsening oxygenation/ventilation, declining mental status, or hemodynamic instability. Prepare for intubation if failure criteria met.
+
+Safety Notes:
+Avoid prolonged pressure on nasal bridge and ensure rapid access to airway equipment. Keep suction available for secretions.

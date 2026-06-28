@@ -1,0 +1,28 @@
+Document Information:
+Disease - Chronic Obstructive Pulmonary Disease (COPD)
+Date - 2025-03-22
+Responsible Department - Pulmonology Unit
+
+Purpose:
+Standardize evaluation of airflow limitation, symptom burden, and exacerbation risk in COPD while guiding inhaled therapy and acute care.
+
+Scope:
+Intended for adult patients with chronic respiratory symptoms and a smoking or exposure history across primary care, emergency, and inpatient settings.
+
+Indications:
+Progressive dyspnea, chronic cough, and sputum production in adults with tobacco use or significant biomass/occupational exposure.
+
+Diagnosis:
+Post-bronchodilator spirometry showing FEV1/FVC below the fixed ratio supports COPD; assess severity by FEV1 and symptom tools. Evaluate for cardiovascular disease, bronchiectasis, and alpha-1 antitrypsin deficiency when appropriate.
+
+Treatment/Management:
+Use long-acting bronchodilators (LABA/LAMA) tailored to symptoms and exacerbations; add inhaled corticosteroids for frequent exacerbations with eosinophilia. Manage exacerbations with short-acting bronchodilators, controlled oxygen, systemic steroids, and antibiotics if bacterial infection is suspected.
+
+Monitoring & Follow-up:
+Track exacerbations, rescue medication use, and exercise tolerance; optimize vaccinations and pulmonary rehabilitation. Counsel smoking cessation and inhaler technique at each visit.
+
+When to Escalate:
+Escalate for acute hypercapnic respiratory failure, persistent hypoxemia, or repeated exacerbations despite maximal inhaled therapy. Consider noninvasive ventilation, oxygen therapy, or referral for advanced interventions.
+
+Safety Notes:
+Avoid excessive oxygen targets to reduce CO2 retention risk. Watch for pneumonia when initiating ICS and assess osteoporosis with prolonged steroid exposure.

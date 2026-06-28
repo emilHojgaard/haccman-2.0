@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 221106-3726
+Encounter Date - 2023-08-03
+Author - Dr. P. Jensen, Psychiatry
+Patient Name - Lars Laursen
+
+Medical History & Prior Results:
+- Past Diagnoses — Hypothyroidism (2002), Hypertension (2014), Psoriasis (1987), Obesity (2021), Chronic lower back pain.
+- Recent Lab Results (2023-07-15)
+    Hb 7.2 mmol/L (low)
+    Ferritin 137 µg/L
+    CRP 14 mg/L
+    Creatinine 102 µmol/L
+- Prior Consultations
+    - 2023-02-10 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2023-03-26 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Atorvastatin 20 mg nightly, Empagliflozin 10 mg daily.
+- Allergies — Penicillin (rash).
+
+Present Illness:
+   - Lars Laursen presents with right lower quadrant abdominal pain and nausea.
+- History of Present Illness
+   - Lars Laursen reports 22 hours of migrating abdominal pain, initially periumbilical, now localized to right iliac fossa, with mild fever.
+- Physical Examination
+   - T 37.3 °C, tenderness and rebound in right lower quadrant, guarding present.
+- Diagnostics (Today)
+   - Leukocytosis and elevated CRP; ultrasound/CT confirms inflamed appendix.
+- Assessment
+   - Acute appendicitis.
+
+Plan:
+   - NPO, IV fluids, analgesia.
+   - Surgical evaluation for appendectomy.
+   - Administer pre-operative antibiotics.
+- Follow-up & Disposition
+   - Postoperative review in 9 days.
+
+Patient Education & Safety Net:
+Explain surgical procedure and recovery expectations.
+
+Sign-off:
+Dr. P. Jensen, Psychiatry

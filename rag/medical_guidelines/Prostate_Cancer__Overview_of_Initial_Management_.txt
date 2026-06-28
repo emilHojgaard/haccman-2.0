@@ -1,0 +1,28 @@
+Document Information:
+Disease - Prostate Cancer (Overview of Initial Management)
+Date - 2025-03-22
+Responsible Department - Urology/Oncology Unit
+
+Purpose:
+Summarize risk-stratified evaluation and first-line management options for localized and advanced prostate cancer.
+
+Scope:
+For outpatient and multidisciplinary teams counseling adults with newly diagnosed prostate cancer.
+
+Indications:
+Elevated PSA, abnormal digital rectal exam, or imaging findings prompting biopsy; symptoms may include obstructive urinary complaints or bone pain in advanced disease.
+
+Diagnosis:
+Confirm with pathology and assign grade group; stage with imaging based on risk. Discuss genomic testing and baseline function to inform treatment decisions.
+
+Treatment/Management:
+Offer active surveillance for low-risk disease and consider surgery or radiation for higher risk categories. Use androgen-deprivation therapy and systemic options for advanced disease in coordination with oncology.
+
+Monitoring & Follow-up:
+Track PSA trends, treatment side effects, and functional outcomes including continence and sexual function. Coordinate survivorship care and bone health strategies.
+
+When to Escalate:
+Escalate for rapidly rising PSA, symptomatic progression, or complications such as spinal cord compression. Involve radiation or medical oncology for advanced therapies.
+
+Safety Notes:
+Counsel on fertility, metabolic effects of androgen deprivation, and fracture risk. Screen for cardiovascular risk factors during systemic therapy.

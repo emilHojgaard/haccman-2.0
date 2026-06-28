@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 050365-7471
+Encounter Date - 2024-12-08
+Author - Dr. T. Bæk, Infectious Diseases
+Patient Name - Anne Jensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Heart failure (HFrEF) (1991), Type 2 Diabetes (2007), Hypertension (1989).
+- Recent Lab Results (2024-11-22)
+    Hb 7.0 mmol/L (low)
+    Ferritin 76 µg/L
+    CRP 6 mg/L
+    Creatinine 96 µmol/L
+- Prior Consultations
+    - 2024-06-29 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2024-09-12 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Metformin 500 mg BID, Lisinopril 10 mg daily, Ramipril 5 mg daily, Pantoprazole 40 mg daily.
+- Allergies — ACE inhibitors (cough).
+
+Present Illness:
+   - Anne Jensen presents with hearing voices and increased suspiciousness.
+- History of Present Illness
+   - Anne Jensen reports auditory hallucinations and belief that neighbors are watching. Sleep poor; no substance use disclosed. Non-adherent with medication for 2 weeks.
+- Physical Examination
+   - Distracted by internal stimuli, flat affect, limited insight. Vitals: BP 154/63, HR 91 bpm.
+- Diagnostics (Today)
+   - Active psychosis; rule out intoxication or medical cause.
+- Assessment
+   - Schizophrenia, acute exacerbation due to medication nonadherence.
+
+Plan:
+   - Restart antipsychotic (oral or depot).
+   - Ensure safe environment; involve crisis team.
+   - Assess capacity and consider inpatient admission if risk present.
+- Follow-up & Disposition
+   - Close follow-up within 6 days or inpatient as required.
+
+Patient Education & Safety Net:
+Discuss importance of medication adherence and early relapse signs with patient and relatives.
+
+Sign-off:
+Dr. T. Bæk, Infectious Diseases

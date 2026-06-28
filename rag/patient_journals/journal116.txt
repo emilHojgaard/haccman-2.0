@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 260943-9760
+Encounter Date - 2025-02-05
+Author - Dr. S. Nielsen, Pulmonology
+Patient Name - Ole Gram
+
+Medical History & Prior Results:
+- Past Diagnoses — Anxiety (1990), Dyslipidemia (1999), Heart failure (HFpEF) (1980), Gout (2000), Chronic lower back pain.
+- Recent Lab Results (2025-01-08)
+    Hb 7.6 mmol/L
+    Ferritin 52 µg/L
+    CRP 16 mg/L
+    Creatinine 87 µmol/L
+- Prior Consultations
+    - 2024-07-21 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2024-07-29 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Bisoprolol 5 mg daily, Metformin 500 mg BID.
+- Allergies — Penicillin (rash).
+
+Present Illness:
+   - Ole Gram presents with throbbing unilateral headache and nausea.
+- History of Present Illness
+   - Ole Gram reports recurrent headaches lasting 22 hours, aggravated by light and noise. No focal neurological deficits.
+- Physical Examination
+   - Normal neuro exam. BP 136/60, HR 102.
+- Diagnostics (Today)
+   - Clinical diagnosis of migraine; exclude secondary causes if atypical.
+- Assessment
+   - Migraine without aura.
+
+Plan:
+   - Administer triptan and antiemetic as needed.
+   - Avoid triggers, maintain hydration and regular sleep.
+   - Consider prophylactic therapy if frequent attacks.
+- Follow-up & Disposition
+   - Follow-up in 6 weeks for frequency reassessment.
+
+Patient Education & Safety Net:
+Discuss trigger identification and medication overuse prevention.
+
+Sign-off:
+Dr. S. Nielsen, Pulmonology

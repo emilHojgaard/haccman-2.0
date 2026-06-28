@@ -1,0 +1,28 @@
+Document Information:
+Disease - Migraine (Acute Management)
+Date - 2025-03-22
+Responsible Department - Neurology
+
+Purpose:
+Provide an evidence-informed approach to acute migraine relief and prevention of medication overuse.
+
+Scope:
+For adults presenting with recurrent moderate to severe headaches with migrainous features.
+
+Indications:
+Unilateral throbbing pain with nausea, photophobia, phonophobia, or aura; activity worsens symptoms.
+
+Diagnosis:
+Clinical diagnosis based on recurrent attacks and associated features; exclude secondary causes with red flags or atypical aura. Assess disability and triggers.
+
+Treatment/Management:
+Use rapid-onset analgesics, antiemetics, and triptans when appropriate; consider gepants or ditans for specific populations. Provide rescue options and nonpharmacologic strategies.
+
+Monitoring & Follow-up:
+Track frequency and response with a headache diary; evaluate for preventive therapy if attacks are frequent or disabling. Educate on limiting acute medications to avoid rebound.
+
+When to Escalate:
+Escalate for status migrainosus, neurological deficits, or suspected secondary headache. Consider infusion therapy or specialist referral.
+
+Safety Notes:
+Avoid triptans in significant vascular disease and review pregnancy status. Screen for drug interactions with serotonergic agents.

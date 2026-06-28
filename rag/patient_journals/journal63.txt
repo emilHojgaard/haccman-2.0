@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 191297-9411
+Encounter Date - 2024-10-14
+Author - Dr. O. Bjørk, Urology
+Patient Name - Maja Holm
+
+Medical History & Prior Results:
+- Past Diagnoses — Heart failure (HFpEF) (2011), Migraine (2021), Hypothyroidism (2019), Depression (2019).
+- Recent Lab Results (2024-09-24)
+    Hb 8.0 mmol/L
+    Ferritin 21 µg/L
+    CRP 12 mg/L
+    Creatinine 95 µmol/L
+- Prior Consultations
+    - 2024-02-12 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-09-11 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Ramipril 5 mg daily, Metformin 500 mg BID.
+- Allergies — None known.
+
+Present Illness:
+   - Maja Holm presents with right lower quadrant abdominal pain and nausea.
+- History of Present Illness
+   - Maja Holm reports 16 hours of migrating abdominal pain, initially periumbilical, now localized to right iliac fossa, with mild fever.
+- Physical Examination
+   - T 37.5 °C, tenderness and rebound in right lower quadrant, guarding present.
+- Diagnostics (Today)
+   - Leukocytosis and elevated CRP; ultrasound/CT confirms inflamed appendix.
+- Assessment
+   - Acute appendicitis.
+
+Plan:
+   - NPO, IV fluids, analgesia.
+   - Surgical evaluation for appendectomy.
+   - Administer pre-operative antibiotics.
+- Follow-up & Disposition
+   - Postoperative review in 9 days.
+
+Patient Education & Safety Net:
+Explain surgical procedure and recovery expectations.
+
+Sign-off:
+Dr. O. Bjørk, Urology

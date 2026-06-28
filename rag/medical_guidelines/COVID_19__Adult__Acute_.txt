@@ -1,0 +1,28 @@
+Document Information:
+Disease - COVID-19 (Adult, Acute)
+Date - 2025-03-22
+Responsible Department - Respiratory/ID Unit
+
+Purpose:
+Offer a pragmatic framework for triage, oxygen support, and risk-based antiviral or anti-inflammatory therapy in acute COVID-19.
+
+Scope:
+For outpatient triage and hospital management of adults with confirmed or suspected SARS-CoV-2 infection.
+
+Indications:
+Fever, cough, sore throat, anosmia, dyspnea, or hypoxemia following exposure or community spread.
+
+Diagnosis:
+Confirm with nucleic acid amplification or validated antigen testing; assess severity with oxygenation measures and imaging when indicated. Evaluate risk factors for progression.
+
+Treatment/Management:
+Provide oxygen to targets and venous thromboembolism prophylaxis; consider antivirals or corticosteroids per risk and oxygen needs. Manage coinfections and escalate respiratory support as needed.
+
+Monitoring & Follow-up:
+Track respiratory trajectory, inflammatory markers when useful, and secondary infections. Plan safe isolation discontinuation and follow-up for persistent symptoms.
+
+When to Escalate:
+Escalate for rising oxygen requirements, shock, or impending respiratory failure. Coordinate ICU transfer for high-flow or ventilatory support.
+
+Safety Notes:
+Review drug interactions with antivirals and immunomodulators. Apply infection prevention and appropriate PPE throughout care.

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 250657-2251
+Encounter Date - 2024-06-23
+Author - Dr. P. Jensen, Psychiatry
+Patient Name - Maja Olsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Heart failure (HFrEF) (1988), Type 2 Diabetes (1984), Gout (1985), Chronic lower back pain.
+- Recent Lab Results (2024-05-13)
+    Hb 6.6 mmol/L (low)
+    Ferritin 93 µg/L
+    CRP 23 mg/L
+    Creatinine 61 µmol/L
+- Prior Consultations
+    - 2023-11-09 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2024-03-15 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Bisoprolol 5 mg daily, Lisinopril 10 mg daily, Levothyroxine 75 µg daily, Furosemide 40 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Maja Olsen presents with redness and swelling of the lower leg.
+- History of Present Illness
+   - Maja Olsen noticed redness and tenderness spreading over 3 days. No trauma reported.
+- Physical Examination
+   - Warm, erythematous area with indistinct margins, mild edema. T 37.6 °C.
+- Diagnostics (Today)
+   - Clinical cellulitis; CBC and CRP elevated.
+- Assessment
+   - Bacterial cellulitis, likely streptococcal.
+
+Plan:
+   - Start empiric oral antibiotic covering streptococci.
+   - Mark margin and monitor spread.
+   - Elevate limb and manage pain.
+- Follow-up & Disposition
+   - Review in 2 days to assess response.
+
+Patient Education & Safety Net:
+Explain signs of worsening infection and when to seek urgent review.
+
+Sign-off:
+Dr. P. Jensen, Psychiatry

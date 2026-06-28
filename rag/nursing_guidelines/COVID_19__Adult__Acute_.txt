@@ -1,0 +1,28 @@
+Document Information:
+Disease - COVID-19 (Adult, Acute)
+Date - 2024-09-09
+Responsible Department - Respiratory/ID Unit
+
+Overview:
+Acute COVID-19 ranges from mild illness to hypoxemic respiratory failure. Nursing priorities include oxygen support, isolation, and monitoring for rapid decline.
+
+Nursing Assessment:
+Assess respiratory rate, SpO₂, cough, and fatigue; review risk factors for progression. Note onset timeline and exposure history.
+
+Key Monitoring:
+Monitor oxygenation trends, work of breathing, and fever. Track anticoagulation and anti-inflammatory therapy effects when used.
+
+Nursing Interventions:
+Titrate oxygen, encourage prone positioning when appropriate, and implement isolation precautions. Administer antivirals or steroids per orders and prevent VTE.
+
+Patient Education:
+Explain isolation, symptom monitoring, and home pulse oximetry if discharged. Reinforce vaccination and follow-up for persistent symptoms.
+
+When to Escalate:
+Escalate for rising oxygen requirements, confusion, or hemodynamic instability. Notify ICU for high-flow or ventilatory support needs.
+
+Documentation & Coordination:
+Document oxygen devices and settings, escalation steps, and response to therapy. Coordinate discharge with clear return precautions.
+
+Prognosis:
+Prognosis varies with age and comorbidity; early support improves outcomes. Nursing surveillance detects deterioration promptly.

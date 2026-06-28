@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 211260-2260
+Encounter Date - 2023-05-22
+Author - Dr. A. Thomsen, Emergency Medicine
+Patient Name - Brian Knudsen
+
+Medical History & Prior Results:
+- Past Diagnoses — Migraine (1993), Atrial fibrillation (2019), Irritable bowel syndrome (1994), Chronic lower back pain.
+- Recent Lab Results (2023-05-20)
+    Hb 7.0 mmol/L (low)
+    Ferritin 67 µg/L
+    CRP 1 mg/L
+    Creatinine 64 µmol/L
+- Prior Consultations
+    - 2022-10-24 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2023-01-25 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Bisoprolol 5 mg daily, Ramipril 5 mg daily.
+- Allergies — Penicillin (rash).
+
+Present Illness:
+   - Brian Knudsen presents with redness and swelling of the lower leg.
+- History of Present Illness
+   - Brian Knudsen noticed redness and tenderness spreading over 3 days. No trauma reported.
+- Physical Examination
+   - Warm, erythematous area with indistinct margins, mild edema. T 37.0 °C.
+- Diagnostics (Today)
+   - Clinical cellulitis; CBC and CRP elevated.
+- Assessment
+   - Bacterial cellulitis, likely streptococcal.
+
+Plan:
+   - Start empiric oral antibiotic covering streptococci.
+   - Mark margin and monitor spread.
+   - Elevate limb and manage pain.
+- Follow-up & Disposition
+   - Review in 3 days to assess response.
+
+Patient Education & Safety Net:
+Explain signs of worsening infection and when to seek urgent review.
+
+Sign-off:
+Dr. A. Thomsen, Emergency Medicine

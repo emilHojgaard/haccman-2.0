@@ -1,0 +1,28 @@
+Document Information:
+Disease - COVID-19 (Acute)
+Date - 2024-03-22
+Responsible Department - Respiratory/Infectious Diseases
+
+Overview:
+COVID-19 is a viral infection that ranges from mild cold-like illness to serious lung disease. Some people develop low oxygen levels and need hospital care.
+
+Causes and Risk Factors:
+Close contact with an infected person spreads the virus. Older age, chronic illness, and weak immunity raise risk for severe disease.
+
+Common Symptoms:
+Fever, cough, sore throat, runny nose, loss of smell or taste, fatigue, and shortness of breath.
+
+Diagnosis:
+Rapid antigen or PCR tests confirm infection. Doctors may check oxygen levels and order imaging if symptoms are severe.
+
+Treatment:
+Rest, fluids, and fever control help in mild cases. Higher-risk patients may receive antivirals or oxygen depending on symptoms.
+
+Self-Management and Lifestyle:
+Follow isolation and mask guidance when contagious. Stay hydrated and monitor symptoms; use a pulse oximeter if advised.
+
+When to Seek Medical Help:
+Seek urgent care for chest pain, trouble breathing, confusion, or oxygen levels below guidance. Call emergency services if symptoms escalate quickly.
+
+Prognosis:
+Most recover fully, though some experience prolonged symptoms. Vaccination lowers the risk of severe illness.

@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 030139-2034
+Encounter Date - 2023-08-14
+Author - Dr. T. Bæk, Infectious Diseases
+Patient Name - Maria Rasmussen
+
+Medical History & Prior Results:
+- Past Diagnoses — Hypothyroidism (1996), Obesity (2017), Anxiety (1990), Chronic lower back pain.
+- Recent Lab Results (2023-07-16)
+    Hb 8.5 mmol/L
+    Ferritin 141 µg/L
+    CRP 12 mg/L
+    Creatinine 91 µmol/L
+- Prior Consultations
+    - 2023-03-11 — Routine check-up — stable BP, mild anemia noted.
+    - 2023-06-19 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Furosemide 40 mg daily, Ferrous sulfate 100 mg every other day, Lisinopril 10 mg daily, Metformin 500 mg BID.
+- Allergies — None known.
+
+Present Illness:
+   - Maria Rasmussen reports epigastric pain and indigestion.
+- History of Present Illness
+   - Maria Rasmussen has burning upper abdominal pain related to meals. Uses NSAIDs intermittently; no hematemesis.
+- Physical Examination
+   - Epigastric tenderness, no guarding. Vitals: BP 112/73, HR 105.
+- Diagnostics (Today)
+   - Suspected gastritis/ulcer; H. pylori test ordered.
+- Assessment
+   - Peptic ulcer disease, likely NSAID-related.
+
+Plan:
+   - Stop NSAIDs; start PPI (e.g., pantoprazole 40 mg daily).
+   - If positive, treat H. pylori.
+   - Advise small, frequent meals and limit alcohol/caffeine.
+- Follow-up & Disposition
+   - Reassess in 5 weeks; consider endoscopy if persistent.
+
+Patient Education & Safety Net:
+Explain risk factors and warning signs of bleeding.
+
+Sign-off:
+Dr. T. Bæk, Infectious Diseases

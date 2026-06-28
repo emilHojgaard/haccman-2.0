@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 170734-8069
+Encounter Date - 2023-10-23
+Author - Dr. A. Thomsen, Emergency Medicine
+Patient Name - Maria Jensen
+
+Medical History & Prior Results:
+- Past Diagnoses — Osteoarthritis (1982), Dyslipidemia (1980), Chronic lower back pain.
+- Recent Lab Results (2023-10-09)
+    Hb 7.0 mmol/L (low)
+    Ferritin 9 µg/L (low)
+    CRP 1 mg/L
+    Creatinine 62 µmol/L
+- Prior Consultations
+    - 2023-08-17 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2023-08-24 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Pantoprazole 40 mg daily, Atorvastatin 20 mg nightly, Ferrous sulfate 100 mg every other day.
+- Allergies — None known.
+
+Present Illness:
+   - Maria Jensen reports thirst, frequent urination, and blurred vision.
+- History of Present Illness
+   - Maria Jensen has several weeks of polyuria, polydipsia, and fatigue. Diet has been irregular during recent work stress; missed evening doses twice last week. No abdominal pain or vomiting.
+- Physical Examination
+   - Vitals: BP 148/58 mmHg, HR 99 bpm. Dry mucous membranes; otherwise normal exam; no focal deficits.
+- Diagnostics (Today)
+   - Capillary glucose elevated; ketones negative or trace; no acidosis on venous blood gas. HbA1c ordered for control assessment.
+- Assessment
+   - Poor glycemic control without DKA. Medication adherence and lifestyle contributors likely.
+
+Plan:
+   - Reinforce medication schedule; consider adding or adjusting therapy per plan.
+   - Hydration guidance and sick-day rules; check for precipitating infection.
+   - Arrange diabetes education and home glucose monitoring review.
+- Follow-up & Disposition
+   - Clinic follow-up in 4 weeks to assess response and review HbA1c.
+
+Patient Education & Safety Net:
+Review hypoglycemia recognition and treatment. Encourage regular meals, activity, and sleep hygiene to stabilize control.
+
+Sign-off:
+Dr. A. Thomsen, Emergency Medicine

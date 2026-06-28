@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 010964-4214
+Encounter Date - 2025-02-27
+Author - Dr. S. Gram, Hematology
+Patient Name - Katrine Holm
+
+Medical History & Prior Results:
+- Past Diagnoses — Gallstones (1991), Osteoporosis (1998), Hypertension (2009), Chronic lower back pain.
+- Recent Lab Results (2025-01-06)
+    Hb 8.1 mmol/L
+    Ferritin 32 µg/L
+    CRP 3 mg/L
+    Creatinine 87 µmol/L
+- Prior Consultations
+    - 2024-05-22 — Follow-up for anemia — improved fatigue after iron therapy.
+    - 2024-07-26 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Pantoprazole 40 mg daily, Empagliflozin 10 mg daily, Atorvastatin 20 mg nightly.
+- Allergies — None known.
+
+Present Illness:
+   - Katrine Holm reports nightmares, flashbacks, and hypervigilance.
+- History of Present Illness
+   - Katrine Holm experienced a traumatic event 12 months ago and now has intrusive memories, sleep disturbance, and avoidance of reminders.
+- Physical Examination
+   - Alert, tense, occasional tearfulness. Startles easily. Vitals: BP 122/89, HR 95 bpm.
+- Diagnostics (Today)
+   - Symptoms meet criteria for PTSD; rule out concurrent depression or substance misuse.
+- Assessment
+   - Post-traumatic stress disorder.
+
+Plan:
+   - Refer for trauma-focused CBT or EMDR.
+   - Avoid routine benzodiazepine use.
+   - Consider SSRI if comorbid depression or anxiety.
+- Follow-up & Disposition
+   - Follow-up in 3 weeks to review therapy engagement.
+
+Patient Education & Safety Net:
+Discuss trauma response normalization and coping strategies. Encourage gradual exposure and social support.
+
+Sign-off:
+Dr. S. Gram, Hematology

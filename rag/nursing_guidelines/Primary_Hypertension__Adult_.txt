@@ -1,0 +1,28 @@
+Document Information:
+Disease - Primary Hypertension (Adult)
+Date - 2024-01-04
+Responsible Department - Internal Medicine
+
+Overview:
+Primary hypertension is sustained blood pressure elevation without secondary cause. Nursing focus is confirmation, lifestyle support, and safe medication titration.
+
+Nursing Assessment:
+Assess repeated readings with correct cuff and positioning; review medications, sleep apnea risk, and lifestyle factors. Screen for symptoms suggesting end-organ damage.
+
+Key Monitoring:
+Monitor home and clinic BP logs, electrolytes, and renal function with dose changes. Watch for orthostatic hypotension in older adults.
+
+Nursing Interventions:
+Reinforce diet, exercise, and adherence strategies; assist with home BP technique and targets. Support gradual medication adjustments per plan.
+
+Patient Education:
+Teach the importance of consistent measurement, salt reduction, weight control, and sleep hygiene. Discuss medication effects and side effects to expect.
+
+When to Escalate:
+Escalate for hypertensive emergency signs or refractory hypertension on combination therapy. Refer for secondary causes when indicated.
+
+Documentation & Coordination:
+Document baseline risk factors, readings, and education provided. Coordinate pharmacist or nutrition referrals and follow-up schedules.
+
+Prognosis:
+Most patients achieve control with lifestyle and medications. Nursing reinforcement improves adherence and cardiovascular risk reduction.

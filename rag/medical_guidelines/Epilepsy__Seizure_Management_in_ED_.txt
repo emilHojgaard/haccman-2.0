@@ -1,0 +1,28 @@
+Document Information:
+Disease - Epilepsy (Seizure Management in ED)
+Date - 2025-03-22
+Responsible Department - Neurology
+
+Purpose:
+Standardize initial stabilization, seizure termination, and secondary evaluation for adults with active seizures or recent events.
+
+Scope:
+For emergency clinicians managing convulsive seizures or post-ictal patients.
+
+Indications:
+Generalized tonic-clonic activity, focal seizures with impaired awareness, or recurrent events without full recovery.
+
+Diagnosis:
+Prioritize airway and glucose; obtain targeted labs and consider imaging when new abnormalities or trauma are suspected. Review triggers, medications, and adherence.
+
+Treatment/Management:
+Use a stepwise benzodiazepine-first approach and load antiseizure medication if needed; treat underlying precipitants. Provide counseling on driving restrictions and safety.
+
+Monitoring & Follow-up:
+Monitor for recurrent seizures and medication adverse effects; arrange neurology follow-up and EEG as indicated. Address adherence barriers and rescue plans.
+
+When to Escalate:
+Escalate for status epilepticus, persistent altered consciousness, or focal deficits. Involve critical care for refractory seizures and continuous EEG needs.
+
+Safety Notes:
+Avoid excessive sedation with repeated benzodiazepine dosing. Check interactions between antiseizure drugs and concurrent therapies.

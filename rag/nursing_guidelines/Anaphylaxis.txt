@@ -1,0 +1,28 @@
+Document Information:
+Disease - Anaphylaxis
+Date - 2024-02-15
+Responsible Department - Emergency Medicine
+
+Overview:
+Anaphylaxis is a rapid, systemic hypersensitivity reaction. Nursing priorities are intramuscular epinephrine, airway support, and observation for biphasic response.
+
+Nursing Assessment:
+Assess cutaneous signs, airway compromise, respiratory distress, hypotension, and GI symptoms. Identify likely allergen exposure and timing.
+
+Key Monitoring:
+Monitor airway patency, SpO₂, BP, and symptom resolution after epinephrine. Track need for repeat dosing and fluid response.
+
+Nursing Interventions:
+Administer epinephrine promptly per protocol, provide oxygen and IV fluids, and assist with adjuncts after epinephrine. Prepare for airway management if deterioration occurs.
+
+Patient Education:
+Teach auto-injector use, trigger avoidance, and action plan steps. Arrange allergy follow-up for evaluation.
+
+When to Escalate:
+Escalate for refractory hypotension, severe bronchospasm, or airway edema. Call for advanced airway or vasopressors as needed.
+
+Documentation & Coordination:
+Document time of epinephrine, doses, response, and observation duration. Coordinate prescription and training for auto-injector before discharge.
+
+Prognosis:
+Rapid epinephrine improves outcomes. Nursing observation mitigates biphasic risk.

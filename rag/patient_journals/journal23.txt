@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 250259-5425
+Encounter Date - 2023-07-28
+Author - Dr. R. Iversen, Neurology
+Patient Name - Tina Dam
+
+Medical History & Prior Results:
+- Past Diagnoses — Depression (1986), Hypothyroidism (1991).
+- Recent Lab Results (2023-07-09)
+    Hb 7.5 mmol/L
+    Ferritin 113 µg/L
+    CRP 8 mg/L
+    Creatinine 55 µmol/L
+- Prior Consultations
+    - 2023-03-01 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2023-07-06 — Respiratory review — inhaler technique optimized, symptoms improved.
+- Medications — Empagliflozin 10 mg daily, Furosemide 40 mg daily, Pantoprazole 40 mg daily, Ramipril 5 mg daily.
+- Allergies — Penicillin (rash).
+
+Present Illness:
+   - Tina Dam presents with hearing voices and increased suspiciousness.
+- History of Present Illness
+   - Tina Dam reports auditory hallucinations and belief that neighbors are watching. Sleep poor; no substance use disclosed. Non-adherent with medication for 2 weeks.
+- Physical Examination
+   - Distracted by internal stimuli, flat affect, limited insight. Vitals: BP 156/89, HR 108 bpm.
+- Diagnostics (Today)
+   - Active psychosis; rule out intoxication or medical cause.
+- Assessment
+   - Schizophrenia, acute exacerbation due to medication nonadherence.
+
+Plan:
+   - Restart antipsychotic (oral or depot).
+   - Ensure safe environment; involve crisis team.
+   - Assess capacity and consider inpatient admission if risk present.
+- Follow-up & Disposition
+   - Close follow-up within 4 days or inpatient as required.
+
+Patient Education & Safety Net:
+Discuss importance of medication adherence and early relapse signs with patient and relatives.
+
+Sign-off:
+Dr. R. Iversen, Neurology

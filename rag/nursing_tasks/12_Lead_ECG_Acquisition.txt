@@ -1,0 +1,34 @@
+Document Information:
+Task - 12-Lead ECG Acquisition
+Date - 2023-08-15
+Responsible Department - Cardiology / ED
+
+Purpose:
+Acquire a diagnostic-quality 12-lead ECG quickly and safely to aid cardiac assessment.
+
+Scope:
+For trained nurses and technicians in ED, wards, and clinics.
+
+Indications:
+Chest pain, palpitations, syncope, dyspnea, or arrhythmia monitoring.
+
+Contraindications:
+No absolute contraindications; consider skin sensitivity and device interference. Shave or clean skin as needed.
+
+Equipment:
+Calibrated ECG machine, leads/electrodes, skin prep materials, identification labels.
+
+Procedure Steps:
+Confirm identity, explain procedure, expose chest respectfully, prep skin, place limb and precordial leads correctly, and acquire tracing at standard settings. Print/label and upload as required.
+
+Monitoring & Documentation:
+Ensure artifact-free tracing and repeat if needed. Document time, symptoms at acquisition, and any difficulties.
+
+Patient/Family Education:
+Explain that the test is painless and quick. Encourage remaining still and breathing normally during acquisition.
+
+Escalation:
+Escalate immediately for STEMI pattern, severe brady/tachyarrhythmia, or symptomatic instability. Activate local emergency protocols.
+
+Safety Notes:
+Avoid lead misplacement and secure privacy. Sanitize equipment between patients.

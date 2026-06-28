@@ -1,0 +1,28 @@
+Document Information:
+Disease - Pyelonephritis (Acute)
+Date - 2025-03-22
+Responsible Department - Urology/Medicine
+
+Purpose:
+Provide a framework for timely diagnosis and antimicrobial therapy of acute pyelonephritis.
+
+Scope:
+For adults with systemic features of urinary tract infection in outpatient and inpatient settings.
+
+Indications:
+Fever, flank pain, nausea, and urinary symptoms such as dysuria or frequency; costovertebral angle tenderness is typical.
+
+Diagnosis:
+Obtain urinalysis and urine culture; consider imaging for obstruction, stones, or treatment failure. Assess pregnancy status and recent instrumentation.
+
+Treatment/Management:
+Start empiric antibiotics based on local resistance patterns and narrow when culture results return; ensure hydration and analgesia. Consider hospitalization for sepsis, vomiting, or complicating conditions.
+
+Monitoring & Follow-up:
+Reassess symptoms within 48–72 hours and adjust therapy if not improving; monitor renal function when using nephrotoxic agents. Arrange follow-up cultures in selected high-risk patients.
+
+When to Escalate:
+Escalate for septic shock, obstruction with hydronephrosis, or persistent fever despite therapy. Coordinate urgent urologic drainage when obstruction is present.
+
+Safety Notes:
+Check allergies and pregnancy before antibiotic selection and avoid fluoroquinolones when risks outweigh benefits. Encourage hydration and counsel on recurrence prevention.

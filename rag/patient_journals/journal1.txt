@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 140470-3937
+Encounter Date - 2023-10-14
+Author - Dr. M. Petersen, Gastroenterology
+Patient Name - Sofia Petersen
+
+Medical History & Prior Results:
+- Past Diagnoses — Asthma (2017), Dyslipidemia (1981), Depression (1984).
+- Recent Lab Results (2023-09-04)
+    Hb 8.4 mmol/L
+    Ferritin 54 µg/L
+    CRP 18 mg/L
+    Creatinine 100 µmol/L
+- Prior Consultations
+    - 2023-07-20 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2023-08-02 — Follow-up for anemia — improved fatigue after iron therapy.
+- Medications — Metformin 500 mg BID, Atorvastatin 20 mg nightly.
+- Allergies — None known.
+
+Present Illness:
+   - Sofia Petersen reports thirst, frequent urination, and blurred vision.
+- History of Present Illness
+   - Sofia Petersen has several weeks of polyuria, polydipsia, and fatigue. Diet has been irregular during recent work stress; missed evening doses twice last week. No abdominal pain or vomiting.
+- Physical Examination
+   - Vitals: BP 127/72 mmHg, HR 116 bpm. Dry mucous membranes; otherwise normal exam; no focal deficits.
+- Diagnostics (Today)
+   - Capillary glucose elevated; ketones negative or trace; no acidosis on venous blood gas. HbA1c ordered for control assessment.
+- Assessment
+   - Poor glycemic control without DKA. Medication adherence and lifestyle contributors likely.
+
+Plan:
+   - Reinforce medication schedule; consider adding or adjusting therapy per plan.
+   - Hydration guidance and sick-day rules; check for precipitating infection.
+   - Arrange diabetes education and home glucose monitoring review.
+- Follow-up & Disposition
+   - Clinic follow-up in 3 weeks to assess response and review HbA1c.
+
+Patient Education & Safety Net:
+Review hypoglycemia recognition and treatment. Encourage regular meals, activity, and sleep hygiene to stabilize control.
+
+Sign-off:
+Dr. M. Petersen, Gastroenterology

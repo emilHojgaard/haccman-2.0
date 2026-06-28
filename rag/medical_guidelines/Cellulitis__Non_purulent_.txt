@@ -1,0 +1,28 @@
+Document Information:
+Disease - Cellulitis (Non-purulent)
+Date - 2025-03-22
+Responsible Department - Infectious Diseases
+
+Purpose:
+Standardize diagnosis and antimicrobial therapy for non-purulent cellulitis while identifying alternate etiologies.
+
+Scope:
+For adults presenting with acute limb erythema, warmth, and tenderness without abscess.
+
+Indications:
+Diffuse erythema with indistinct margins, edema, and tenderness often following minor skin breaks or tinea pedis.
+
+Diagnosis:
+Clinical diagnosis is primary; evaluate for mimics such as stasis dermatitis, gout, or DVT when features are atypical. Use ultrasound to exclude occult abscess if fluctuance is suspected.
+
+Treatment/Management:
+Start empiric antibiotics covering streptococci and tailor to risk factors; elevate the limb and treat portals of entry. Reserve broad MRSA coverage for systemic toxicity or prior MRSA.
+
+Monitoring & Follow-up:
+Outline borders to track response and reassess within 48–72 hours; switch to oral therapy when stable. Address edema control and skin care to reduce recurrence.
+
+When to Escalate:
+Escalate for rapidly progressive infection, necrosis, or systemic instability. Consider surgical consultation if compartment syndrome or necrotizing infection is suspected.
+
+Safety Notes:
+Review allergy history and potential drug interactions; adjust dosing in renal impairment. Educate on wound hygiene and footwear in high-risk patients.

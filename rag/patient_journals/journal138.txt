@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 121243-9473
+Encounter Date - 2024-03-31
+Author - Dr. C. Mikkelsen, Endocrinology
+Patient Name - Solveig Johansen
+
+Medical History & Prior Results:
+- Past Diagnoses — Depression (1989), Migraine (2018), GERD (1980), Chronic lower back pain.
+- Recent Lab Results (2024-03-23)
+    Hb 7.8 mmol/L
+    Ferritin 11 µg/L (low)
+    CRP 22 mg/L
+    Creatinine 77 µmol/L
+- Prior Consultations
+    - 2024-01-14 — Routine check-up — stable BP, mild anemia noted.
+    - 2024-03-06 — Routine check-up — stable BP, mild anemia noted.
+- Medications — Ferrous sulfate 100 mg every other day, Pantoprazole 40 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Solveig Johansen presents with redness and swelling of the lower leg.
+- History of Present Illness
+   - Solveig Johansen noticed redness and tenderness spreading over 1 days. No trauma reported.
+- Physical Examination
+   - Warm, erythematous area with indistinct margins, mild edema. T 36.7 °C.
+- Diagnostics (Today)
+   - Clinical cellulitis; CBC and CRP elevated.
+- Assessment
+   - Bacterial cellulitis, likely streptococcal.
+
+Plan:
+   - Start empiric oral antibiotic covering streptococci.
+   - Mark margin and monitor spread.
+   - Elevate limb and manage pain.
+- Follow-up & Disposition
+   - Review in 2 days to assess response.
+
+Patient Education & Safety Net:
+Explain signs of worsening infection and when to seek urgent review.
+
+Sign-off:
+Dr. C. Mikkelsen, Endocrinology

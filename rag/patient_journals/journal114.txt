@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 141264-6196
+Encounter Date - 2024-10-18
+Author - Dr. V. Laursen, Nephrology
+Patient Name - Helle Holm
+
+Medical History & Prior Results:
+- Past Diagnoses — Gallstones (2000), Migraine (1985), Type 2 Diabetes (1996), Atrial fibrillation (1990), Chronic lower back pain.
+- Recent Lab Results (2024-10-01)
+    Hb 6.9 mmol/L (low)
+    Ferritin 100 µg/L
+    CRP 5 mg/L
+    Creatinine 92 µmol/L
+- Prior Consultations
+    - 2024-03-23 — Heart failure clinic — diuretic adjusted, weight trending down.
+    - 2024-03-25 — Medication review — adherence reinforced, no adverse effects reported.
+- Medications — Pantoprazole 40 mg daily, Levothyroxine 75 µg daily, Lisinopril 10 mg daily, Ramipril 5 mg daily.
+- Allergies — Penicillin (rash).
+
+Present Illness:
+   - Helle Holm reports recurrent episodes of sudden intense fear and palpitations.
+- History of Present Illness
+   - Helle Holm describes abrupt attacks of shortness of breath, chest tightness, and fear of dying lasting 5 minutes. Between attacks, anticipatory anxiety persists.
+- Physical Examination
+   - During visit, mildly anxious, HR 87 bpm, BP 135/83. ECG normal.
+- Diagnostics (Today)
+   - Recurrent panic attacks without underlying cardiac or endocrine cause.
+- Assessment
+   - Panic disorder.
+
+Plan:
+   - Provide CBT focused on panic management.
+   - Consider SSRI for long-term control.
+   - Educate on breathing and relaxation techniques.
+- Follow-up & Disposition
+   - Follow-up in 6 weeks for progress evaluation.
+
+Patient Education & Safety Net:
+Explain physiological basis of panic and avoidance behaviors. Encourage gradual exposure to feared situations.
+
+Sign-off:
+Dr. V. Laursen, Nephrology

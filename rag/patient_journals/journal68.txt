@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 280603-6653
+Encounter Date - 2025-03-09
+Author - Dr. R. Iversen, Neurology
+Patient Name - Rasmus Østergaard
+
+Medical History & Prior Results:
+- Past Diagnoses — Psoriasis (1983), Anxiety (1983), Dyslipidemia (2024), Chronic lower back pain.
+- Recent Lab Results (2025-02-06)
+    Hb 7.6 mmol/L
+    Ferritin 114 µg/L
+    CRP 1 mg/L
+    Creatinine 98 µmol/L
+- Prior Consultations
+    - 2025-01-27 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2025-01-19 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Atorvastatin 20 mg nightly, Levothyroxine 75 µg daily, Amlodipine 5 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Rasmus Østergaard presents with fever, flank pain, and urinary symptoms.
+- History of Present Illness
+   - Rasmus Østergaard reports 3 days of dysuria, chills, and right-sided flank pain.
+- Physical Examination
+   - T 37.9 °C, costovertebral angle tenderness on right side. HR 104 bpm.
+- Diagnostics (Today)
+   - Urinalysis positive for nitrites; elevated CRP and WBC.
+- Assessment
+   - Acute pyelonephritis.
+
+Plan:
+   - Start empiric antibiotic therapy.
+   - Hydration and pain control.
+   - Hospitalize if vomiting or sepsis.
+- Follow-up & Disposition
+   - Recheck in 8 days to confirm recovery.
+
+Patient Education & Safety Net:
+Advise early presentation for recurrence; complete full antibiotic course.
+
+Sign-off:
+Dr. R. Iversen, Neurology

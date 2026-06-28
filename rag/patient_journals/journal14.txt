@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 240456-7874
+Encounter Date - 2024-11-14
+Author - Dr. S. Gram, Hematology
+Patient Name - Louise Andersen
+
+Medical History & Prior Results:
+- Past Diagnoses — Depression (1994), Peptic ulcer disease (1993), GERD (1987).
+- Recent Lab Results (2024-10-18)
+    Hb 7.2 mmol/L (low)
+    Ferritin 23 µg/L
+    CRP 16 mg/L
+    Creatinine 91 µmol/L
+- Prior Consultations
+    - 2024-07-28 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2024-08-21 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Bisoprolol 5 mg daily, Pantoprazole 40 mg daily, Furosemide 40 mg daily, Lisinopril 10 mg daily.
+- Allergies — None known.
+
+Present Illness:
+   - Louise Andersen reports sore throat, cough, and mild fever.
+- History of Present Illness
+   - Louise Andersen developed nasal congestion and cough 2 days ago. No dyspnea or chest pain.
+- Physical Examination
+   - T 36.3 °C, mild pharyngeal erythema, lungs clear.
+- Diagnostics (Today)
+   - Clinical diagnosis of viral upper respiratory tract infection.
+- Assessment
+   - Viral URI.
+
+Plan:
+   - Supportive care: rest, fluids, paracetamol for fever.
+   - Avoid unnecessary antibiotics.
+   - Educate on hygiene and infection control.
+- Follow-up & Disposition
+   - Follow-up only if symptoms persist beyond 10 days.
+
+Patient Education & Safety Net:
+Reassure benign course; return if high fever or worsening.
+
+Sign-off:
+Dr. S. Gram, Hematology

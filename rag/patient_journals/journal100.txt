@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 010445-0706
+Encounter Date - 2024-01-21
+Author - Dr. L. Holm, Cardiology
+Patient Name - Louise Pedersen
+
+Medical History & Prior Results:
+- Past Diagnoses — GERD (1998), Peptic ulcer disease (1987).
+- Recent Lab Results (2023-11-25)
+    Hb 7.1 mmol/L (low)
+    Ferritin 15 µg/L
+    CRP 18 mg/L
+    Creatinine 79 µmol/L
+- Prior Consultations
+    - 2023-08-29 — Respiratory review — inhaler technique optimized, symptoms improved.
+    - 2023-11-08 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Ferrous sulfate 100 mg every other day, Ramipril 5 mg daily, Metformin 500 mg BID.
+- Allergies — Penicillin (rash).
+
+Present Illness:
+   - Louise Pedersen complains of increased cough, sputum, and breathlessness.
+- History of Present Illness
+   - Louise Pedersen reports 5 days of worsening cough with purulent sputum and wheeze. No fever or chest pain.
+- Physical Examination
+   - RR 23/min, SpO₂ 92%. Wheezes and prolonged expiration on auscultation.
+- Diagnostics (Today)
+   - Likely infective COPD exacerbation; sputum culture if severe.
+- Assessment
+   - COPD exacerbation, mild to moderate.
+
+Plan:
+   - Increase bronchodilator frequency.
+   - Start oral corticosteroid and consider antibiotic if purulent.
+   - Ensure inhaler technique and smoking cessation advice.
+- Follow-up & Disposition
+   - Review in 2 weeks post-treatment.
+
+Patient Education & Safety Net:
+Discuss exacerbation action plan and vaccination importance.
+
+Sign-off:
+Dr. L. Holm, Cardiology

@@ -1,0 +1,28 @@
+Document Information:
+Disease - Chronic Kidney Disease (CKD) – Adult
+Date - 2025-03-22
+Responsible Department - Nephrology
+
+Purpose:
+Coordinate risk reduction, progression slowing, and complication management in adults with chronic kidney disease.
+
+Scope:
+For outpatient management with periodic inpatient consultation for complications.
+
+Indications:
+Reduced eGFR or persistent albuminuria on repeated testing, often with diabetes, hypertension, or vascular disease.
+
+Diagnosis:
+Stage CKD by eGFR and albuminuria and evaluate secondary causes where suspected; review medications and nephrotoxins. Screen for anemia, mineral bone disease, and acidosis.
+
+Treatment/Management:
+Optimize blood pressure, glycemic control, and RAAS blockade when appropriate; consider SGLT2 inhibitors and nonsteroidal MRAs in eligible patients. Avoid nephrotoxins and adjust doses by kidney function.
+
+Monitoring & Follow-up:
+Track eGFR, albuminuria, potassium, and hemoglobin; vaccinate per risk and plan dialysis access discussions if progression continues. Coordinate nutrition and cardiovascular risk reduction.
+
+When to Escalate:
+Escalate for rapid eGFR decline, refractory hyperkalemia, fluid overload, or uremic symptoms. Refer for advanced planning or transplant evaluation when appropriate.
+
+Safety Notes:
+Monitor for hyperkalemia after medication changes and ensure contrast studies use renal-safe strategies. Educate on over-the-counter NSAID avoidance.

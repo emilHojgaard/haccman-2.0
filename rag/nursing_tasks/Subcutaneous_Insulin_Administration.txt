@@ -1,0 +1,34 @@
+Document Information:
+Task - Subcutaneous Insulin Administration
+Date - 2024-03-13
+Responsible Department - Endocrinology / Medical Ward
+
+Purpose:
+Administer insulin safely with correct dose, timing, and technique to manage hyperglycemia.
+
+Scope:
+For nurses trained in insulin administration in inpatient settings, including basal-bolus and correction scales.
+
+Indications:
+Hyperglycemia management in diabetes or stress hyperglycemia. Perioperative glycemic control.
+
+Contraindications:
+Withhold if hypoglycemic or meal is delayed for prandial doses; seek guidance for NPO adjustments. Verify allergy to components if recorded.
+
+Equipment:
+Insulin vials/pens, pen needles or syringes, alcohol wipes, sharps container, glucose meter.
+
+Procedure Steps:
+Verify order and patient identity, check dose and insulin type, and confirm timing with meals. Use proper injection technique and rotate sites; document administration and glucose values.
+
+Monitoring & Documentation:
+Monitor for hypoglycemia and track glucose response to dosing. Document lot numbers as required and education provided.
+
+Patient/Family Education:
+Teach recognition and treatment of hypoglycemia and proper injection rotation. Clarify differences between basal and bolus insulins.
+
+Escalation:
+Escalate for recurrent hypoglycemia, persistent hyperglycemia, or dosing confusion. Request endocrinology input for complex regimens.
+
+Safety Notes:
+Double-check high-risk doses and avoid mixing incompatible insulins. Ensure correct units and device priming.

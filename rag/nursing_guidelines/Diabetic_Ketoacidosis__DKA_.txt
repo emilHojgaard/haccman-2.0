@@ -1,0 +1,28 @@
+Document Information:
+Disease - Diabetic Ketoacidosis (DKA)
+Date - 2025-01-04
+Responsible Department - Endocrinology Unit
+
+Overview:
+DKA is a hyperglycemic emergency with ketonemia and acidosis. Nursing priorities are fluid resuscitation, insulin protocol adherence, and electrolyte safety.
+
+Nursing Assessment:
+Assess dehydration, Kussmaul respirations, abdominal pain, and mental status. Review possible triggers such as infection or insulin omission.
+
+Key Monitoring:
+Monitor glucose, ketones, electrolytes (especially potassium), anion gap, and urine output. Track vitals closely for perfusion changes.
+
+Nursing Interventions:
+Start isotonic fluids per protocol, ensure potassium is safe before insulin, and initiate insulin infusion as ordered. Prevent hypoglycemia and replace electrolytes guided by labs.
+
+Patient Education:
+Teach sick-day rules, ketone testing, hydration, and when to seek urgent care. Review insulin storage, dosing, and adherence tools.
+
+When to Escalate:
+Escalate for refractory acidosis, altered consciousness, or shock. Seek ICU review for frequent titration needs or severe comorbidity.
+
+Documentation & Coordination:
+Document fluid volumes, insulin rates, lab trends, and responses. Coordinate diabetes education before discharge.
+
+Prognosis:
+Outcomes are excellent with timely protocol use. Nursing precision prevents electrolyte injury and hypoglycemia.

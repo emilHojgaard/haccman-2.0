@@ -1,0 +1,28 @@
+Document Information:
+Disease - Acute Coronary Syndrome (NSTEMI/Unstable Angina)
+Date - 2025-03-22
+Responsible Department - Cardiology Unit
+
+Purpose:
+Standardize early risk stratification, antithrombotic therapy, and timely angiography for non-ST elevation acute coronary syndromes.
+
+Scope:
+For clinicians in emergency and inpatient cardiology managing adults with suspected ischemic chest pain without persistent ST elevation.
+
+Indications:
+Chest discomfort, pressure, or dyspnea at rest or with minimal exertion, often with risk factors such as diabetes, hypertension, or prior CAD.
+
+Diagnosis:
+Obtain serial high-sensitivity troponins and ECGs and assess risk scores to guide invasive strategy. Exclude mimics such as aortic dissection and pulmonary embolism when red flags exist.
+
+Treatment/Management:
+Initiate antiplatelet therapy, anticoagulation, beta-blockers as appropriate, and high-intensity statins. Coordinate early invasive evaluation for high-risk features and address contributing anemia, infection, or tachyarrhythmia.
+
+Monitoring & Follow-up:
+Monitor telemetry, symptoms, hemodynamics, and bleeding risk; adjust antithrombotics with renal function. Plan cardiac rehab and risk factor modification on discharge.
+
+When to Escalate:
+Escalate for recurrent pain, hemodynamic instability, malignant arrhythmias, or dynamic ECG changes. Consult interventional cardiology for urgent angiography if deterioration occurs.
+
+Safety Notes:
+Verify antiplatelet contraindications and recent anticoagulant use. Use nitrates cautiously in suspected right ventricular infarction or severe aortic stenosis.

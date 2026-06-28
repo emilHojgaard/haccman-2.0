@@ -1,0 +1,42 @@
+Document Information:
+CPR-number - 120680-7781
+Encounter Date - 2023-07-07
+Author - Dr. R. Iversen, Neurology
+Patient Name - Camilla Laursen
+
+Medical History & Prior Results:
+- Past Diagnoses — Peptic ulcer disease (1996), Gallstones (1986), Heart failure (HFpEF) (1996).
+- Recent Lab Results (2023-06-23)
+    Hb 7.1 mmol/L (low)
+    Ferritin 149 µg/L
+    CRP 10 mg/L
+    Creatinine 85 µmol/L
+- Prior Consultations
+    - 2023-06-13 — Medication review — adherence reinforced, no adverse effects reported.
+    - 2022-11-14 — Heart failure clinic — diuretic adjusted, weight trending down.
+- Medications — Levothyroxine 75 µg daily, Bisoprolol 5 mg daily.
+- Allergies — NSAIDs (dyspepsia).
+
+Present Illness:
+   - Camilla Laursen reports thirst, frequent urination, and blurred vision.
+- History of Present Illness
+   - Camilla Laursen has several weeks of polyuria, polydipsia, and fatigue. Diet has been irregular during recent work stress; missed evening doses twice last week. No abdominal pain or vomiting.
+- Physical Examination
+   - Vitals: BP 131/68 mmHg, HR 61 bpm. Dry mucous membranes; otherwise normal exam; no focal deficits.
+- Diagnostics (Today)
+   - Capillary glucose elevated; ketones negative or trace; no acidosis on venous blood gas. HbA1c ordered for control assessment.
+- Assessment
+   - Poor glycemic control without DKA. Medication adherence and lifestyle contributors likely.
+
+Plan:
+   - Reinforce medication schedule; consider adding or adjusting therapy per plan.
+   - Hydration guidance and sick-day rules; check for precipitating infection.
+   - Arrange diabetes education and home glucose monitoring review.
+- Follow-up & Disposition
+   - Clinic follow-up in 4 weeks to assess response and review HbA1c.
+
+Patient Education & Safety Net:
+Review hypoglycemia recognition and treatment. Encourage regular meals, activity, and sleep hygiene to stabilize control.
+
+Sign-off:
+Dr. R. Iversen, Neurology
