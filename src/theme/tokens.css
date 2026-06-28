@@ -1,0 +1,20 @@
+:root {
+  --hc-bg: #0a0e16;
+  --hc-surface: #10141f;
+  --hc-border: #2a2f3d;
+
+  --hc-user: #AFA9EC;
+  --hc-user-border: #534AB7;
+  --hc-user-glow: rgba(83, 74, 183, 0.35);
+
+  --hc-bot: #ED93B1;
+  --hc-bot-border: #993556;
+  --hc-bot-glow: rgba(153, 53, 86, 0.35);
+
+  --hc-accent: #D4537E;
+  --hc-text-dim: #7F77DD;
+  --hc-text-muted: #5a5f72;
+
+  --hc-font-mono: "JetBrains Mono", "Fira Code", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --hc-radius: 4px;
+}

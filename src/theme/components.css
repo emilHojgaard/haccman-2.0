@@ -1,0 +1,109 @@
+.chat-window {
+  background: var(--hc-bg);
+  border: 0.5px solid var(--hc-border);
+  border-radius: 8px;
+  font-family: var(--hc-font-mono);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 420px;
+  padding: 14px;
+}
+
+.chat-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 0.5px solid var(--hc-border);
+}
+
+.chat-header__dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--hc-accent);
+  box-shadow: 0 0 6px var(--hc-accent);
+}
+
+.chat-header__name {
+  color: var(--hc-bot);
+  font-size: 12px;
+  flex: 1;
+  letter-spacing: 0.03em;
+}
+
+.chat-header__difficulty {
+  font-size: 10px;
+  color: var(--hc-text-dim);
+  border: 0.5px solid var(--hc-user-border);
+  padding: 1px 6px;
+  border-radius: var(--hc-radius);
+}
+
+.chat-messages {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  overflow-y: auto;
+}
+
+.chat-bubble {
+  max-width: 78%;
+  border-radius: var(--hc-radius);
+  padding: 7px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+  border: 0.5px solid transparent;
+}
+
+.chat-bubble--user {
+  align-self: flex-end;
+  color: var(--hc-user);
+  border-color: var(--hc-user-border);
+}
+
+.chat-bubble--bot {
+  align-self: flex-start;
+  color: var(--hc-bot);
+  border-color: var(--hc-bot-border);
+}
+
+.chat-input {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border: 0.5px solid var(--hc-user-border);
+  border-radius: var(--hc-radius);
+  padding: 8px 12px;
+}
+
+.chat-input__field {
+  flex: 1;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--hc-user);
+  font-family: var(--hc-font-mono);
+  font-size: 12px;
+}
+
+.chat-input__field::placeholder {
+  color: var(--hc-text-dim);
+}
+
+.chat-input__send {
+  background: transparent;
+  border: none;
+  color: var(--hc-text-dim);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.chat-input__send:hover {
+  color: var(--hc-accent);
+}
