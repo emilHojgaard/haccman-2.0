@@ -1,19 +1,23 @@
-import "dotenv/config";
 import fs from "node:fs/promises";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
+import dotenv from "dotenv";
 import OpenAI from "openai";
 import { createClient } from "@supabase/supabase-js";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+dotenv.config({ path: path.join(__dirname, ".env") });
 
 // ----- env -----
 const {
   OPENAI_API_KEY,
   SUPABASE_URL,
   SUPABASE_SERVICE_ROLE_KEY,
-  JOURNALS_DIR = "patient_journals",
-  DISEASES_DIR = "general_guidelines",
-  NURSING_TASKS_DIR = "nursing_tasks",
-  NURSING_GUIDELINES_DIR = "nursing_guidelines",
-  MEDICAL_GUIDELINES_DIR = "medical_guidelines",
+  JOURNALS_DIR = path.join(__dirname, "patient_journals"),
+  DISEASES_DIR = path.join(__dirname, "general_guidelines"),
+  NURSING_TASKS_DIR = path.join(__dirname, "nursing_tasks"),
+  NURSING_GUIDELINES_DIR = path.join(__dirname, "nursing_guidelines"),
+  MEDICAL_GUIDELINES_DIR = path.join(__dirname, "medical_guidelines"),
   OPENAI_EMBED_MODEL = "text-embedding-3-small",
 } = process.env;
 
