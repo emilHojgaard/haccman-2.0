@@ -3,6 +3,7 @@ import bots from "../content/bots.json";
 import { useGameStore } from "../store/gameStore";
 import { checkWin } from "../engine/winDetector";
 import { askBot, insertPrompt, insertResponse } from "../services/chatService";
+import { endSession } from "../services/sessionService";
 import "../theme/components.css";
 
 export default function ChatWindow({ task }) {
@@ -38,6 +39,7 @@ export default function ChatWindow({ task }) {
 
       if (checkWin(task.id, aiResponsetext)) {
         markTaskCompleted(task.id);
+        await endSession(sessionId);
       }
     } finally {
       setSending(false);

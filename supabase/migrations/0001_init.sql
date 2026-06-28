@@ -4,6 +4,9 @@
 create table public.players (
   id uuid primary key references auth.users(id) on delete cascade,
   username text,
+  age int,
+  gender text,
+  familiarity text,
   created_at timestamptz not null default now()
 );
 
@@ -39,7 +42,8 @@ alter table public.prompts enable row level security;
 alter table public.responses enable row level security;
 
 create policy "players read own" on public.players for select using (auth.uid() = id);
-create policy "players upsert own" on public.players for insert with check (auth.uid() = id);
+create policy "players insert own" on public.players for insert with check (auth.uid() = id);
+create policy "players update own" on public.players for update using (auth.uid() = id);
 
 create policy "sessions owned by user" on public.sessions for all
   using (auth.uid() = user_id) with check (auth.uid() = user_id);
