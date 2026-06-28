@@ -10,7 +10,7 @@ const {
   SUPABASE_URL,
   SUPABASE_SERVICE_ROLE_KEY,
   JOURNALS_DIR = "patient_journals",
-  DISEASES_DIR = "disease_docs",
+  DISEASES_DIR = "general_guidelines",
   NURSING_TASKS_DIR = "nursing_tasks",
   NURSING_GUIDELINES_DIR = "nursing_guidelines",
   MEDICAL_GUIDELINES_DIR = "medical_guidelines",
