@@ -28,9 +28,9 @@ export async function signInAnonPlayer() {
   return data.user;
 }
 
-export async function savePlayerProfile(userId, { username, age, gender, familiarity }) {
+export async function savePlayerProfile(userId, { username, age }) {
   const { error } = await supabase
     .from("players")
-    .upsert({ id: userId, username, age, gender, familiarity });
+    .upsert({ id: userId, username, age });
   if (error) throw error;
 }

@@ -9,7 +9,7 @@ import {
 } from "../services/playerService";
 
 export const MAX_NAME_LEN = 12;
-const STEPS = ["username", "age", "gender", "familiarity"];
+const STEPS = ["username", "age"];
 
 export function useOnboarding() {
   const [stage, setStage] = useState("loading");
@@ -17,7 +17,7 @@ export function useOnboarding() {
   const [step, setStep] = useState(0);
   const [busy, setBusy] = useState("none");
   const [error, setError] = useState("");
-  const [form, setForm] = useState({ username: "", age: "", gender: "", familiarity: "" });
+  const [form, setForm] = useState({ username: "", age: "" });
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -55,7 +55,7 @@ export function useOnboarding() {
       await signOutPlayer();
       setStage("form");
       setStep(0);
-      setForm({ username: "", age: "", gender: "", familiarity: "" });
+      setForm({ username: "", age: "" });
     } catch (e) {
       setError(e.message || "Failed to switch user");
     } finally {
@@ -71,8 +71,6 @@ export function useOnboarding() {
       await savePlayerProfile(user.id, {
         username: form.username.trim(),
         age: form.age ? Number(form.age) : null,
-        gender: form.gender || null,
-        familiarity: form.familiarity || null,
       });
       navigate("/choose-bot");
     } catch (e) {
@@ -86,13 +84,11 @@ export function useOnboarding() {
     const current = STEPS[step];
     if (current === "username" && !isUsernameValid) return setError("Enter a username (max 12 characters)");
     if (current === "age" && !isAgeValid) return setError("Enter an age between 8 and 120");
-    if (current === "gender" && !form.gender) return setError("Select a gender");
-    if (current === "familiarity" && !form.familiarity) return setError("Select your familiarity level");
 
     setError("");
     if (step === STEPS.length - 1) handleSubmit();
     else setStep(step + 1);
-  }, [step, isUsernameValid, isAgeValid, form, handleSubmit]);
+  }, [step, isUsernameValid, isAgeValid, handleSubmit]);
 
   return {
     stage, existingName, step, busy, error, form, isUsernameValid, isAgeValid,

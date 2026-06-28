@@ -5,8 +5,6 @@ create table public.players (
   id uuid primary key references auth.users(id) on delete cascade,
   username text,
   age int,
-  gender text,
-  familiarity text,
   created_at timestamptz not null default now()
 );
 

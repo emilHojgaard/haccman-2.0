@@ -64,44 +64,6 @@ export default function IntroPage() {
                   setForm((f) => ({ ...f, age: e.target.value.replace(/[^0-9]/g, "") }))
                 }
               />
-            </div>
-          )}
-
-          {STEPS[step] === "gender" && (
-            <div className="terminal-screen">
-              <div className="terminal-step__title">&gt;&gt; gender you identify with</div>
-              <div className="terminal-option-group">
-                {["Female", "Male", "Other"].map((g) => (
-                  <label key={g}>
-                    <input
-                      type="radio"
-                      name="gender"
-                      checked={form.gender === g}
-                      onChange={() => setForm((f) => ({ ...f, gender: g }))}
-                    />
-                    {g}
-                  </label>
-                ))}
-              </div>
-            </div>
-          )}
-
-          {STEPS[step] === "familiarity" && (
-            <div className="terminal-screen">
-              <div className="terminal-step__title">&gt;&gt; hacking/jailbreaking experience</div>
-              <div className="terminal-option-group">
-                {["Beginner", "Familiar", "Advanced"].map((f) => (
-                  <label key={f}>
-                    <input
-                      type="radio"
-                      name="familiarity"
-                      checked={form.familiarity === f}
-                      onChange={() => setForm((s) => ({ ...s, familiarity: f }))}
-                    />
-                    {f}
-                  </label>
-                ))}
-              </div>
               {isUsernameValid && isAgeValid && (
                 <button className="terminal-button" onClick={nextOrSubmit} disabled={busy !== "none"}>
                   {busy === "save" ? "entering..." : "press enter to access game"}
