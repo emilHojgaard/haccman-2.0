@@ -17,7 +17,7 @@ export default function ChooseBotPage() {
     try {
       const task = tasks.find((t) => t.botId === bot.id);
       selectBot(bot.id, task.id);
-      const session = await startSession(bot.id);
+      const session = await startSession(bot.id, task.id);
       setSession(session.id);
       navigate("/play");
     } catch (e) {

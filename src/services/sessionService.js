@@ -1,12 +1,12 @@
 import { supabase } from "./supabaseClient";
 
-export async function startSession(botId) {
+export async function startSession(botId, taskId) {
   const { data: { user } } = await supabase.auth.getUser();
   if (!user) throw new Error("No authenticated user");
 
   const { data, error } = await supabase
     .from("sessions")
-    .insert({ user_id: user.id, bot_id: botId })
+    .insert({ user_id: user.id, bot_id: botId, task_id: taskId })
     .select()
     .single();
 
