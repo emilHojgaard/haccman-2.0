@@ -1,8 +1,8 @@
 -- RAG schema for the "Dr. Chatbot" hospital bot.
 -- Powers full-text + semantic (pgvector) retrieval over guidelines/journals.
 
-create extension if not exists vector;
-create extension if not exists pg_trgm;
+create extension if not exists vector with schema extensions;
+create extension if not exists pg_trgm with schema extensions;
 
 create schema "RAG";
 
