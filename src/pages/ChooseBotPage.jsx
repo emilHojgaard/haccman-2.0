@@ -55,6 +55,17 @@ export default function ChooseBotPage() {
 
   return (
     <div style={{ maxWidth: 1100, margin: "0 auto" }}>
+      <div
+        style={{
+          fontFamily: "var(--hc-font-mono)",
+          color: "var(--hc-bot)",
+          fontSize: 18,
+          textAlign: "center",
+          marginBottom: 24,
+        }}
+      >
+        &gt;&gt; choose your opponent
+      </div>
       {error && (
         <div className="terminal-error" style={{ marginBottom: 16, fontFamily: "var(--hc-font-mono)" }}>
           {error}
