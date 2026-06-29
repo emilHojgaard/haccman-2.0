@@ -4,12 +4,15 @@ import bots from "../content/bots.json";
 import tasks from "../content/tasks.json";
 import { useGameStore } from "../store/gameStore";
 import { startSession } from "../services/sessionService";
+import { useSoundEffect } from "../theme/SoundEffectContext";
 import "../theme/components.css";
 
 export default function ChooseBotPage() {
   const navigate = useNavigate();
   const selectBot = useGameStore((s) => s.selectBot);
   const setSession = useGameStore((s) => s.setSession);
+  const completedTaskIds = useGameStore((s) => s.completedTaskIds);
+  const { playSoundEffect } = useSoundEffect();
   const [error, setError] = useState("");
   const [focusedIndex, setFocusedIndex] = useState(0);
   const cardRefs = useRef([]);
@@ -39,8 +42,13 @@ export default function ChooseBotPage() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [navigate, focusedIndex]);
 
+  function isCracked(bot) {
+    return tasks.some((t) => t.botId === bot.id && completedTaskIds.includes(t.id));
+  }
+
   async function handlePick(bot) {
     setError("");
+    playSoundEffect("select");
     try {
       const task = tasks.find((t) => t.botId === bot.id);
       selectBot(bot.id, task.id);
@@ -80,6 +88,11 @@ export default function ChooseBotPage() {
             onClick={() => handlePick(bot)}
             onFocus={() => setFocusedIndex(i)}
           >
+            {isCracked(bot) && (
+              <div className="bot-card__cracked">
+                <i className="ti ti-check" aria-hidden="true" /> cracked
+              </div>
+            )}
             <img src={bot.image} alt="" className="bot-card__avatar" />
             <div className="bot-card__name">{bot.name}</div>
             <div className="bot-card__description">{bot.inGameDescription}</div>

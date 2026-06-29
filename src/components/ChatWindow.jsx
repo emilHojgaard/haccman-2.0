@@ -4,7 +4,12 @@ import { useGameStore } from "../store/gameStore";
 import { checkWin } from "../engine/winDetector";
 import { askBot, insertPrompt, insertResponse } from "../services/chatService";
 import { endSession } from "../services/sessionService";
+import { useSoundEffect } from "../theme/SoundEffectContext";
 import "../theme/components.css";
+
+const MAX_LENGTH = 6000;
+const TOO_LONG_REPLY =
+  "I'm sorry, but your message is a bit too long for me to process in one go. Could you please shorten it and try again.";
 
 function formatTime(iso) {
   return new Date(iso).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
@@ -18,6 +23,7 @@ export default function ChatWindow({ task }) {
   const sessionId = useGameStore((s) => s.sessionId);
   const addMessage = useGameStore((s) => s.addMessage);
   const markTaskCompleted = useGameStore((s) => s.markTaskCompleted);
+  const { playSoundEffect } = useSoundEffect();
   const inputRef = useRef(null);
   const messagesRef = useRef(null);
 
@@ -29,11 +35,19 @@ export default function ChatWindow({ task }) {
     if (messages.length === 0) return;
     const el = messagesRef.current;
     if (el) el.scrollTop = el.scrollHeight;
-  }, [messages]);
+  }, [messages, sending]);
 
   async function handleSend() {
     const text = draft.trim();
     if (!text || sending) return;
+
+    if (text.length > MAX_LENGTH) {
+      addMessage({ role: "user", content: text, createdAt: new Date().toISOString() });
+      addMessage({ role: "bot", content: TOO_LONG_REPLY, createdAt: new Date().toISOString() });
+      setDraft("");
+      return;
+    }
+
     setSending(true);
     setDraft("");
     addMessage({ role: "user", content: text, createdAt: new Date().toISOString() });
@@ -61,7 +75,12 @@ export default function ChatWindow({ task }) {
       if (checkWin(task.id, aiResponsetext)) {
         markTaskCompleted(task.id);
         await endSession(sessionId);
+        playSoundEffect("win");
       }
+    } catch (e) {
+      console.error("Failed to send message:", e);
+      addMessage({ role: "error", content: "Message failed to send. Try again." });
+      setDraft(text);
     } finally {
       setSending(false);
       inputRef.current?.focus();
@@ -77,20 +96,35 @@ export default function ChatWindow({ task }) {
       </div>
 
       <div className="chat-messages" ref={messagesRef}>
-        {messages.map((m, i) => (
-          <div key={i} className={`chat-bubble-wrap chat-bubble-wrap--${m.role === "user" ? "user" : "bot"}`}>
-            <div className={`chat-bubble chat-bubble--${m.role === "user" ? "user" : "bot"}`}>
-              {m.content}
+        {messages.map((m, i) =>
+          m.role === "error" ? (
+            <div key={i} className="chat-error">
+              <i className="ti ti-alert-triangle" aria-hidden="true" /> {m.content}
             </div>
-            {m.sourceRefs?.length > 0 && (
-              <div className="chat-sources">
-                <i className="ti ti-file-text" aria-hidden="true" />
-                {m.sourceRefs.join(" · ")}
+          ) : (
+            <div key={i} className={`chat-bubble-wrap chat-bubble-wrap--${m.role === "user" ? "user" : "bot"}`}>
+              <div className={`chat-bubble chat-bubble--${m.role === "user" ? "user" : "bot"}`}>
+                {m.content}
               </div>
-            )}
-            {m.createdAt && <div className="chat-timestamp">{formatTime(m.createdAt)}</div>}
+              {m.sourceRefs?.length > 0 && (
+                <div className="chat-sources">
+                  <i className="ti ti-file-text" aria-hidden="true" />
+                  {m.sourceRefs.join(" · ")}
+                </div>
+              )}
+              {m.createdAt && <div className="chat-timestamp">{formatTime(m.createdAt)}</div>}
+            </div>
+          )
+        )}
+        {sending && (
+          <div className="chat-bubble-wrap chat-bubble-wrap--bot">
+            <div className="chat-bubble chat-bubble--bot chat-typing">
+              <span className="chat-typing__dot" />
+              <span className="chat-typing__dot" />
+              <span className="chat-typing__dot" />
+            </div>
           </div>
-        ))}
+        )}
       </div>
 
       <div className="chat-input">
