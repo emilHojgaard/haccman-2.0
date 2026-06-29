@@ -72,6 +72,8 @@
   font-size: 12px;
   line-height: 1.5;
   border: 0.5px solid transparent;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .chat-bubble--user {
@@ -100,12 +102,13 @@
   display: flex;
   align-items: center;
   gap: 6px;
+  overflow-wrap: anywhere;
 }
 
 .chat-input {
   margin-top: 10px;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   gap: 8px;
   border: 0.5px solid var(--hc-user-border);
   border-radius: var(--hc-radius);
@@ -117,9 +120,13 @@
   background: transparent;
   border: none;
   outline: none;
+  resize: none;
   color: var(--hc-user);
   font-family: var(--hc-font-mono);
   font-size: 12px;
+  line-height: 1.5;
+  max-height: 160px;
+  overflow-y: auto;
 }
 
 .chat-input__field::placeholder {
@@ -278,11 +285,33 @@
 }
 
 .goal-banner {
+  position: relative;
   font-family: var(--hc-font-mono);
   border: 0.5px solid var(--hc-user-border);
   border-radius: 8px;
   padding: 14px 18px;
   margin-bottom: 16px;
+}
+
+.goal-banner__badge {
+  display: none;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  border: 0.5px solid var(--hc-bot-border);
+  padding: 0;
+  overflow: hidden;
+  cursor: pointer;
+  background: var(--hc-surface);
+}
+
+.goal-banner__badge img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .goal-banner__label {
@@ -296,6 +325,7 @@
   color: var(--hc-user);
   font-size: 14px;
   line-height: 1.5;
+  overflow-wrap: anywhere;
 }
 
 .play-layout {
@@ -329,6 +359,7 @@
 .opponent-panel__name {
   color: var(--hc-bot);
   font-size: 14px;
+  overflow-wrap: anywhere;
 }
 
 .opponent-panel__avatar {
@@ -343,6 +374,7 @@
   color: var(--hc-text-dim);
   font-size: 12px;
   line-height: 1.5;
+  overflow-wrap: anywhere;
 }
 
 .info-modal-backdrop {
@@ -384,6 +416,7 @@
   display: flex;
   flex-direction: column;
   gap: 10px;
+  overflow-wrap: anywhere;
 }
 
 .bot-grid {
@@ -444,6 +477,7 @@
   font-size: 12px;
   color: var(--hc-text-dim);
   line-height: 1.5;
+  overflow-wrap: anywhere;
 }
 
 .bot-card:focus-visible,
@@ -500,7 +534,11 @@
   }
 
   .play-layout__side {
-    width: 100%;
+    display: none;
+  }
+
+  .goal-banner__badge {
+    display: block;
   }
 
   .chat-window {

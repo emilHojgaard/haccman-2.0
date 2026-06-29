@@ -29,7 +29,7 @@ export default function PlayPage() {
 
   return (
     <div style={{ maxWidth: 1100, margin: "0 auto", position: "relative" }}>
-      <GoalBanner task={task} />
+      <GoalBanner task={task} bot={bot} />
       <div className="play-layout">
         <div className="play-layout__chat" style={{ position: "relative" }}>
           <ChatWindow task={task} />

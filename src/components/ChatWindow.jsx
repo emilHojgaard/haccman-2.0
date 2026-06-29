@@ -32,6 +32,13 @@ export default function ChatWindow({ task }) {
   }, []);
 
   useEffect(() => {
+    const el = inputRef.current;
+    if (!el) return;
+    el.style.height = "auto";
+    el.style.height = `${Math.min(el.scrollHeight, 160)}px`;
+  }, [draft]);
+
+  useEffect(() => {
     if (messages.length === 0) return;
     const el = messagesRef.current;
     if (el) el.scrollTop = el.scrollHeight;
@@ -128,13 +135,19 @@ export default function ChatWindow({ task }) {
       </div>
 
       <div className="chat-input">
-        <input
+        <textarea
           ref={inputRef}
           className="chat-input__field"
           placeholder="> inject prompt..."
+          rows={1}
           value={draft}
           onChange={(e) => setDraft(e.target.value)}
-          onKeyDown={(e) => e.key === "Enter" && handleSend()}
+          onKeyDown={(e) => {
+            if (e.key === "Enter" && !e.shiftKey) {
+              e.preventDefault();
+              handleSend();
+            }
+          }}
           disabled={sending}
         />
         <button className="chat-input__send" onClick={handleSend} aria-label="Send">
