@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import bots from "../content/bots.json";
 import tasks from "../content/tasks.json";
@@ -11,6 +11,14 @@ export default function ChooseBotPage() {
   const selectBot = useGameStore((s) => s.selectBot);
   const setSession = useGameStore((s) => s.setSession);
   const [error, setError] = useState("");
+
+  useEffect(() => {
+    function onKey(e) {
+      if (e.key === "Escape") navigate("/");
+    }
+    document.addEventListener("keydown", onKey);
+    return () => document.removeEventListener("keydown", onKey);
+  }, [navigate]);
 
   async function handlePick(bot) {
     setError("");
@@ -27,35 +35,23 @@ export default function ChooseBotPage() {
   }
 
   return (
-    <div>
+    <div style={{ maxWidth: 1100, margin: "0 auto" }}>
       {error && (
         <div className="terminal-error" style={{ marginBottom: 16, fontFamily: "var(--hc-font-mono)" }}>
           {error}
         </div>
       )}
-      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(160px, 1fr))", gap: 16 }}>
-      {bots.map((bot) => (
-        <button
-          key={bot.id}
-          onClick={() => handlePick(bot)}
-          style={{
-            background: "var(--hc-surface)",
-            border: "0.5px solid var(--hc-user-border)",
-            borderRadius: "var(--hc-radius)",
-            padding: 16,
-            color: "var(--hc-user)",
-            fontFamily: "var(--hc-font-mono)",
-            cursor: "pointer",
-            textAlign: "left",
-          }}
-        >
-          <img src={bot.image} alt="" width={48} height={48} style={{ borderRadius: 8 }} />
-          <div style={{ marginTop: 10, fontSize: 13, color: "var(--hc-bot)" }}>{bot.name}</div>
-          <div style={{ marginTop: 4, fontSize: 11, color: "var(--hc-text-dim)" }}>
-            {bot.inGameDescription}
-          </div>
-        </button>
-      ))}
+      <div className="bot-grid">
+        {bots.map((bot) => (
+          <button key={bot.id} className="bot-card" onClick={() => handlePick(bot)}>
+            <img src={bot.image} alt="" className="bot-card__avatar" />
+            <div className="bot-card__name">{bot.name}</div>
+            <div className="bot-card__description">{bot.inGameDescription}</div>
+          </button>
+        ))}
+      </div>
+      <div className="terminal-note" style={{ marginTop: 20, textAlign: "center" }}>
+        press esc to go back
       </div>
     </div>
   );
