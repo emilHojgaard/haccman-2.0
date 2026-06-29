@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import bots from "../content/bots.json";
 import tasks from "../content/tasks.json";
 import { useGameStore } from "../store/gameStore";
-import { startSession } from "../services/sessionService";
+import { startSession, getCrackedBotIds } from "../services/sessionService";
 import { useSoundEffect } from "../theme/SoundEffectContext";
 import "../theme/components.css";
 
@@ -11,11 +11,17 @@ export default function ChooseBotPage() {
   const navigate = useNavigate();
   const selectBot = useGameStore((s) => s.selectBot);
   const setSession = useGameStore((s) => s.setSession);
-  const completedTaskIds = useGameStore((s) => s.completedTaskIds);
   const { playSoundEffect } = useSoundEffect();
   const [error, setError] = useState("");
   const [focusedIndex, setFocusedIndex] = useState(0);
+  const [crackedBotIds, setCrackedBotIds] = useState([]);
   const cardRefs = useRef([]);
+
+  useEffect(() => {
+    getCrackedBotIds()
+      .then(setCrackedBotIds)
+      .catch((e) => console.warn("Failed to load cracked bots:", e.message));
+  }, []);
 
   useEffect(() => {
     cardRefs.current[focusedIndex]?.focus({ preventScroll: true });
@@ -43,7 +49,7 @@ export default function ChooseBotPage() {
   }, [navigate, focusedIndex]);
 
   function isCracked(bot) {
-    return tasks.some((t) => t.botId === bot.id && completedTaskIds.includes(t.id));
+    return crackedBotIds.includes(bot.id);
   }
 
   async function handlePick(bot) {

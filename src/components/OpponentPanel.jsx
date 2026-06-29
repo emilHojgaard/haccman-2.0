@@ -7,18 +7,19 @@ export default function OpponentPanel({ bot }) {
   const [showHistory, setShowHistory] = useState(false);
 
   return (
-    <div className="opponent-panel">
-      <div className="opponent-panel__name">{bot.name}</div>
-      <img src={bot.image} alt="" className="opponent-panel__avatar" />
-      <div className="opponent-panel__description">{bot.inGameDescription}</div>
-      <div style={{ display: "flex", gap: 8, flexWrap: "wrap", justifyContent: "center" }}>
+    <div>
+      <div className="opponent-panel">
+        <div className="opponent-panel__name">{bot.name}</div>
+        <img src={bot.image} alt="" className="opponent-panel__avatar" />
+        <div className="opponent-panel__description">{bot.inGameDescription}</div>
         <button className="terminal-button" onClick={() => setShowInfo(true)}>
           <i className="ti ti-info-circle" aria-hidden="true" /> how this bot works
         </button>
-        <button className="terminal-button" onClick={() => setShowHistory(true)}>
-          <i className="ti ti-history" aria-hidden="true" /> past attempts
-        </button>
       </div>
+
+      <button className="terminal-button" style={{ width: "100%", marginTop: 12 }} onClick={() => setShowHistory(true)}>
+        <i className="ti ti-history" aria-hidden="true" /> past attempts
+      </button>
 
       {showInfo && (
         <div className="info-modal-backdrop" onClick={() => setShowInfo(false)}>
