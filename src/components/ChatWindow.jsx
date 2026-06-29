@@ -58,6 +58,7 @@ export default function ChatWindow({ task }) {
         systemPrompt: task.systemPrompt,
         constrain: task.constrain,
         guardrail: true,
+        useRag: Boolean(bot.ragEnabled),
         previousPrompts: messages.map((m) => ({
           id: m.role === "user" ? "user" : "assistant",
           message: m.content,

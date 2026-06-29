@@ -26,7 +26,7 @@ export async function getOwnSessionsForBot(botId) {
   const { data: { user } } = await supabase.auth.getUser();
   if (!user) throw new Error("No authenticated user");
 
-  const { data, error } = await supabase
+  const { data: sessions, error } = await supabase
     .from("sessions")
     .select("id, task_id, started_at, ended_at, completed")
     .eq("user_id", user.id)
@@ -34,7 +34,17 @@ export async function getOwnSessionsForBot(botId) {
     .order("started_at", { ascending: false });
 
   if (error) throw error;
-  return data ?? [];
+  if (!sessions || sessions.length === 0) return [];
+
+  const { data: prompts, error: promptsError } = await supabase
+    .from("prompts")
+    .select("session_id")
+    .in("session_id", sessions.map((s) => s.id));
+
+  if (promptsError) throw promptsError;
+
+  const sessionIdsWithMessages = new Set((prompts ?? []).map((p) => p.session_id));
+  return sessions.filter((s) => sessionIdsWithMessages.has(s.id));
 }
 
 export async function loadSessionMessages(sessionId) {

@@ -2,7 +2,7 @@ import { supabase } from "./supabaseClient";
 
 const FN_URL = import.meta.env.VITE_SUPABASE_URL;
 
-export async function askBot({ message, systemPrompt, constrain, guardrail, previousPrompts }) {
+export async function askBot({ message, systemPrompt, constrain, guardrail, previousPrompts, useRag }) {
   const { data: { session } } = await supabase.auth.getSession();
 
   const resp = await fetch(`${FN_URL}/functions/v1/ai`, {
@@ -11,7 +11,7 @@ export async function askBot({ message, systemPrompt, constrain, guardrail, prev
       "Content-Type": "application/json",
       ...(session?.access_token ? { Authorization: `Bearer ${session.access_token}` } : {}),
     },
-    body: JSON.stringify({ message, systemPrompt, constrain, guardrail, previousPrompts }),
+    body: JSON.stringify({ message, systemPrompt, constrain, guardrail, previousPrompts, useRag }),
   });
 
   if (!resp.ok) {

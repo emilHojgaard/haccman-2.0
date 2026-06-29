@@ -65,8 +65,10 @@ export default function SessionHistoryModal({ botId, onClose }) {
             <div className="admin-thread">
               {thread === null && <div className="terminal-note">loading...</div>}
               {thread?.map((m, i) => (
-                <div key={i} className={`chat-bubble chat-bubble--${m.role === "user" ? "user" : "bot"}`}>
-                  {m.content}
+                <div key={i} className={`chat-bubble-wrap chat-bubble-wrap--${m.role === "user" ? "user" : "bot"}`}>
+                  <div className={`chat-bubble chat-bubble--${m.role === "user" ? "user" : "bot"}`}>
+                    {m.content}
+                  </div>
                 </div>
               ))}
             </div>

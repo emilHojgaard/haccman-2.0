@@ -44,7 +44,7 @@ Deno.serve(async (req) => {
   }
 
   try {
-    const { message, systemPrompt, constrain, guardrail, previousPrompts } =
+    const { message, systemPrompt, constrain, guardrail, previousPrompts, useRag } =
       await req.json();
 
     console.log("ENV sanity", {
@@ -72,6 +72,51 @@ Deno.serve(async (req) => {
     //---------------------------------------------------------------------------
     //--- Organize previous prompts ---
     const chatHistory = messageHistory(previousPrompts, 20);
+
+    // --- Bots without RAG access (anything but Dr. Chatbot) get a plain
+    //     completion: no intent detection, no document/chunk retrieval. ---
+    if (!useRag) {
+      const body = {
+        model: "gpt-4o-mini",
+        temperature: 0.2,
+        messages: [
+          { role: "system", content: systemPrompt + constrain },
+          ...chatHistory,
+          { role: "user", content: message },
+        ],
+      };
+
+      const r = await fetch("https://api.openai.com/v1/chat/completions", {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${OPENAI_API_KEY}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(body),
+      });
+
+      if (!r.ok) {
+        const text = await r.text();
+        return new Response(JSON.stringify({ error: text }), {
+          status: r.status,
+          headers: { ...corsHeaders, "Content-Type": "application/json" },
+        });
+      }
+
+      const json = await r.json();
+      const aiResponsetext = json?.choices?.[0]?.message?.content ?? "";
+
+      return new Response(
+        JSON.stringify({
+          mode: "plain",
+          aiResponsetext,
+          sources: [],
+          document: null,
+          sourceRefs: [],
+        }),
+        { headers: { ...corsHeaders, "Content-Type": "application/json" } }
+      );
+    }
 
     // --- Detect intent to know retrieval methode ---
     const { mode, journalId, cpr, nameInit, knownDoc } = detectIntent(message);
