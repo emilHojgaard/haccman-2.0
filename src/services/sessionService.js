@@ -38,18 +38,29 @@ export async function getOwnSessionsForBot(botId) {
 }
 
 export async function loadSessionMessages(sessionId) {
-  const { data, error } = await supabase
+  const { data: prompts, error: promptsError } = await supabase
     .from("prompts")
-    .select("id, content, created_at, responses(content, created_at)")
+    .select("id, content, created_at")
     .eq("session_id", sessionId)
     .order("created_at", { ascending: true });
 
-  if (error) throw error;
+  if (promptsError) throw promptsError;
+
+  const promptIds = (prompts ?? []).map((p) => p.id);
+  let responses = [];
+  if (promptIds.length > 0) {
+    const { data, error: responsesError } = await supabase
+      .from("responses")
+      .select("prompt_id, content, created_at")
+      .in("prompt_id", promptIds);
+    if (responsesError) throw responsesError;
+    responses = data ?? [];
+  }
 
   const flat = [];
-  for (const p of data ?? []) {
+  for (const p of prompts ?? []) {
     flat.push({ role: "user", content: p.content, created_at: p.created_at });
-    for (const r of p.responses ?? []) {
+    for (const r of responses.filter((r) => r.prompt_id === p.id)) {
       flat.push({ role: "assistant", content: r.content, created_at: r.created_at });
     }
   }
