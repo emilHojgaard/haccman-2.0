@@ -8,8 +8,7 @@ import { useSoundEffect } from "../theme/SoundEffectContext";
 import "../theme/components.css";
 
 const MAX_LENGTH = 6000;
-const TOO_LONG_REPLY =
-  "I'm sorry, but your message is a bit too long for me to process in one go. Could you please shorten it and try again.";
+const WARN_THRESHOLD = MAX_LENGTH - 200;
 
 function formatTime(iso) {
   return new Date(iso).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
@@ -46,14 +45,7 @@ export default function ChatWindow({ task }) {
 
   async function handleSend() {
     const text = draft.trim();
-    if (!text || sending) return;
-
-    if (text.length > MAX_LENGTH) {
-      addMessage({ role: "user", content: text, createdAt: new Date().toISOString() });
-      addMessage({ role: "bot", content: TOO_LONG_REPLY, createdAt: new Date().toISOString() });
-      setDraft("");
-      return;
-    }
+    if (!text || sending || text.length > MAX_LENGTH) return;
 
     setSending(true);
     setDraft("");
@@ -134,12 +126,19 @@ export default function ChatWindow({ task }) {
         )}
       </div>
 
+      {draft.length > WARN_THRESHOLD && (
+        <div className="chat-length-warning">
+          {draft.length} / {MAX_LENGTH}
+          {draft.length >= MAX_LENGTH && " — message too long"}
+        </div>
+      )}
       <div className="chat-input">
         <textarea
           ref={inputRef}
           className="chat-input__field"
           placeholder="> inject prompt..."
           rows={1}
+          maxLength={MAX_LENGTH}
           value={draft}
           onChange={(e) => setDraft(e.target.value)}
           onKeyDown={(e) => {

@@ -146,6 +146,14 @@
   color: var(--hc-accent);
 }
 
+.chat-length-warning {
+  font-family: var(--hc-font-mono);
+  font-size: 10px;
+  color: var(--hc-accent);
+  text-align: right;
+  margin-top: 6px;
+}
+
 .terminal-screen {
   font-family: var(--hc-font-mono);
   color: var(--hc-user);
@@ -535,6 +543,10 @@
 
   .play-layout__side {
     display: none;
+  }
+
+  .goal-banner {
+    padding-right: 64px;
   }
 
   .goal-banner__badge {
