@@ -19,14 +19,16 @@ export default function ChatWindow({ task }) {
   const addMessage = useGameStore((s) => s.addMessage);
   const markTaskCompleted = useGameStore((s) => s.markTaskCompleted);
   const inputRef = useRef(null);
-  const messagesEndRef = useRef(null);
+  const messagesRef = useRef(null);
 
   useEffect(() => {
-    inputRef.current?.focus();
+    inputRef.current?.focus({ preventScroll: true });
   }, []);
 
   useEffect(() => {
-    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
+    if (messages.length === 0) return;
+    const el = messagesRef.current;
+    if (el) el.scrollTop = el.scrollHeight;
   }, [messages]);
 
   async function handleSend() {
@@ -74,7 +76,7 @@ export default function ChatWindow({ task }) {
         <span className="chat-header__difficulty">{task.difficulty}</span>
       </div>
 
-      <div className="chat-messages">
+      <div className="chat-messages" ref={messagesRef}>
         {messages.map((m, i) => (
           <div key={i} className={`chat-bubble-wrap chat-bubble-wrap--${m.role === "user" ? "user" : "bot"}`}>
             <div className={`chat-bubble chat-bubble--${m.role === "user" ? "user" : "bot"}`}>
@@ -89,7 +91,6 @@ export default function ChatWindow({ task }) {
             {m.createdAt && <div className="chat-timestamp">{formatTime(m.createdAt)}</div>}
           </div>
         ))}
-        <div ref={messagesEndRef} />
       </div>
 
       <div className="chat-input">
