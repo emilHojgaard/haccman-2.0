@@ -6,9 +6,10 @@ export const useGameStore = create((set) => ({
   sessionId: null,
   messages: [],
   completedTaskIds: [],
+  sessionWon: false,
 
   selectBot: (botId, taskId) =>
-    set({ selectedBotId: botId, currentTaskId: taskId, messages: [], sessionId: null }),
+    set({ selectedBotId: botId, currentTaskId: taskId, messages: [], sessionId: null, sessionWon: false }),
 
   setSession: (sessionId) => set({ sessionId }),
 
@@ -20,8 +21,9 @@ export const useGameStore = create((set) => ({
       completedTaskIds: state.completedTaskIds.includes(taskId)
         ? state.completedTaskIds
         : [...state.completedTaskIds, taskId],
+      sessionWon: true,
     })),
 
   reset: () =>
-    set({ selectedBotId: null, currentTaskId: null, sessionId: null, messages: [] }),
+    set({ selectedBotId: null, currentTaskId: null, sessionId: null, messages: [], sessionWon: false }),
 }));

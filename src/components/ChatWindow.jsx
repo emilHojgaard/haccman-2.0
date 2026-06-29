@@ -73,7 +73,7 @@ export default function ChatWindow({ task }) {
 
       if (checkWin(task.id, aiResponsetext)) {
         markTaskCompleted(task.id);
-        await endSession(sessionId);
+        await endSession(sessionId, { completed: true });
         playSoundEffect("win");
       }
     } catch (e) {

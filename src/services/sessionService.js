@@ -14,12 +14,27 @@ export async function startSession(botId, taskId) {
   return data;
 }
 
-export async function endSession(sessionId) {
+export async function endSession(sessionId, { completed = false } = {}) {
   const { error } = await supabase
     .from("sessions")
-    .update({ ended_at: new Date().toISOString() })
+    .update({ ended_at: new Date().toISOString(), completed })
     .eq("id", sessionId);
   if (error) throw error;
+}
+
+export async function getOwnSessionsForBot(botId) {
+  const { data: { user } } = await supabase.auth.getUser();
+  if (!user) throw new Error("No authenticated user");
+
+  const { data, error } = await supabase
+    .from("sessions")
+    .select("id, task_id, started_at, ended_at, completed")
+    .eq("user_id", user.id)
+    .eq("bot_id", botId)
+    .order("started_at", { ascending: false });
+
+  if (error) throw error;
+  return data ?? [];
 }
 
 export async function loadSessionMessages(sessionId) {
