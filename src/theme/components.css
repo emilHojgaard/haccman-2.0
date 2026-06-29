@@ -430,3 +430,10 @@
   color: var(--hc-text-dim);
   line-height: 1.5;
 }
+
+.bot-card:focus-visible,
+.bot-card:focus {
+  outline: none;
+  border-color: var(--hc-accent);
+  box-shadow: 0 0 0 2px var(--hc-accent);
+}

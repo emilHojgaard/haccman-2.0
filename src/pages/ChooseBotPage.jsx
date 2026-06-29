@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import bots from "../content/bots.json";
 import tasks from "../content/tasks.json";
@@ -11,14 +11,33 @@ export default function ChooseBotPage() {
   const selectBot = useGameStore((s) => s.selectBot);
   const setSession = useGameStore((s) => s.setSession);
   const [error, setError] = useState("");
+  const [focusedIndex, setFocusedIndex] = useState(0);
+  const cardRefs = useRef([]);
+
+  useEffect(() => {
+    cardRefs.current[focusedIndex]?.focus({ preventScroll: true });
+  }, [focusedIndex]);
 
   useEffect(() => {
     function onKey(e) {
-      if (e.key === "Escape") navigate("/");
+      if (e.key === "Escape") return navigate("/");
+      if (e.key === "ArrowRight" || e.key === "ArrowDown") {
+        e.preventDefault();
+        setFocusedIndex((i) => (i + 1) % bots.length);
+      }
+      if (e.key === "ArrowLeft" || e.key === "ArrowUp") {
+        e.preventDefault();
+        setFocusedIndex((i) => (i - 1 + bots.length) % bots.length);
+      }
+      if (e.key === "Enter") {
+        e.preventDefault();
+        handlePick(bots[focusedIndex]);
+      }
     }
     document.addEventListener("keydown", onKey);
     return () => document.removeEventListener("keydown", onKey);
-  }, [navigate]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [navigate, focusedIndex]);
 
   async function handlePick(bot) {
     setError("");
@@ -42,8 +61,14 @@ export default function ChooseBotPage() {
         </div>
       )}
       <div className="bot-grid">
-        {bots.map((bot) => (
-          <button key={bot.id} className="bot-card" onClick={() => handlePick(bot)}>
+        {bots.map((bot, i) => (
+          <button
+            key={bot.id}
+            ref={(el) => (cardRefs.current[i] = el)}
+            className="bot-card"
+            onClick={() => handlePick(bot)}
+            onFocus={() => setFocusedIndex(i)}
+          >
             <img src={bot.image} alt="" className="bot-card__avatar" />
             <div className="bot-card__name">{bot.name}</div>
             <div className="bot-card__description">{bot.inGameDescription}</div>
@@ -51,7 +76,7 @@ export default function ChooseBotPage() {
         ))}
       </div>
       <div className="terminal-note" style={{ marginTop: 20, textAlign: "center" }}>
-        press esc to go back
+        use arrow keys + enter, or esc to go back
       </div>
     </div>
   );

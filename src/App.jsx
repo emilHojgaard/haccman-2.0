@@ -3,11 +3,13 @@ import IntroPage from "./pages/IntroPage";
 import ChooseBotPage from "./pages/ChooseBotPage";
 import PlayPage from "./pages/PlayPage";
 import AdminPage from "./pages/AdminPage";
+import ScrollToTop from "./ScrollToTop";
 import "./theme/tokens.css";
 
 function App() {
   return (
     <div style={{ background: "var(--hc-bg)", minHeight: "100vh", padding: 24 }}>
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<IntroPage />} />
         <Route path="/choose-bot" element={<ChooseBotPage />} />
