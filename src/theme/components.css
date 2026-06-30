@@ -451,16 +451,32 @@
 
 .bot-card__cracked {
   position: absolute;
-  top: 10px;
-  right: 10px;
-  font-size: 10px;
-  color: var(--hc-bot);
-  border: 0.5px solid var(--hc-bot-border);
-  border-radius: var(--hc-radius);
-  padding: 2px 6px;
+  top: 0;
+  right: 0;
+  width: 88px;
+  height: 88px;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.bot-card__cracked-ribbon {
+  position: absolute;
+  top: 22px;
+  right: -26px;
+  width: 108px;
+  background: #1e0f18;
+  border-top: 1px solid var(--hc-bot-border);
+  border-bottom: 1px solid var(--hc-bot-border);
+  transform: rotate(45deg);
   display: flex;
   align-items: center;
-  gap: 4px;
+  justify-content: center;
+  gap: 5px;
+  padding: 4px 0;
+  font-size: 8px;
+  color: var(--hc-bot);
+  letter-spacing: 1.5px;
+  font-family: var(--hc-font-mono);
 }
 
 .bot-card:hover {

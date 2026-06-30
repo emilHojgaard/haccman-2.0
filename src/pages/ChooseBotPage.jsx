@@ -96,7 +96,9 @@ export default function ChooseBotPage() {
           >
             {isCracked(bot) && (
               <div className="bot-card__cracked">
-                <i className="ti ti-check" aria-hidden="true" /> cracked
+                <div className="bot-card__cracked-ribbon">
+                  <i className="ti ti-lock-open" aria-hidden="true" /> cracked
+                </div>
               </div>
             )}
             <img src={bot.image} alt="" className="bot-card__avatar" />
