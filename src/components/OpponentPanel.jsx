@@ -1,10 +1,22 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import SessionHistoryModal from "./SessionHistoryModal";
 import "../theme/components.css";
 
 export default function OpponentPanel({ bot }) {
   const [showInfo, setShowInfo] = useState(false);
   const [showHistory, setShowHistory] = useState(false);
+
+  useEffect(() => {
+    if (!showInfo && !showHistory) return;
+    function onKey(e) {
+      if (e.key !== "Escape") return;
+      e.stopPropagation();
+      setShowInfo(false);
+      setShowHistory(false);
+    }
+    document.addEventListener("keydown", onKey, true);
+    return () => document.removeEventListener("keydown", onKey, true);
+  }, [showInfo, showHistory]);
 
   return (
     <div>
