@@ -49,6 +49,7 @@ export default function ChatWindow({ task }) {
 
     setSending(true);
     setDraft("");
+    playSoundEffect("send");
     addMessage({ role: "user", content: text, createdAt: new Date().toISOString() });
 
     try {
@@ -65,6 +66,7 @@ export default function ChatWindow({ task }) {
         })),
       });
       await insertResponse(prompt.id, aiResponsetext, sources);
+      playSoundEffect("receive");
       addMessage({
         role: "bot",
         content: aiResponsetext,

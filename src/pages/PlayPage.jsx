@@ -4,6 +4,7 @@ import tasks from "../content/tasks.json";
 import bots from "../content/bots.json";
 import { useGameStore } from "../store/gameStore";
 import { startSession } from "../services/sessionService";
+import { useSoundEffect } from "../theme/SoundEffectContext";
 import ChatWindow from "../components/ChatWindow";
 import OpponentPanel from "../components/OpponentPanel";
 import GoalBanner from "../components/GoalBanner";
@@ -16,18 +17,35 @@ export default function PlayPage() {
   const sessionWon = useGameStore((s) => s.sessionWon);
   const selectBot = useGameStore((s) => s.selectBot);
   const setSession = useGameStore((s) => s.setSession);
+  const { playMusic, stopMusic } = useSoundEffect();
   const task = tasks.find((t) => t.id === currentTaskId);
   const bot = task ? bots.find((b) => b.id === task.botId) : null;
   const [showHistory, setShowHistory] = useState(false);
+  const [showWinOverlay, setShowWinOverlay] = useState(false);
   const [retryError, setRetryError] = useState("");
 
   useEffect(() => {
+    playMusic(1);
+    return () => stopMusic();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  useEffect(() => {
+    if (sessionWon) setShowWinOverlay(true);
+  }, [sessionWon]);
+
+  useEffect(() => {
     function onKey(e) {
-      if (e.key === "Escape") navigate("/choose-bot");
+      if (e.key !== "Escape") return;
+      if (showWinOverlay) {
+        setShowWinOverlay(false);
+      } else {
+        navigate("/choose-bot");
+      }
     }
     document.addEventListener("keydown", onKey);
     return () => document.removeEventListener("keydown", onKey);
-  }, [navigate]);
+  }, [navigate, showWinOverlay]);
 
   if (!task) return <Navigate to="/" replace />;
 
@@ -49,7 +67,7 @@ export default function PlayPage() {
       <div className="play-layout">
         <div className="play-layout__chat" style={{ position: "relative" }}>
           <ChatWindow task={task} />
-          {sessionWon && (
+          {showWinOverlay && (
             <div className="win-overlay">
               <div className="win-overlay__title">&gt;&gt; TASK CRACKED</div>
               <div className="win-overlay__subtitle">you got the bot to break its own rules.</div>
