@@ -451,11 +451,29 @@
   display: flex;
   flex-direction: column;
   gap: 8px;
-  max-height: 420px;
   overflow-y: auto;
+  flex: 1;
+  min-height: 120px;
   padding: 10px;
   border: 0.5px solid var(--hc-border);
   border-radius: var(--hc-radius);
+}
+
+.history-modal {
+  display: flex;
+  flex-direction: column;
+  max-width: 560px;
+  max-height: 80vh;
+  overflow: hidden;
+}
+
+.history-modal__transcript-view {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  gap: 0;
 }
 
 .goal-banner {

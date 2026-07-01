@@ -19,6 +19,18 @@ export default function SessionHistoryModal({ botId, onClose }) {
       .catch((e) => setError(e.message || "Failed to load sessions"));
   }, [botId]);
 
+  useEffect(() => {
+    function onKey(e) {
+      if (e.key !== "Escape") return;
+      if (selectedSession) {
+        e.stopPropagation();
+        setSelectedSession(null);
+      }
+    }
+    document.addEventListener("keydown", onKey, true);
+    return () => document.removeEventListener("keydown", onKey, true);
+  }, [selectedSession]);
+
   async function handleSelectSession(session) {
     setSelectedSession(session);
     setThread(null);
@@ -35,7 +47,10 @@ export default function SessionHistoryModal({ botId, onClose }) {
 
   return (
     <div className="info-modal-backdrop" onClick={onClose}>
-      <div className="info-modal" onClick={(e) => e.stopPropagation()} style={{ maxWidth: 560 }}>
+      <div
+        className="info-modal history-modal"
+        onClick={(e) => e.stopPropagation()}
+      >
         <div className="info-modal__header">
           <span>{selectedSession ? "transcript" : "past attempts"}</span>
           <button className="chat-input__send" onClick={onClose} aria-label="Close">
@@ -59,10 +74,10 @@ export default function SessionHistoryModal({ botId, onClose }) {
         )}
 
         {selectedSession && (
-          <>
+          <div className="history-modal__transcript-view">
             <button
               className="terminal-button"
-              style={{ marginBottom: 10 }}
+              style={{ marginBottom: 10, flexShrink: 0 }}
               onClick={() => setSelectedSession(null)}
             >
               <i className="ti ti-arrow-left" aria-hidden="true" /> back to list
@@ -80,7 +95,7 @@ export default function SessionHistoryModal({ botId, onClose }) {
             </div>
 
             {selectedSession.completed && selectedTask?.winExplanation && (
-              <div className="win-explanation" style={{ marginTop: 16 }}>
+              <div className="win-explanation" style={{ marginTop: 12, flexShrink: 0 }}>
                 <div className="win-explanation__label">// why it worked</div>
                 <div className="win-explanation__row">
                   <span className="win-explanation__key">technique</span>
@@ -93,7 +108,7 @@ export default function SessionHistoryModal({ botId, onClose }) {
                 </div>
               </div>
             )}
-          </>
+          </div>
         )}
       </div>
     </div>
