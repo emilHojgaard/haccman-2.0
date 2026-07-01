@@ -43,6 +43,13 @@ export default function OpponentPanel({ bot }) {
               </button>
             </div>
             <div className="info-modal__body">
+              {bot.concept && (
+                <div className="info-modal__concept">
+                  <div className="info-modal__concept-name">{bot.concept.name}</div>
+                  <div className="info-modal__concept-tagline">{bot.concept.tagline}</div>
+                  <p className="info-modal__concept-desc">{bot.concept.description}</p>
+                </div>
+              )}
               {bot.description.split("\n\n").map((para, i) => (
                 <p key={i}>{para}</p>
               ))}

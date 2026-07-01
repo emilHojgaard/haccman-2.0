@@ -72,7 +72,7 @@ export default function PlayPage() {
               <div className="win-overlay__title">&gt;&gt; TASK CRACKED</div>
               <div className="win-overlay__subtitle">you got the bot to break its own rules.</div>
               {retryError && <div className="terminal-error">{retryError}</div>}
-              <div style={{ display: "flex", gap: 12 }}>
+              <div style={{ display: "flex", gap: 12, flexWrap: "wrap", justifyContent: "center" }}>
                 <button className="terminal-button" onClick={handleTryAgain}>
                   try again
                 </button>
@@ -83,6 +83,20 @@ export default function PlayPage() {
                   choose another bot
                 </button>
               </div>
+              {task.winExplanation && (
+                <div className="win-explanation">
+                  <div className="win-explanation__label">// why it worked</div>
+                  <div className="win-explanation__row">
+                    <span className="win-explanation__key">technique</span>
+                    <span className="win-explanation__val">{task.winExplanation.technique}</span>
+                  </div>
+                  <p className="win-explanation__why">{task.winExplanation.why}</p>
+                  <div className="win-explanation__concept-block">
+                    <span className="win-explanation__key">concept</span>
+                    <p className="win-explanation__concept-text">{task.winExplanation.concept}</p>
+                  </div>
+                </div>
+              )}
             </div>
           )}
         </div>

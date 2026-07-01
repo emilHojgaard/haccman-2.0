@@ -101,9 +101,17 @@ export default function ChooseBotPage() {
                 </div>
               </div>
             )}
+            {bot.difficulty && (
+              <div className={`bot-card__difficulty bot-card__difficulty--${bot.difficulty}`}>
+                {bot.difficulty}
+              </div>
+            )}
             <img src={bot.image} alt="" className="bot-card__avatar" />
             <div className="bot-card__name">{bot.name}</div>
             <div className="bot-card__description">{bot.inGameDescription}</div>
+            {bot.concept && (
+              <div className="bot-card__concept">{bot.concept.name}</div>
+            )}
           </button>
         ))}
       </div>
