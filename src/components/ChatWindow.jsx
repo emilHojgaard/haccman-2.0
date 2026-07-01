@@ -36,6 +36,10 @@ export default function ChatWindow({ task }) {
   }, []);
 
   useEffect(() => {
+    if (!sending && !sessionWon) inputRef.current?.focus({ preventScroll: true });
+  }, [sending, sessionWon]);
+
+  useEffect(() => {
     const el = inputRef.current;
     if (!el) return;
     el.style.height = "auto";
@@ -90,7 +94,6 @@ export default function ChatWindow({ task }) {
       setDraft(text);
     } finally {
       setSending(false);
-      inputRef.current?.focus();
     }
   }
 

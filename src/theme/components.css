@@ -506,11 +506,14 @@
   display: flex;
   gap: 20px;
   align-items: flex-start;
+  height: calc(100vh - 180px);
+  min-height: 400px;
 }
 
 .play-layout__chat {
   flex: 2;
   min-width: 0;
+  height: 100%;
 }
 
 .play-layout__side {
