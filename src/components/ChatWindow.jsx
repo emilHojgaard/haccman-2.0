@@ -19,15 +19,15 @@ export default function ChatWindow({ task }) {
   const [draft, setDraft] = useState("");
   const [sending, setSending] = useState(false);
   const [hintRevealed, setHintRevealed] = useState(false);
-  const sessionWon = useGameStore((s) => s.sessionWon);
-  const userMsgCount = messages.filter((m) => m.role === "user").length;
-  const hintAvailable = task.hint && userMsgCount >= HINT_AFTER && !sessionWon;
   const bot = bots.find((b) => b.id === task.botId);
   const messages = useGameStore((s) => s.messages);
   const sessionId = useGameStore((s) => s.sessionId);
+  const sessionWon = useGameStore((s) => s.sessionWon);
   const addMessage = useGameStore((s) => s.addMessage);
   const markTaskCompleted = useGameStore((s) => s.markTaskCompleted);
   const { playSoundEffect } = useSoundEffect();
+  const userMsgCount = messages.filter((m) => m.role === "user").length;
+  const hintAvailable = task.hint && userMsgCount >= HINT_AFTER && !sessionWon;
   const inputRef = useRef(null);
   const messagesRef = useRef(null);
 
