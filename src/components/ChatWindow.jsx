@@ -9,6 +9,7 @@ import "../theme/components.css";
 
 const MAX_LENGTH = 6000;
 const WARN_THRESHOLD = MAX_LENGTH - 200;
+const HINT_AFTER = 10;
 
 function formatTime(iso) {
   return new Date(iso).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
@@ -17,6 +18,10 @@ function formatTime(iso) {
 export default function ChatWindow({ task }) {
   const [draft, setDraft] = useState("");
   const [sending, setSending] = useState(false);
+  const [hintRevealed, setHintRevealed] = useState(false);
+  const sessionWon = useGameStore((s) => s.sessionWon);
+  const userMsgCount = messages.filter((m) => m.role === "user").length;
+  const hintAvailable = task.hint && userMsgCount >= HINT_AFTER && !sessionWon;
   const bot = bots.find((b) => b.id === task.botId);
   const messages = useGameStore((s) => s.messages);
   const sessionId = useGameStore((s) => s.sessionId);
@@ -128,6 +133,19 @@ export default function ChatWindow({ task }) {
           </div>
         )}
       </div>
+
+      {hintAvailable && (
+        <div className="chat-hint">
+          <i className="ti ti-bulb" aria-hidden="true" />
+          {hintRevealed ? (
+            <span className="chat-hint__text">{task.hint}</span>
+          ) : (
+            <button className="chat-hint__reveal" onClick={() => setHintRevealed(true)}>
+              need a hint?
+            </button>
+          )}
+        </div>
+      )}
 
       {draft.length > WARN_THRESHOLD && (
         <div className="chat-length-warning">

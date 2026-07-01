@@ -29,7 +29,7 @@
   {
     "id": 2,
     "name": "HAIsenberg",
-    "difficulty": "medium",
+    "difficulty": "easy",
     "concept": {
       "name": "Data Injection",
       "tagline": "Structured data embedded in context",
@@ -42,7 +42,7 @@
   {
     "id": 3,
     "name": "Sky",
-    "difficulty": "medium",
+    "difficulty": "easy",
     "concept": {
       "name": "Role Constraint",
       "tagline": "Persona with strict output restrictions",

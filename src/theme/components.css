@@ -154,6 +154,39 @@
   margin-top: 6px;
 }
 
+.chat-hint {
+  font-family: var(--hc-font-mono);
+  font-size: 11px;
+  color: var(--hc-text-muted);
+  border-top: 1px dashed var(--hc-border);
+  padding: 8px 16px;
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  line-height: 1.5;
+}
+
+.chat-hint__reveal {
+  background: none;
+  border: none;
+  padding: 0;
+  font-family: var(--hc-font-mono);
+  font-size: 11px;
+  color: var(--hc-text-dim);
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.chat-hint__reveal:hover {
+  color: var(--hc-user);
+}
+
+.chat-hint__text {
+  color: var(--hc-text-dim);
+  font-style: italic;
+}
+
 .terminal-screen {
   font-family: var(--hc-font-mono);
   color: var(--hc-user);
@@ -340,12 +373,6 @@
   color: #4ade80;
   border: 1px solid rgba(74, 222, 128, 0.4);
   background: rgba(74, 222, 128, 0.08);
-}
-
-.bot-card__difficulty--medium {
-  color: var(--hc-user);
-  border: 1px solid rgba(175, 169, 236, 0.4);
-  background: rgba(175, 169, 236, 0.08);
 }
 
 .bot-card__difficulty--hard {
