@@ -4,7 +4,7 @@ import tasks from "../content/tasks.json";
 import "../theme/components.css";
 
 function formatDateTime(iso) {
-  return new Date(iso).toLocaleString([], { dateStyle: "short", timeStyle: "short" });
+  return new Date(iso).toLocaleString([], { dateStyle: "medium", timeStyle: "short" });
 }
 
 export default function SessionHistoryModal({ botId, onClose }) {
@@ -47,42 +47,61 @@ export default function SessionHistoryModal({ botId, onClose }) {
 
   return (
     <div className="info-modal-backdrop" onClick={onClose}>
-      <div
-        className="info-modal history-modal"
-        onClick={(e) => e.stopPropagation()}
-      >
+      <div className="history-modal" onClick={(e) => e.stopPropagation()}>
+
+        {/* Header */}
         <div className="info-modal__header">
-          <span>{selectedSession ? "transcript" : "past attempts"}</span>
-          <button className="chat-input__send" onClick={onClose} aria-label="Close">
+          {selectedSession ? (
+            <div style={{ display: "flex", alignItems: "center", gap: 10, flex: 1, minWidth: 0 }}>
+              <button className="history-modal__back" onClick={() => setSelectedSession(null)}>
+                <i className="ti ti-arrow-left" aria-hidden="true" />
+              </button>
+              <span style={{ flex: 1, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>
+                {formatDateTime(selectedSession.started_at)}
+              </span>
+              {selectedSession.completed && (
+                <span className="history-modal__cracked-badge">
+                  <i className="ti ti-lock-open" aria-hidden="true" /> cracked
+                </span>
+              )}
+            </div>
+          ) : (
+            <span>past attempts</span>
+          )}
+          <button className="chat-input__send" onClick={onClose} aria-label="Close" style={{ marginLeft: 12, flexShrink: 0 }}>
             <i className="ti ti-x" aria-hidden="true" />
           </button>
         </div>
 
-        {error && <div className="terminal-error" style={{ marginBottom: 10 }}>{error}</div>}
+        {error && <div className="terminal-error" style={{ margin: "0 0 10px" }}>{error}</div>}
 
+        {/* List view */}
         {!selectedSession && (
-          <div className="admin-list">
+          <div className="history-modal__list">
             {sessions === null && <div className="terminal-note">loading...</div>}
             {sessions?.length === 0 && <div className="terminal-note">no past attempts yet.</div>}
             {sessions?.map((s) => (
-              <button key={s.id} className="admin-list-item" onClick={() => handleSelectSession(s)}>
-                {formatDateTime(s.started_at)}
-                {s.completed && <span style={{ color: "var(--hc-bot)", marginLeft: 8 }}>cracked</span>}
+              <button
+                key={s.id}
+                className={`history-modal__item${s.completed ? " history-modal__item--cracked" : ""}`}
+                onClick={() => handleSelectSession(s)}
+              >
+                <i className="ti ti-message" aria-hidden="true" style={{ opacity: 0.4 }} />
+                <span className="history-modal__item-date">{formatDateTime(s.started_at)}</span>
+                {s.completed && (
+                  <span className="history-modal__cracked-badge">
+                    <i className="ti ti-lock-open" aria-hidden="true" /> cracked
+                  </span>
+                )}
+                <i className="ti ti-chevron-right" aria-hidden="true" style={{ marginLeft: "auto", opacity: 0.3 }} />
               </button>
             ))}
           </div>
         )}
 
+        {/* Transcript view */}
         {selectedSession && (
-          <div className="history-modal__transcript-view">
-            <button
-              className="terminal-button"
-              style={{ marginBottom: 10, flexShrink: 0 }}
-              onClick={() => setSelectedSession(null)}
-            >
-              <i className="ti ti-arrow-left" aria-hidden="true" /> back to list
-            </button>
-
+          <div className="history-modal__transcript">
             <div className="admin-thread">
               {thread === null && <div className="terminal-note">loading...</div>}
               {thread?.map((m, i) => (
@@ -95,9 +114,9 @@ export default function SessionHistoryModal({ botId, onClose }) {
             </div>
 
             {selectedSession.completed && selectedTask?.winExplanation && (
-              <div className="win-explanation" style={{ marginTop: 12, flexShrink: 0 }}>
+              <div className="history-modal__explanation">
                 <div className="win-explanation__label">// why it worked</div>
-                <div className="win-explanation__row">
+                <div className="win-explanation__row" style={{ marginTop: 8 }}>
                   <span className="win-explanation__key">technique</span>
                   <span className="win-explanation__val">{selectedTask.winExplanation.technique}</span>
                 </div>

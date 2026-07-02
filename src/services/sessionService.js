@@ -36,6 +36,20 @@ export async function getCrackedBotIds() {
   return [...new Set((data ?? []).map((s) => s.bot_id))];
 }
 
+export async function getCrackedTaskIds() {
+  const { data: { user } } = await supabase.auth.getUser();
+  if (!user) return [];
+
+  const { data, error } = await supabase
+    .from("sessions")
+    .select("task_id")
+    .eq("user_id", user.id)
+    .eq("completed", true);
+
+  if (error) throw error;
+  return [...new Set((data ?? []).map((s) => s.task_id))];
+}
+
 export async function getOwnSessionsForBot(botId) {
   const { data: { user } } = await supabase.auth.getUser();
   if (!user) throw new Error("No authenticated user");

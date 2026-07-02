@@ -12,6 +12,8 @@ export function checkWin(taskId, botResponseText) {
   switch (rule.type) {
     case "phrase":
       return containsAny(botResponseText, rule.phrases);
+    case "keyword-and":
+      return containsAny(botResponseText, rule.required) && containsAny(botResponseText, rule.confirm);
     case "phrase-or-keyword":
       return (
         containsAny(botResponseText, rule.phrases) ||
