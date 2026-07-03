@@ -62,9 +62,18 @@ function ThreadPanel({ thread, player, sessionId, onClose }) {
       <div className="admin-thread">
         {thread.length === 0 && <div className="terminal-note">no messages.</div>}
         {thread.map((m, i) => (
-          <div key={i} className={`chat-bubble chat-bubble--${m.role === "user" ? "user" : "bot"}`}>
-            <div className="admin-thread-ts">{fmt(m.created_at)}</div>
-            {m.content}
+          <div key={i} className={`admin-thread-msg admin-thread-msg--${m.role === "user" ? "user" : "bot"}`}>
+            <div className={`chat-bubble chat-bubble--${m.role === "user" ? "user" : "bot"}`}>
+              <div className="admin-thread-ts">{fmt(m.created_at)}</div>
+              {m.content}
+            </div>
+            {m.strategy_tags?.length > 0 && (
+              <div className="admin-strategy-tags">
+                {m.strategy_tags.map((tag) => (
+                  <span key={tag} className="admin-strategy-tag">{tag.replace(/_/g, " ")}</span>
+                ))}
+              </div>
+            )}
           </div>
         ))}
       </div>

@@ -1,6 +1,7 @@
 import { supabase } from "./supabaseClient";
 
-export async function signInAdmin(email, password) {
+export async function signInAdmin(username, password) {
+  const email = `${username}@haccman.local`;
   const { data, error } = await supabase.auth.signInWithPassword({ email, password });
   if (error) throw error;
   return data.user;
@@ -33,16 +34,16 @@ export async function getSessionsByUser(userId) {
 export async function loadSessionThread(sessionId) {
   const { data, error } = await supabase
     .from("prompts")
-    .select("id, content, created_at, responses(content, created_at)")
+    .select("id, content, created_at, strategy_tags, responses(content, created_at)")
     .eq("session_id", sessionId)
     .order("created_at", { ascending: true });
   if (error) throw error;
 
   const flat = [];
   for (const p of data ?? []) {
-    flat.push({ role: "user", content: p.content, created_at: p.created_at });
+    flat.push({ role: "user", content: p.content, created_at: p.created_at, strategy_tags: p.strategy_tags ?? [] });
     for (const r of p.responses ?? []) {
-      flat.push({ role: "bot", content: r.content, created_at: r.created_at });
+      flat.push({ role: "bot", content: r.content, created_at: r.created_at, strategy_tags: [] });
     }
   }
   return flat.sort((a, b) => new Date(a.created_at) - new Date(b.created_at));

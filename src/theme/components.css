@@ -734,6 +734,33 @@
   margin-bottom: 3px;
 }
 
+.admin-thread-msg {
+  display: flex;
+  flex-direction: column;
+}
+.admin-thread-msg--user { align-items: flex-end; }
+.admin-thread-msg--bot  { align-items: flex-start; }
+
+.admin-strategy-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  justify-content: flex-end;
+}
+
+.admin-strategy-tag {
+  font-family: var(--hc-font-mono);
+  font-size: 9px;
+  padding: 2px 6px;
+  border-radius: 3px;
+  background: color-mix(in srgb, var(--hc-accent) 15%, transparent);
+  color: var(--hc-accent);
+  border: 1px solid color-mix(in srgb, var(--hc-accent) 30%, transparent);
+  white-space: nowrap;
+}
+
 .admin-empty {
   color: var(--hc-text-muted);
   font-size: 12px;
