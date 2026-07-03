@@ -529,6 +529,22 @@
   opacity: 0.85;
 }
 
+/* ─── Admin login ─────────────────────────────────────────────────── */
+
+.admin-login-form {
+  max-width: 300px;
+  margin: 80px auto;
+  font-family: var(--hc-font-mono);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.admin-login-input {
+  width: 100%;
+  box-sizing: border-box;
+}
+
 /* ─── Admin page ──────────────────────────────────────────────────── */
 
 .admin-page {

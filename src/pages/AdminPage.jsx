@@ -80,24 +80,29 @@ function SessionsTab() {
   const [selectedSession, setSelectedSession] = useState(null);
   const [thread, setThread]             = useState([]);
   const [loading, setLoading]           = useState(false);
+  const [sessionError, setSessionError] = useState("");
 
   useEffect(() => {
-    getAllPlayers().then(setPlayers).catch(console.error);
+    getAllPlayers().then(setPlayers).catch((e) => setSessionError(e.message));
   }, []);
 
   async function selectPlayer(p) {
     setSelectedPlayer(p);
     setSelectedSession(null);
     setThread([]);
+    setSessionError("");
     setLoading(true);
     try { setSessions(await getSessionsByUser(p.id)); }
+    catch (e) { setSessionError(e.message); }
     finally { setLoading(false); }
   }
 
   async function selectSession(s) {
     setSelectedSession(s);
+    setSessionError("");
     setLoading(true);
     try { setThread(await loadSessionThread(s.id)); }
+    catch (e) { setSessionError(e.message); }
     finally { setLoading(false); }
   }
 
@@ -120,7 +125,14 @@ function SessionsTab() {
 
       {/* Sessions list */}
       <div className="admin-sessions-col">
-        {!selectedPlayer && (
+        {sessionError && (
+          <div className="terminal-error" style={{ fontSize: 11, padding: "8px 0" }}>
+            {sessionError.includes("permission") || sessionError.includes("RLS") || sessionError.includes("policy")
+              ? "Permission denied. Add RLS policy in Supabase — see console for details."
+              : sessionError}
+          </div>
+        )}
+        {!selectedPlayer && !sessionError && (
           <div className="admin-empty">select a player to see their sessions</div>
         )}
         {selectedPlayer && (
@@ -167,6 +179,17 @@ function TestResultsTab() {
   const fileRef = useRef();
   const [runs, setRuns]           = useState([]);
   const [runIdx, setRunIdx]       = useState(0);
+
+  useEffect(() => {
+    fetch("/test-results.json")
+      .then((r) => { if (!r.ok) throw new Error("not found"); return r.json(); })
+      .then((parsed) => {
+        const r = parsed.runs ?? [parsed];
+        setRuns(r);
+        setRunIdx(r.length - 1);
+      })
+      .catch(() => {}); // silently ignore — file may not exist yet
+  }, []);
   const [filterStrategy, setFilterStrategy] = useState("all");
   const [filterResult, setFilterResult]     = useState("all");
   const [activeTranscript, setActiveTranscript] = useState(null);
@@ -193,8 +216,8 @@ function TestResultsTab() {
       <div className="admin-upload-area" onClick={() => fileRef.current.click()}>
         <input ref={fileRef} type="file" accept=".json" style={{ display: "none" }} onChange={handleFile} />
         <i className="ti ti-upload" style={{ fontSize: 28, opacity: 0.4 }} />
-        <div className="admin-upload-label">click to load test-results.json</div>
-        <div className="admin-upload-hint">from scripts/test-results.json</div>
+        <div className="admin-upload-label">click to upload test-results.json</div>
+        <div className="admin-upload-hint">or copy scripts/test-results.json → public/test-results.json to auto-load</div>
       </div>
     );
   }
@@ -384,11 +407,24 @@ export default function AdminPage() {
 
   if (!loggedIn) {
     return (
-      <form onSubmit={handleLogin} style={{ maxWidth: 340, margin: "80px auto", fontFamily: "var(--hc-font-mono)" }}>
+      <form onSubmit={handleLogin} className="admin-login-form">
         <div className="terminal-step__title" style={{ marginBottom: 24 }}>&gt;&gt; admin login</div>
-        <input className="terminal-input" placeholder="email" value={email} onChange={(e) => setEmail(e.target.value)} />
-        <input className="terminal-input" type="password" placeholder="password" value={password} onChange={(e) => setPassword(e.target.value)} style={{ marginTop: 8 }} />
-        <button className="terminal-button" type="submit" style={{ marginTop: 12, width: "100%" }}>log in</button>
+        <input
+          className="terminal-input admin-login-input"
+          placeholder="username"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+          autoFocus
+        />
+        <input
+          className="terminal-input admin-login-input"
+          type="password"
+          placeholder="password"
+          value={password}
+          onChange={(e) => setPassword(e.target.value)}
+          onKeyDown={(e) => e.key === "Enter" && handleLogin(e)}
+        />
+        <button className="terminal-button admin-login-input" type="submit">log in</button>
         {error && <div className="terminal-error" style={{ marginTop: 10 }}>{error}</div>}
       </form>
     );

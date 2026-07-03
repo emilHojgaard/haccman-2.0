@@ -566,7 +566,8 @@ async function main() {
   };
 
   // Append this run to the results file (or create it)
-  const outPath = path.resolve(opts.output);
+  const outPath    = path.resolve(opts.output);
+  const publicPath = path.join(ROOT, "public", "test-results.json");
   let existing = { runs: [] };
   if (fs.existsSync(outPath)) {
     try { existing = JSON.parse(fs.readFileSync(outPath, "utf-8")); } catch {}
@@ -574,6 +575,9 @@ async function main() {
   if (!existing.runs) existing.runs = [];
   existing.runs.push(output);
   fs.writeFileSync(outPath, JSON.stringify(existing, null, 2), "utf-8");
+  // Also mirror to public/ so the admin page can auto-fetch it
+  fs.mkdirSync(path.dirname(publicPath), { recursive: true });
+  fs.writeFileSync(publicPath, JSON.stringify(existing, null, 2), "utf-8");
 
   // ── Print summary ────────────────────────────────────────────────────────
   console.log("\n╔══════════════════════════════════════╗");
