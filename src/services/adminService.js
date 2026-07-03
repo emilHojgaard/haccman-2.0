@@ -17,13 +17,13 @@ export async function getAllPlayers() {
     .select("id, username")
     .order("username", { ascending: true });
   if (error) throw error;
-  return data;
+  return data ?? [];
 }
 
 export async function getSessionsByUser(userId) {
   const { data, error } = await supabase
     .from("sessions")
-    .select("id, bot_id, started_at, ended_at")
+    .select("id, bot_id, task_id, started_at, ended_at, completed")
     .eq("user_id", userId)
     .order("started_at", { ascending: false });
   if (error) throw error;
