@@ -29,6 +29,15 @@ export async function signInAnonPlayer() {
 }
 
 export async function savePlayerProfile(userId, { username, age }) {
+  const { data: existing } = await supabase
+    .from("players")
+    .select("id")
+    .ilike("username", username.trim())
+    .neq("id", userId)
+    .maybeSingle();
+
+  if (existing) throw new Error("That username is already taken");
+
   const { error } = await supabase
     .from("players")
     .upsert({ id: userId, username, age });

@@ -22,6 +22,14 @@ export async function endSession(sessionId, { completed = false } = {}) {
   if (error) throw error;
 }
 
+export async function deleteSession(sessionId) {
+  const { error } = await supabase
+    .from("sessions")
+    .delete()
+    .eq("id", sessionId);
+  if (error) throw error;
+}
+
 export async function getCrackedBotIds() {
   const { data: { user } } = await supabase.auth.getUser();
   if (!user) return [];
