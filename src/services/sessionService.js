@@ -86,7 +86,7 @@ export async function getOwnSessionsForBot(botId) {
 export async function loadSessionMessages(sessionId) {
   const { data: prompts, error: promptsError } = await supabase
     .from("prompts")
-    .select("id, content, created_at")
+    .select("id, content, created_at, strategy_tags")
     .eq("session_id", sessionId)
     .order("created_at", { ascending: true });
 
@@ -105,9 +105,9 @@ export async function loadSessionMessages(sessionId) {
 
   const flat = [];
   for (const p of prompts ?? []) {
-    flat.push({ role: "user", content: p.content, created_at: p.created_at });
+    flat.push({ role: "user", content: p.content, created_at: p.created_at, strategy_tags: p.strategy_tags ?? [] });
     for (const r of responses.filter((r) => r.prompt_id === p.id)) {
-      flat.push({ role: "assistant", content: r.content, created_at: r.created_at });
+      flat.push({ role: "assistant", content: r.content, created_at: r.created_at, strategy_tags: [] });
     }
   }
   return flat.sort((a, b) => new Date(a.created_at) - new Date(b.created_at));

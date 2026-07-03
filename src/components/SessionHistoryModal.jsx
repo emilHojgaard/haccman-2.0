@@ -102,29 +102,53 @@ export default function SessionHistoryModal({ botId, onClose }) {
         {/* Transcript view */}
         {selectedSession && (
           <div className="history-modal__transcript">
-            <div className="admin-thread">
+            {/* Thread */}
+            <div className="history-modal__thread">
               {thread === null && <div className="terminal-note">loading...</div>}
               {thread?.map((m, i) => (
-                <div key={i} className={`chat-bubble-wrap chat-bubble-wrap--${m.role === "user" ? "user" : "bot"}`}>
+                <div key={i} className={`history-modal__msg history-modal__msg--${m.role === "user" ? "user" : "bot"}`}>
                   <div className={`chat-bubble chat-bubble--${m.role === "user" ? "user" : "bot"}`}>
                     {m.content}
                   </div>
+                  {m.strategy_tags?.length > 0 && (
+                    <div className="admin-strategy-tags">
+                      {m.strategy_tags.map((tag) => (
+                        <span key={tag} className="admin-strategy-tag">{tag.replace(/_/g, " ")}</span>
+                      ))}
+                    </div>
+                  )}
                 </div>
               ))}
             </div>
 
-            {selectedSession.completed && selectedTask?.winExplanation && (
-              <div className="history-modal__explanation">
-                <div className="win-explanation__label">// why it worked</div>
-                <div className="win-explanation__row" style={{ marginTop: 8 }}>
-                  <span className="win-explanation__key">technique</span>
-                  <span className="win-explanation__val">{selectedTask.winExplanation.technique}</span>
-                </div>
-                <p className="win-explanation__why">{selectedTask.winExplanation.why}</p>
-                <div className="win-explanation__concept-block">
-                  <span className="win-explanation__key">concept</span>
-                  <p className="win-explanation__concept-text">{selectedTask.winExplanation.concept}</p>
-                </div>
+            {/* Strategy panel */}
+            {selectedSession.completed && (
+              <div className="history-modal__strategy-panel">
+                <div className="win-explanation__label">// strategies detected</div>
+                {(() => {
+                  const allTags = [...new Set((thread ?? []).flatMap((m) => m.strategy_tags ?? []))];
+                  return allTags.length > 0 ? (
+                    <div className="history-modal__strategy-tags">
+                      {allTags.map((tag) => (
+                        <span key={tag} className="history-modal__strategy-tag">{tag.replace(/_/g, " ")}</span>
+                      ))}
+                    </div>
+                  ) : (
+                    <div className="terminal-note" style={{ marginTop: 8 }}>
+                      {thread === null ? "loading..." : "no strategies classified yet"}
+                    </div>
+                  );
+                })()}
+                {selectedTask?.winExplanation && (
+                  <>
+                    <div className="win-explanation__label" style={{ marginTop: 20 }}>// why it worked</div>
+                    <p className="win-explanation__why">{selectedTask.winExplanation.why}</p>
+                    <div className="win-explanation__concept-block">
+                      <span className="win-explanation__key">concept</span>
+                      <p className="win-explanation__concept-text">{selectedTask.winExplanation.concept}</p>
+                    </div>
+                  </>
+                )}
               </div>
             )}
           </div>
