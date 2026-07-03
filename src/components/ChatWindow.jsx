@@ -3,7 +3,7 @@ import bots from "../content/bots.json";
 import { useGameStore } from "../store/gameStore";
 import { checkWin } from "../engine/winDetector";
 import { askBot, insertPrompt, insertResponse, classifyPrompt } from "../services/chatService";
-import { endSession, deleteSession } from "../services/sessionService";
+import { endSession } from "../services/sessionService";
 import { useSoundEffect } from "../theme/SoundEffectContext";
 import "../theme/components.css";
 
@@ -35,14 +35,6 @@ export default function ChatWindow({ task }) {
     inputRef.current?.focus({ preventScroll: true });
   }, []);
 
-  useEffect(() => {
-    return () => {
-      const { sessionId: sid, messages: msgs } = useGameStore.getState();
-      if (sid && msgs.filter((m) => m.role === "user").length === 0) {
-        deleteSession(sid).catch(() => {});
-      }
-    };
-  }, []);
 
   useEffect(() => {
     if (!sending && !sessionWon) inputRef.current?.focus({ preventScroll: true });

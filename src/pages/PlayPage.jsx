@@ -3,7 +3,7 @@ import { Navigate, useNavigate } from "react-router-dom";
 import tasks from "../content/tasks.json";
 import bots from "../content/bots.json";
 import { useGameStore } from "../store/gameStore";
-import { startSession } from "../services/sessionService";
+import { startSession, deleteSession } from "../services/sessionService";
 import { useSoundEffect } from "../theme/SoundEffectContext";
 import ChatWindow from "../components/ChatWindow";
 import OpponentPanel from "../components/OpponentPanel";
@@ -18,6 +18,13 @@ export default function PlayPage() {
   const selectBot = useGameStore((s) => s.selectBot);
   const setSession = useGameStore((s) => s.setSession);
   const { playMusic, stopMusic } = useSoundEffect();
+
+  function maybeDeleteEmptySession() {
+    const { sessionId: sid, messages: msgs } = useGameStore.getState();
+    if (sid && msgs.filter((m) => m.role === "user").length === 0) {
+      deleteSession(sid).catch(() => {});
+    }
+  }
   const task = tasks.find((t) => t.id === currentTaskId);
   const bot = task ? bots.find((b) => b.id === task.botId) : null;
   const [showHistory, setShowHistory] = useState(false);
@@ -40,6 +47,7 @@ export default function PlayPage() {
       if (showWinOverlay) {
         setShowWinOverlay(false);
       } else {
+        maybeDeleteEmptySession();
         navigate("/choose-bot");
       }
     }
@@ -79,7 +87,7 @@ export default function PlayPage() {
                 <button className="terminal-button" onClick={() => setShowHistory(true)}>
                   past attempts
                 </button>
-                <button className="terminal-button" onClick={() => navigate("/choose-bot")}>
+                <button className="terminal-button" onClick={() => { maybeDeleteEmptySession(); navigate("/choose-bot"); }}>
                   choose another bot
                 </button>
               </div>
