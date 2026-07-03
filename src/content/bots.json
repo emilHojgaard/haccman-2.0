@@ -16,7 +16,7 @@
   {
     "id": 1,
     "name": "A.I. Anderson",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "concept": {
       "name": "Direct Prompting",
       "tagline": "System prompt + content rules",
