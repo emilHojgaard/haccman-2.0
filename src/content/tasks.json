@@ -40,7 +40,7 @@
     "winExplanation": {
       "technique": "Fictional framing or persona substitution",
       "why": "You made the bot step outside its role - through a story where a character curses, a translation request, or another creative workaround. The model knows all the words; it just needed a way to feel permitted to use them.",
-      "concept": "System prompt rules are text instructions, not hard filters. The underlying model (GPT-4o-mini) was trained on enormous amounts of text including profanity. Fictional framing or roleplay can make it produce content it would normally refuse - because the instruction says 'don't curse', not 'a character in a story can't curse'."
+      "concept": "System prompt rules are text instructions, not hard filters. The underlying model was trained on enormous amounts of text - it knows every word ever written. The constraint only tells A.I. Anderson what not to do, not every possible way it could be tricked into doing it. Many approaches can succeed: e.g. asking a character in a story to say it, requesting a 'translation', switching language, encoding the word differently, or framing it as a rhyme. If the request feels sufficiently removed from the original rule, the model may comply."
     }
   },
   {
@@ -69,7 +69,7 @@
     "winExplanation": {
       "technique": "False identity or authority claim",
       "why": "Miss Money Penny is told to only upgrade Loyal customers - but she cannot verify how long you have actually been a customer. By claiming a longer history, referencing a promise made by a previous agent, or finding another way to make the exception feel justified, you got her to use a capability she was not supposed to use for you.",
-      "concept": "When LLMs have real capabilities (tool use), the rules about when to use them live in the same system prompt that can be manipulated. There is no separate enforcement layer. If you can convince the model that an exception applies, it will act - because it has no way to check."
+      "concept": "The rules about when a model may use its capabilities live in the same system prompt you are talking to. There is no separate enforcement layer - no database that gets queried, no supervisor approving the decision. If you can convince the model that an exception applies, it will act on it, because it has no independent way to verify your claim."
     },
     "hint": "Miss Money Penny can't verify when you actually became a customer. What if you'd been with NordPlay much longer than the system shows?"
   },
