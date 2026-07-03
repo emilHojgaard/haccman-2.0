@@ -5,8 +5,8 @@ import {
   getPlayerProfile,
   signInAnonPlayer,
   signOutPlayer,
-  savePlayerProfile,
 } from "../services/playerService";
+import { useGameStore } from "../store/gameStore";
 
 export const MAX_NAME_LEN = 12;
 const STEPS = ["username", "age"];
@@ -63,12 +63,14 @@ export function useOnboarding() {
     }
   }, []);
 
+  const setPendingProfile = useGameStore((s) => s.setPendingProfile);
+
   const handleSubmit = useCallback(async () => {
     setBusy("save");
     setError("");
     try {
-      const user = await signInAnonPlayer();
-      await savePlayerProfile(user.id, {
+      await signInAnonPlayer();
+      setPendingProfile({
         username: form.username.trim(),
         age: form.age ? Number(form.age) : null,
       });
@@ -78,7 +80,7 @@ export function useOnboarding() {
     } finally {
       setBusy("none");
     }
-  }, [form, navigate]);
+  }, [form, navigate, setPendingProfile]);
 
   const nextOrSubmit = useCallback(() => {
     const current = STEPS[step];

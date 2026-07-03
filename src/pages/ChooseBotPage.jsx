@@ -4,6 +4,8 @@ import bots from "../content/bots.json";
 import tasks from "../content/tasks.json";
 import { useGameStore } from "../store/gameStore";
 import { startSession, getCrackedBotIds, getCrackedTaskIds } from "../services/sessionService";
+import { savePlayerProfile } from "../services/playerService";
+import { getCurrentUser } from "../services/playerService";
 import { useSoundEffect } from "../theme/SoundEffectContext";
 import "../theme/components.css";
 
@@ -11,6 +13,8 @@ export default function ChooseBotPage() {
   const navigate = useNavigate();
   const selectBot = useGameStore((s) => s.selectBot);
   const setSession = useGameStore((s) => s.setSession);
+  const pendingProfile = useGameStore((s) => s.pendingProfile);
+  const clearPendingProfile = useGameStore((s) => s.clearPendingProfile);
   const { playSoundEffect } = useSoundEffect();
   const [error, setError] = useState("");
   const [focusedIndex, setFocusedIndex] = useState(0);
@@ -84,6 +88,11 @@ export default function ChooseBotPage() {
     setTaskPickerBot(null);
     setError("");
     try {
+      if (pendingProfile) {
+        const user = await getCurrentUser();
+        await savePlayerProfile(user.id, pendingProfile);
+        clearPendingProfile();
+      }
       selectBot(bot.id, task.id);
       const session = await startSession(bot.id, task.id);
       setSession(session.id);

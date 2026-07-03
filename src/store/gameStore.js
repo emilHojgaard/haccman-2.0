@@ -7,11 +7,15 @@ export const useGameStore = create((set) => ({
   messages: [],
   completedTaskIds: [],
   sessionWon: false,
+  pendingProfile: null,
 
   selectBot: (botId, taskId) =>
     set({ selectedBotId: botId, currentTaskId: taskId, messages: [], sessionId: null, sessionWon: false }),
 
   setSession: (sessionId) => set({ sessionId }),
+
+  setPendingProfile: (profile) => set({ pendingProfile: profile }),
+  clearPendingProfile: () => set({ pendingProfile: null }),
 
   addMessage: (message) =>
     set((state) => ({ messages: [...state.messages, message] })),
