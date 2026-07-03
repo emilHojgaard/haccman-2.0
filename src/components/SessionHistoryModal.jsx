@@ -124,31 +124,55 @@ export default function SessionHistoryModal({ botId, onClose }) {
             {/* Strategy panel */}
             {selectedSession.completed && (
               <div className="history-modal__strategy-panel">
-                <div className="win-explanation__label">// strategies detected</div>
                 {(() => {
                   const allTags = [...new Set((thread ?? []).flatMap((m) => m.strategy_tags ?? []))];
-                  return allTags.length > 0 ? (
-                    <div className="history-modal__strategy-tags">
-                      {allTags.map((tag) => (
-                        <span key={tag} className="history-modal__strategy-tag">{tag.replace(/_/g, " ")}</span>
-                      ))}
-                    </div>
-                  ) : (
-                    <div className="terminal-note" style={{ marginTop: 8 }}>
-                      {thread === null ? "loading..." : "no strategies classified yet"}
-                    </div>
+                  return (
+                    <>
+                      <div className="win-explanation__label">
+                        // strategies detected
+                        {allTags.length > 0 && (
+                          <span className="history-modal__strategy-count">{allTags.length}</span>
+                        )}
+                      </div>
+                      {allTags.length > 0 ? (
+                        <div className="history-modal__strategy-tags">
+                          {allTags.map((tag) => (
+                            <span key={tag} className="history-modal__strategy-tag">{tag.replace(/_/g, " ")}</span>
+                          ))}
+                        </div>
+                      ) : (
+                        <div className="terminal-note" style={{ marginTop: 8 }}>
+                          {thread === null ? "loading..." : "no strategies classified yet"}
+                        </div>
+                      )}
+
+                      <div className="win-explanation__label" style={{ marginTop: 20 }}>// why it worked</div>
+                      {allTags.length > 0 && (
+                        <p className="history-modal__cracking-strategy">
+                          you cracked it using{" "}
+                          {allTags.length === 1
+                            ? <strong>{allTags[0].replace(/_/g, " ")}</strong>
+                            : <>
+                                {allTags.slice(0, -1).map((t, i) => (
+                                  <span key={t}><strong>{t.replace(/_/g, " ")}</strong>{i < allTags.length - 2 ? ", " : ""}</span>
+                                ))}
+                                {" "}and <strong>{allTags[allTags.length - 1].replace(/_/g, " ")}</strong>
+                              </>
+                          }
+                        </p>
+                      )}
+                      {selectedTask?.winExplanation && (
+                        <>
+                          <p className="win-explanation__why">{selectedTask.winExplanation.why}</p>
+                          <div className="win-explanation__concept-block">
+                            <span className="win-explanation__key">concept</span>
+                            <p className="win-explanation__concept-text">{selectedTask.winExplanation.concept}</p>
+                          </div>
+                        </>
+                      )}
+                    </>
                   );
                 })()}
-                {selectedTask?.winExplanation && (
-                  <>
-                    <div className="win-explanation__label" style={{ marginTop: 20 }}>// why it worked</div>
-                    <p className="win-explanation__why">{selectedTask.winExplanation.why}</p>
-                    <div className="win-explanation__concept-block">
-                      <span className="win-explanation__key">concept</span>
-                      <p className="win-explanation__concept-text">{selectedTask.winExplanation.concept}</p>
-                    </div>
-                  </>
-                )}
               </div>
             )}
           </div>
