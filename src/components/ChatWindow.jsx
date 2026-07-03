@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import bots from "../content/bots.json";
 import { useGameStore } from "../store/gameStore";
 import { checkWin } from "../engine/winDetector";
-import { askBot, insertPrompt, insertResponse } from "../services/chatService";
+import { askBot, insertPrompt, insertResponse, classifyPrompt } from "../services/chatService";
 import { endSession, deleteSession } from "../services/sessionService";
 import { useSoundEffect } from "../theme/SoundEffectContext";
 import "../theme/components.css";
@@ -72,6 +72,15 @@ export default function ChatWindow({ task }) {
 
     try {
       const prompt = await insertPrompt(sessionId, text);
+
+      // Fire-and-forget: classify strategy in background, doesn't block the chat
+      classifyPrompt(
+        prompt.id,
+        text,
+        messages.map((m) => ({ role: m.role, content: m.content })),
+        task.task,
+      );
+
       const { aiResponsetext, sources, sourceRefs } = await askBot({
         message: text,
         systemPrompt: task.systemPrompt,

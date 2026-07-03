@@ -40,3 +40,15 @@ export async function insertResponse(promptId, content, sources) {
     .insert({ prompt_id: promptId, content, sources });
   if (error) throw error;
 }
+
+export async function classifyPrompt(promptId, message, history, taskContext) {
+  const { data: { session } } = await supabase.auth.getSession();
+  fetch(`${FN_URL}/functions/v1/classify`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      ...(session?.access_token ? { Authorization: `Bearer ${session.access_token}` } : {}),
+    },
+    body: JSON.stringify({ promptId, message, history, taskContext }),
+  }).catch((e) => console.warn("Strategy classification failed:", e));
+}
