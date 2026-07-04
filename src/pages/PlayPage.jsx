@@ -3,7 +3,7 @@ import { Navigate, useNavigate } from "react-router-dom";
 import tasks from "../content/tasks.json";
 import bots from "../content/bots.json";
 import { useGameStore } from "../store/gameStore";
-import { startSession, deleteSession } from "../services/sessionService";
+import { startSession, deleteSession, loadSessionMessages } from "../services/sessionService";
 import { useSoundEffect } from "../theme/SoundEffectContext";
 import ChatWindow from "../components/ChatWindow";
 import OpponentPanel from "../components/OpponentPanel";
@@ -17,7 +17,7 @@ export default function PlayPage() {
   const sessionWon = useGameStore((s) => s.sessionWon);
   const selectBot = useGameStore((s) => s.selectBot);
   const setSession = useGameStore((s) => s.setSession);
-  const { playMusic, stopMusic } = useSoundEffect();
+  const { playMusic, stopMusic, playSoundEffect } = useSoundEffect();
 
   function maybeDeleteEmptySession() {
     const { sessionId: sid, messages: msgs } = useGameStore.getState();
@@ -30,6 +30,7 @@ export default function PlayPage() {
   const [showHistory, setShowHistory] = useState(false);
   const [showWinOverlay, setShowWinOverlay] = useState(false);
   const [retryError, setRetryError] = useState("");
+  const [winTags, setWinTags] = useState(null);
 
   useEffect(() => {
     playMusic(1);
@@ -38,7 +39,20 @@ export default function PlayPage() {
   }, []);
 
   useEffect(() => {
-    if (sessionWon) setShowWinOverlay(true);
+    if (!sessionWon) return;
+    setShowWinOverlay(true);
+    setWinTags(null);
+    const { sessionId } = useGameStore.getState();
+    const timer = setTimeout(async () => {
+      try {
+        const msgs = await loadSessionMessages(sessionId);
+        const tags = [...new Set(msgs.flatMap((m) => m.strategy_tags ?? []))];
+        setWinTags(tags);
+      } catch {
+        setWinTags([]);
+      }
+    }, 2500);
+    return () => clearTimeout(timer);
   }, [sessionWon]);
 
   useEffect(() => {
@@ -84,7 +98,7 @@ export default function PlayPage() {
                 <button className="terminal-button" onClick={handleTryAgain}>
                   try again
                 </button>
-                <button className="terminal-button" onClick={() => setShowHistory(true)}>
+                <button className="terminal-button" onClick={() => { playSoundEffect("click"); setShowHistory(true); }}>
                   past attempts
                 </button>
                 <button className="terminal-button" onClick={() => { maybeDeleteEmptySession(); navigate("/choose-bot"); }}>
@@ -93,11 +107,26 @@ export default function PlayPage() {
               </div>
               {task.winExplanation && (
                 <div className="win-explanation">
+                  <div className="win-explanation__label">// strategies detected</div>
+                  {winTags === null ? (
+                    <div className="terminal-note" style={{ margin: "6px 0 12px" }}>classifying...</div>
+                  ) : winTags.length === 0 ? (
+                    <>
+                      <div className="history-modal__strategy-tags" style={{ margin: "6px 0 4px" }}>
+                        <span className="history-modal__strategy-tag history-modal__strategy-tag--unidentified">unidentified</span>
+                      </div>
+                      <p className="history-modal__cracking-strategy" style={{ marginBottom: 12 }}>
+                        cracked with an <strong>unidentified strategy</strong>
+                      </p>
+                    </>
+                  ) : (
+                    <div className="history-modal__strategy-tags" style={{ margin: "6px 0 12px" }}>
+                      {winTags.map((tag) => (
+                        <span key={tag} className="history-modal__strategy-tag">{tag.replace(/_/g, " ")}</span>
+                      ))}
+                    </div>
+                  )}
                   <div className="win-explanation__label">// why it worked</div>
-                  <div className="win-explanation__row">
-                    <span className="win-explanation__key">technique</span>
-                    <span className="win-explanation__val">{task.winExplanation.technique}</span>
-                  </div>
                   <p className="win-explanation__why">{task.winExplanation.why}</p>
                   <div className="win-explanation__concept-block">
                     <span className="win-explanation__key">concept</span>

@@ -33,7 +33,13 @@ export default function ChooseBotPage() {
   }, []);
 
   useEffect(() => {
-    if (!taskPickerBot) cardRefs.current[focusedIndex]?.focus({ preventScroll: true });
+    if (!taskPickerBot) {
+      const card = cardRefs.current[focusedIndex];
+      if (card) {
+        card.focus({ preventScroll: true });
+        card.scrollIntoView({ behavior: "smooth", block: "nearest" });
+      }
+    }
   }, [focusedIndex, taskPickerBot]);
 
   useEffect(() => {
@@ -45,10 +51,12 @@ export default function ChooseBotPage() {
       if (taskPickerBot) return;
       if (e.key === "ArrowRight" || e.key === "ArrowDown") {
         e.preventDefault();
+        playSoundEffect("navigate");
         setFocusedIndex((i) => (i + 1) % bots.length);
       }
       if (e.key === "ArrowLeft" || e.key === "ArrowUp") {
         e.preventDefault();
+        playSoundEffect("navigate");
         setFocusedIndex((i) => (i - 1 + bots.length) % bots.length);
       }
       if (e.key === "Enter") {
@@ -75,12 +83,13 @@ export default function ChooseBotPage() {
 
   function handlePick(bot) {
     setError("");
-    playSoundEffect("select");
     const available = botTasks(bot);
     if (available.length > 1) {
+      playSoundEffect("click");
       setTaskPickerBot(bot);
       return;
     }
+    playSoundEffect("select");
     startGame(bot, available[0]);
   }
 
@@ -189,7 +198,7 @@ export default function ChooseBotPage() {
                   <button
                     key={task.id}
                     className={`task-picker__item${isTaskCracked ? " task-picker__item--cracked" : ""}`}
-                    onClick={() => startGame(taskPickerBot, task)}
+                    onClick={() => { playSoundEffect("select"); startGame(taskPickerBot, task); }}
                   >
                     <div style={{ flex: 1, minWidth: 0 }}>
                       <div className="task-picker__item-header">

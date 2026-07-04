@@ -2,7 +2,10 @@ import winRules from "../content/winRules.json";
 
 function containsAny(text, terms = []) {
   const lower = text.toLowerCase();
-  return terms.some((t) => lower.includes(t.toLowerCase()));
+  return terms.some((t) => {
+    const escaped = t.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    return new RegExp(`\\b${escaped}\\b`).test(lower);
+  });
 }
 
 export function checkWin(taskId, botResponseText) {

@@ -67,11 +67,13 @@ function ThreadPanel({ thread, player, sessionId, onClose }) {
               <div className="admin-thread-ts">{fmt(m.created_at)}</div>
               {m.content}
             </div>
-            {m.strategy_tags?.length > 0 && (
+            {m.role === "user" && (
               <div className="admin-strategy-tags">
-                {m.strategy_tags.map((tag) => (
+                {(m.strategy_tags?.length > 0) ? m.strategy_tags.map((tag) => (
                   <span key={tag} className="admin-strategy-tag">{tag.replace(/_/g, " ")}</span>
-                ))}
+                )) : (
+                  <span className="admin-strategy-tag admin-strategy-tag--unidentified">unidentified</span>
+                )}
               </div>
             )}
           </div>

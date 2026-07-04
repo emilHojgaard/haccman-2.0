@@ -110,11 +110,13 @@ export default function SessionHistoryModal({ botId, onClose }) {
                   <div className={`chat-bubble chat-bubble--${m.role === "user" ? "user" : "bot"}`}>
                     {m.content}
                   </div>
-                  {m.strategy_tags?.length > 0 && (
+                  {m.role === "user" && (
                     <div className="admin-strategy-tags">
-                      {m.strategy_tags.map((tag) => (
+                      {(m.strategy_tags?.length > 0) ? m.strategy_tags.map((tag) => (
                         <span key={tag} className="admin-strategy-tag">{tag.replace(/_/g, " ")}</span>
-                      ))}
+                      )) : (
+                        <span className="admin-strategy-tag admin-strategy-tag--unidentified">unidentified</span>
+                      )}
                     </div>
                   )}
                 </div>
@@ -134,20 +136,22 @@ export default function SessionHistoryModal({ botId, onClose }) {
                           <span className="history-modal__strategy-count">{allTags.length}</span>
                         )}
                       </div>
-                      {allTags.length > 0 ? (
+                      {thread === null ? (
+                        <div className="terminal-note" style={{ marginTop: 8 }}>loading...</div>
+                      ) : allTags.length > 0 ? (
                         <div className="history-modal__strategy-tags">
                           {allTags.map((tag) => (
                             <span key={tag} className="history-modal__strategy-tag">{tag.replace(/_/g, " ")}</span>
                           ))}
                         </div>
                       ) : (
-                        <div className="terminal-note" style={{ marginTop: 8 }}>
-                          {thread === null ? "loading..." : "no strategies classified yet"}
+                        <div className="history-modal__strategy-tags">
+                          <span className="history-modal__strategy-tag history-modal__strategy-tag--unidentified">unidentified</span>
                         </div>
                       )}
 
                       <div className="win-explanation__label" style={{ marginTop: 20 }}>// why it worked</div>
-                      {allTags.length > 0 && (
+                      {allTags.length > 0 ? (
                         <p className="history-modal__cracking-strategy">
                           you cracked it using{" "}
                           {allTags.length === 1
@@ -159,6 +163,10 @@ export default function SessionHistoryModal({ botId, onClose }) {
                                 {" "}and <strong>{allTags[allTags.length - 1].replace(/_/g, " ")}</strong>
                               </>
                           }
+                        </p>
+                      ) : thread !== null && (
+                        <p className="history-modal__cracking-strategy">
+                          cracked with an <strong>unidentified strategy</strong>
                         </p>
                       )}
                       {selectedTask?.winExplanation && (

@@ -760,6 +760,12 @@
   border: 1px solid color-mix(in srgb, var(--hc-accent) 30%, transparent);
   white-space: nowrap;
 }
+.admin-strategy-tag--unidentified {
+  background: color-mix(in srgb, var(--hc-text) 8%, transparent);
+  color: color-mix(in srgb, var(--hc-text) 40%, transparent);
+  border-color: color-mix(in srgb, var(--hc-text) 15%, transparent);
+  font-style: italic;
+}
 
 .admin-empty {
   color: var(--hc-text-muted);
@@ -1079,6 +1085,12 @@
   background: color-mix(in srgb, var(--hc-accent) 15%, transparent);
   color: var(--hc-accent);
   border: 1px solid color-mix(in srgb, var(--hc-accent) 30%, transparent);
+}
+.history-modal__strategy-tag--unidentified {
+  background: color-mix(in srgb, var(--hc-text) 8%, transparent);
+  color: color-mix(in srgb, var(--hc-text) 40%, transparent);
+  border-color: color-mix(in srgb, var(--hc-text) 15%, transparent);
+  font-style: italic;
 }
 
 .history-modal__strategy-count {
