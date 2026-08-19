@@ -34,6 +34,7 @@ _Last updated: 2026-08-19_
 | Embed RAG documents | `rag/`      | `rag/CONTEXT.md`      |
 | Run eval harness    | `scripts/`  | `scripts/CONTEXT.md`  |
 | Track ongoing work  | root        | `TASKS.md`            |
+| Set up/run the app  | root        | `README.md`           |
 
 ## Naming conventions
 
