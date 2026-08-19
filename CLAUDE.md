@@ -1,21 +1,52 @@
-# Only task right now!!
+# HACKY (Haccman 2.0)
 
-Read this file and let me know, that you see it.
+Arcade game for jailbreaking LLMs — players chat with bots and try to get
+each one to break its own rules (leak data, ignore a policy, etc.).
 
-SAY: " hulla bulla"
+## Staying Current
 
-# HACKY (Haccmann2.0)
+_Last updated: 2026-08-19_
 
-React 18 + Express + PostgreSQL + TypeScript
+- After a structural change (workspace added/removed, stack/commands changed), recheck this file — if stale, flag the fix as needed (not optional) and wait for approval before editing.
 
-## Commands
+## Tech Stack
 
-[We need to fill in these together]
+- Frontend: React 19 + Vite (`.jsx`, not TS)
+- State: Zustand
+- Backend: Supabase (Postgres + Auth + Deno edge functions)
+- Attacker/embeddings: OpenAI
+- Deploy: not yet decided
+- Commands: `npm run dev` / `build` / `lint`
 
-## Conventions
+## Workspaces
 
-[We need to fill in these together]
+- `src/` — the game: content/engine/services/store/UI
+- `supabase/` — backend: migrations, edge functions
+- `rag/` — document corpus + embedding scripts
+- `scripts/` — LLM-vs-LLM eval harness
+
+## Routing
+
+| Task                | Go to       | Read                  |
+| ------------------- | ----------- | --------------------- |
+| Run game code       | `src/`      | `src/CONTEXT.md`      |
+| Ship backend code   | `supabase/` | `supabase/CONTEXT.md` |
+| Embed RAG documents | `rag/`      | `rag/CONTEXT.md`      |
+| Run eval harness    | `scripts/`  | `scripts/CONTEXT.md`  |
+| Track ongoing work  | root        | `TASKS.md`            |
+
+## Naming conventions
+
+- Content ids: `id`/`botId`/`taskId` matched across `bots.json`/`tasks.json`/`winRules.json`
+- Migrations: `NNNN_description.sql`
+- Eval results: `run_<timestamp>_..._x<variations>.json` (auto-named by `test-bots.js`)
 
 ## Avoid
 
-[We need to fill in these together]
+- No Supabase calls outside `src/services/`.
+- Don't edit an already-applied migration.
+- Don't touch `.env` files.
+
+## Rules for Claude
+
+Behavioral rules live here or in the relevant `CONTEXT.md` — never in Claude's private memory.
