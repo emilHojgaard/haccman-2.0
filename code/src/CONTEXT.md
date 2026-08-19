@@ -6,7 +6,7 @@ This is HACKY itself — the React/Vite frontend players interact with.
 
 _Last updated: 2026-08-19_
 
-Policy: see root [CLAUDE.md § Staying Current](../CLAUDE.md#staying-current).
+Policy: see root [CLAUDE.md § Staying Current](../../CLAUDE.md#staying-current).
 
 ## What lives here
 

@@ -23,4 +23,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-supabase/.temp
+code/supabase/.temp
+
+# Local-only tracking doc, not shared
+TASKS.md

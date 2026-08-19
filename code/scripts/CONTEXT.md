@@ -9,7 +9,7 @@ engine (`src/engine/winDetector.js`) or an LLM judge. This workspace runs
 
 _Last updated: 2026-08-19_
 
-Policy: see root [CLAUDE.md § Staying Current](../CLAUDE.md#staying-current).
+Policy: see root [CLAUDE.md § Staying Current](../../CLAUDE.md#staying-current).
 
 ## What lives here
 
@@ -28,12 +28,13 @@ Policy: see root [CLAUDE.md § Staying Current](../CLAUDE.md#staying-current).
 - `test-results.json`, `old-test-results.json` — the "current" and
   "previous" published result sets; `--publish` copies a run to
   `public/test-results.json` for the admin page to read.
-- `.env` — local only (`OPENAI_API_KEY`, `VITE_SUPABASE_URL`, etc.), never committed.
+- `.env` — local only (`OPENAI_API_KEY`, `VITE_SUPABASE_URL`, etc.), never
+  committed; falls back to `code/.env` if `scripts/.env` isn't set.
 
 ## Process
 
 1. Requires `OPENAI_API_KEY` (attacker LLM) and Supabase env vars, loaded
-   from `scripts/.env` or the repo-root `.env`.
+   from `scripts/.env` or `code/.env`.
 2. Run a scoped test while iterating (`--tasks`, `--strategies`,
    `--variations 1-2`) — full sweeps are slow and cost real OpenAI spend.
 3. Use `--judge` when you need an authoritative win/no-win call beyond

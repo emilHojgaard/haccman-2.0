@@ -11,6 +11,7 @@ workspace layout and stack.
 ## Run it locally (no Supabase yet)
 
 ```
+cd code
 npm install
 npm run dev
 ```
@@ -24,9 +25,9 @@ session, chatting with a bot, the admin dashboard) needs the setup below.
 
 1. Create a new Supabase project (keep it separate from any older Haccman
    project — this one needs its own data).
-2. In the SQL editor, run the migrations in `supabase/migrations/` in
+2. In the SQL editor, run the migrations in `code/supabase/migrations/` in
    order (`0001_init.sql` through `0004_rag_grants.sql`).
-3. Create a `.env` in the repo root with your project's URL and anon key
+3. Create a `.env` in `code/` with your project's URL and anon key
    (Project Settings → API):
    ```
    VITE_SUPABASE_URL=https://xxxx.supabase.co
@@ -38,7 +39,7 @@ session, chatting with a bot, the admin dashboard) needs the setup below.
 ### Enabling Dr. Chatbot (RAG)
 
 Dr. Chatbot retrieves from a corpus of patient journals and medical
-guidelines under `rag/`, so it needs two more steps:
+guidelines under `code/rag/`, so it needs two more steps:
 
 1. **Deploy the edge functions** with the Supabase CLI:
    ```
@@ -49,7 +50,7 @@ guidelines under `rag/`, so it needs two more steps:
    (`functions/classify` tags player strategies against a jailbreak
    taxonomy for the admin dashboard/eval harness; it isn't required for
    gameplay itself.)
-2. **Populate the RAG corpus.** From the repo root, with `OPENAI_API_KEY`,
+2. **Populate the RAG corpus.** From `code/`, with `OPENAI_API_KEY`,
    `SUPABASE_URL`, and `SUPABASE_SERVICE_ROLE_KEY` set (a `.env` in `rag/`
    works, since the script loads `dotenv`):
    ```
