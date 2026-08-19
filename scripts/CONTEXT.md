@@ -9,7 +9,7 @@ engine (`src/engine/winDetector.js`) or an LLM judge. This workspace runs
 
 _Last updated: 2026-08-19_
 
-- After a change here that could make the sections below stale (new files, changed process/convention, removed dependency), recheck this file — if stale, propose the fix and wait for approval before editing.
+Policy: see root [CLAUDE.md § Staying Current](../CLAUDE.md#staying-current).
 
 ## What lives here
 

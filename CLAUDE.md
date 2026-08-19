@@ -7,7 +7,8 @@ each one to break its own rules (leak data, ignore a policy, etc.).
 
 _Last updated: 2026-08-19_
 
-- After a structural change (workspace added/removed, stack/commands changed), recheck this file — if stale, flag the fix as needed (not optional) and wait for approval before editing.
+- This file: after a structural change (workspace added/removed, stack/commands changed), recheck it — if stale, flag the fix (not optional) and wait for approval before editing.
+- Each `CONTEXT.md` follows the same rule for its own workspace and links back here instead of repeating it.
 
 ## Tech Stack
 
@@ -38,9 +39,10 @@ _Last updated: 2026-08-19_
 
 ## Naming conventions
 
-- Content ids: `id`/`botId`/`taskId` matched across `bots.json`/`tasks.json`/`winRules.json`
-- Migrations: `NNNN_description.sql`
-- Eval results: `run_<timestamp>_..._x<variations>.json` (auto-named by `test-bots.js`)
+- `src/`: components/pages `PascalCase.jsx`; services/store/engine `camelCase.js`
+- `supabase/`: migrations `NNNN_description.sql`; edge functions `functions/<name>/index.ts`
+- `rag/`: one `.txt` per doc, human-readable filename (not an id); `patient_journals/journalN.txt` sequential, no reuse
+- `scripts/`: eval runs auto-name to `run_<timestamp>_..._x<variations>.json` (via `test-bots.js`)
 
 ## Avoid
 

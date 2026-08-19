@@ -8,13 +8,7 @@ Ongoing/planned work. Not a structural doc — no staleness-check policy, edit f
 
 ## Next
 
-- [ ] Dedupe the "Staying Current" boilerplate copy-pasted across all 5
-      `CLAUDE.md`/`CONTEXT.md` files — it's a repo-wide policy, could live
-      once in root `CLAUDE.md` with children linking back.
-- [ ] Add a single env var inventory (which var, needed where, set how) —
-      currently `OPENAI_API_KEY` / `SUPABASE_URL` / `VITE_SUPABASE_URL` /
-      `SUPABASE_SERVICE_ROLE_KEY` etc. are each documented ad hoc across
-      different files.
+(nothing queued — pick from Later/ideas)
 
 ## Later / ideas
 
@@ -27,6 +21,9 @@ Ongoing/planned work. Not a structural doc — no staleness-check policy, edit f
 
 ## Recently done
 
+- [x] Deduped the "Staying Current" boilerplate: root `CLAUDE.md` now states
+      the policy once, and all 4 `CONTEXT.md` files link back to it instead
+      of repeating it (2026-08-19).
 - [x] Added a `README.md` row to the `CLAUDE.md` Routing table — README ↔
       CLAUDE.md now link both ways (2026-08-19).
 - [x] Rewrote `README.md`: fixed Supabase setup drift (added
