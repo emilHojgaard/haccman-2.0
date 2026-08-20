@@ -13,15 +13,15 @@ Policy: see root [CLAUDE.md § Staying Current](../CLAUDE.md#staying-current).
 
 ## What lives here
 
-Not populated yet. Intended layout:
-
-- `architecture/` — system-level design docs. First candidate: a
-  chat-message data-flow note (PlayPage → `chatService` → `functions/ai`
-  edge function → OpenAI → back) — currently only reconstructable by
-  reading `code/src/CONTEXT.md` + `code/supabase/CONTEXT.md`; see `TASKS.md`.
-- `decisions/` — short dated ADRs ("we chose X over Y, because Z")
+- `architecture/` — system-level design docs.
+  [`chat-message-flow.md`](architecture/chat-message-flow.md) traces a
+  player message: `ChatWindow` → `chatService` → `functions/ai` edge
+  function → OpenAI → back.
+- `decisions/` — short dated ADRs ("we chose X over Y, because Z"). Not
+  populated yet — first candidate is the deploy-target choice, once made
+  (see `TASKS.md`).
 - `specs/` — feature specs written ahead of implementation, if/when that
-  becomes the workflow
+  becomes the workflow. Not populated yet.
 
 ## Avoid
 

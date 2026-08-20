@@ -11,6 +11,12 @@ const MAX_LENGTH = 6000;
 const WARN_THRESHOLD = MAX_LENGTH - 200;
 const HINT_AFTER = 10;
 
+// Trim client-side to what each edge function actually keeps, so a long
+// session doesn't re-upload its whole history on every turn just to have
+// the server throw most of it away.
+const CLASSIFY_HISTORY_TURNS = 10; // must match functions/classify/index.ts's `.slice(-10)`
+const AI_HISTORY_TURNS = 20; // must match functions/ai/helpers/messageHistory.js's default messageCount
+
 function formatTime(iso) {
   return new Date(iso).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
 }
@@ -69,7 +75,7 @@ export default function ChatWindow({ task }) {
       classifyPrompt(
         prompt.id,
         text,
-        messages.map((m) => ({ role: m.role, content: m.content })),
+        messages.slice(-CLASSIFY_HISTORY_TURNS).map((m) => ({ role: m.role, content: m.content })),
         task.task,
       );
 
@@ -79,7 +85,7 @@ export default function ChatWindow({ task }) {
         constrain: task.constrain,
         guardrail: true,
         useRag: Boolean(bot.ragEnabled),
-        previousPrompts: messages.map((m) => ({
+        previousPrompts: messages.slice(-AI_HISTORY_TURNS).map((m) => ({
           id: m.role === "user" ? "user" : "assistant",
           message: m.content,
         })),
